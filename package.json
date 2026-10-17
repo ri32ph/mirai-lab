@@ -1,0 +1,16 @@
+{
+  "name": "mirai-lab",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:articles": "node scripts/build-articles.mjs",
+    "check:articles": "python3 scripts/check-articles.py",
+    "check:render": "node scripts/check-render.mjs"
+  },
+  "devDependencies": {
+    "marked": "17.0.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

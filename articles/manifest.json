@@ -1,0 +1,886 @@
+[
+  {
+    "id": "s01-01",
+    "section": 1,
+    "order": 1,
+    "title": "子どもの粉薬、どうやって飲ませる？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "01_fun-yaku.md",
+    "sha256": "0d5cbcdd45a259fdf4c24c14e2a52afbfd9c068e668373050037ff71bf17c77d",
+    "original": "review/originals/section-01/01.md",
+    "markdown": "repository/articles/section-01/01.md",
+    "url": "content/children-medicine/section-01/01.html",
+    "related": [
+      "s01-04",
+      "s01-06",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-02",
+    "section": 1,
+    "order": 2,
+    "title": "子どものシロップ薬、どうやって飲ませる？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "02_syrup.md",
+    "sha256": "c8f389c168cce95c970c2d38e4abf8c88084cc06566779d49fbe3ee34d5a1649",
+    "original": "review/originals/section-01/02.md",
+    "markdown": "repository/articles/section-01/02.md",
+    "url": "content/children-medicine/section-01/02.html",
+    "related": [
+      "s01-06",
+      "s02-03",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-03",
+    "section": 1,
+    "order": 3,
+    "title": "子どもの錠剤・カプセル、どうやって飲ませる？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "03_tablet_capsule.md",
+    "sha256": "d2289ef70765f2402cbc56082b7f74821194ed124ef8437bc554c5cd22edf072",
+    "original": "review/originals/section-01/03.md",
+    "markdown": "repository/articles/section-01/03.md",
+    "url": "content/children-medicine/section-01/03.html",
+    "related": [
+      "s01-06",
+      "s06-01",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-04",
+    "section": 1,
+    "order": 4,
+    "title": "子どもの薬、食べ物に混ぜてもいい？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "04_food.md",
+    "sha256": "3dde1262008c1aeee848ecaa3df4f20907ed1ac4dfe28d80c27d4967f74cc188",
+    "original": "review/originals/section-01/04.md",
+    "markdown": "repository/articles/section-01/04.md",
+    "url": "content/children-medicine/section-01/04.html",
+    "related": [
+      "s01-01",
+      "s01-05",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-05",
+    "section": 1,
+    "order": 5,
+    "title": "子どもの薬が苦い！ 飲みやすくする工夫",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "05_bitterness.md",
+    "sha256": "5d0fece5a6cd81b3b61ab34e6a5cfe497f7d1ec4df02c3bb217dc1e919d989b4",
+    "original": "review/originals/section-01/05.md",
+    "markdown": "repository/articles/section-01/05.md",
+    "url": "content/children-medicine/section-01/05.html",
+    "related": [
+      "s01-04",
+      "s07-01",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-06",
+    "section": 1,
+    "order": 6,
+    "title": "子どもの服薬補助具、どう使えばいい？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "06_aids.md",
+    "sha256": "5301e66d850416f58a38a5f3d0b4e01b88257a6ab6c31d82c312338ed9cd22ae",
+    "original": "review/originals/section-01/06.md",
+    "markdown": "repository/articles/section-01/06.md",
+    "url": "content/children-medicine/section-01/06.html",
+    "related": [
+      "s01-02",
+      "s01-04",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-07",
+    "section": 1,
+    "order": 7,
+    "title": "子どもの坐薬、どうやって使う？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "07_suppository.md",
+    "sha256": "8351a611d15c15114b63c5b1caed4899271d28ea5e0eb2300b395c23030d7691",
+    "original": "review/originals/section-01/07.md",
+    "markdown": "repository/articles/section-01/07.md",
+    "url": "content/children-medicine/section-01/07.html",
+    "related": [
+      "s03-01",
+      "s02-05",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s01-08",
+    "section": 1,
+    "order": 8,
+    "title": "子どもの目薬、どうやってさす？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "08_eye_drops.md",
+    "sha256": "10d3c4afa35bea70a4d5b8731ff961ac1d9563c83c8efa1b2cbeb12872ffa56c",
+    "original": "review/originals/section-01/08.md",
+    "markdown": "repository/articles/section-01/08.md",
+    "url": "content/children-medicine/section-01/08.html",
+    "related": [
+      "s08-02",
+      "s02-04",
+      "s04-01"
+    ]
+  },
+  {
+    "id": "s01-09",
+    "section": 1,
+    "order": 9,
+    "title": "子どもの塗り薬、どのくらい塗ればいい？",
+    "source_zip": "kodomo_medicine_9articles_codex.zip",
+    "source_entry": "09_topical.md",
+    "sha256": "8de68db933a2d2949d520238f6d589c8330a407a791c8379b50aed3ee0a4da0c",
+    "original": "review/originals/section-01/09.md",
+    "markdown": "repository/articles/section-01/09.md",
+    "url": "content/children-medicine/section-01/09.html",
+    "related": [
+      "s04-01",
+      "s08-02",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s02-01",
+    "section": 2,
+    "order": 1,
+    "title": "子どもの薬を飲み忘れた！どうすればいい？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/01_missed_dose.md",
+    "sha256": "67264ba86f1b67122ab249166ca14002a356960a34192035968bfb41fa878763",
+    "original": "review/originals/section-02/01.md",
+    "markdown": "repository/articles/section-02/01.md",
+    "url": "content/children-medicine/section-02/01.html",
+    "related": [
+      "s06-04",
+      "s07-03",
+      "s08-01"
+    ]
+  },
+  {
+    "id": "s02-02",
+    "section": 2,
+    "order": 2,
+    "title": "子どもが薬を飲んだあとに吐いてしまったら？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/02_vomiting.md",
+    "sha256": "2a09866eb6f481fda0cf6ae4dfb5a8235fd24e6c7b296a7974c599739700f4a3",
+    "original": "review/originals/section-02/02.md",
+    "markdown": "repository/articles/section-02/02.md",
+    "url": "content/children-medicine/section-02/02.html",
+    "related": [
+      "s02-03",
+      "s03-05",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s02-03",
+    "section": 2,
+    "order": 3,
+    "title": "子どもが薬をこぼした・吐き出したら？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/03_spilled_spat.md",
+    "sha256": "aaf21bc29974f169f3620c92418bbfd01f2b08747e1d2aaa9258c4b748136dd4",
+    "original": "review/originals/section-02/03.md",
+    "markdown": "repository/articles/section-02/03.md",
+    "url": "content/children-medicine/section-02/03.html",
+    "related": [
+      "s01-02",
+      "s02-02",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s02-04",
+    "section": 2,
+    "order": 4,
+    "title": "子どもの薬を間違えて飲ませてしまったら？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/04_wrong_medicine.md",
+    "sha256": "3857026507cb3026690678bc77a99612c6876e4a574bba235ec3ab1f2b95d45e",
+    "original": "review/originals/section-02/04.md",
+    "markdown": "repository/articles/section-02/04.md",
+    "url": "content/children-medicine/section-02/04.html",
+    "related": [
+      "s02-05",
+      "s05-05",
+      "s05-06"
+    ]
+  },
+  {
+    "id": "s02-05",
+    "section": 2,
+    "order": 5,
+    "title": "子どもに薬を多く飲ませてしまったら？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/05_overdose.md",
+    "sha256": "20233d9b51d578edb193d497f270d1bfac256c1819e74e8e870d1cfe5ee4f756",
+    "original": "review/originals/section-02/05.md",
+    "markdown": "repository/articles/section-02/05.md",
+    "url": "content/children-medicine/section-02/05.html",
+    "related": [
+      "s02-04",
+      "s05-06",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s02-06",
+    "section": 2,
+    "order": 6,
+    "title": "子どもが薬を嫌がって、飲めない日が続いたら？",
+    "source_zip": "kodomo_medicine_section2_codex.zip",
+    "source_entry": "kodomo_medicine_section2/06_refusal.md",
+    "sha256": "cb035040294631994aacc4610079cd40145b7165e5868a02f3162fb8301bd7fb",
+    "original": "review/originals/section-02/06.md",
+    "markdown": "repository/articles/section-02/06.md",
+    "url": "content/children-medicine/section-02/06.html",
+    "related": [
+      "s07-01",
+      "s07-03",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s03-01",
+    "section": 3,
+    "order": 1,
+    "title": "子どもが熱を出した！解熱剤はいつ使う？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "01_fever_when_antipyretic.md",
+    "sha256": "5a8ba12921d767fe56b57557e666b9879b9bb5eacc08e2a527d5c8184aeef5b1",
+    "original": "review/originals/section-03/01.md",
+    "markdown": "repository/articles/section-03/01.md",
+    "url": "content/children-medicine/section-03/01.html",
+    "related": [
+      "s03-02",
+      "s01-07",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-02",
+    "section": 3,
+    "order": 2,
+    "title": "解熱剤を使っても熱が下がらない！どうすればいい？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "02_fever_not_down.md",
+    "sha256": "7095730566cd836bc3e762be4e739066789ed0903d73b562acbeb74712092f10",
+    "original": "review/originals/section-03/02.md",
+    "markdown": "repository/articles/section-03/02.md",
+    "url": "content/children-medicine/section-03/02.html",
+    "related": [
+      "s03-01",
+      "s02-05",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-03",
+    "section": 3,
+    "order": 3,
+    "title": "子どもの咳止め・鼻水の薬、本当に必要？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "03_cough_runny_nose.md",
+    "sha256": "9a8f2498cd0aab4d52ebbffa7b0f387eed3cd400638b6bdcc2bd2da76d4df0a1",
+    "original": "review/originals/section-03/03.md",
+    "markdown": "repository/articles/section-03/03.md",
+    "url": "content/children-medicine/section-03/03.html",
+    "related": [
+      "s06-01",
+      "s04-03",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-04",
+    "section": 3,
+    "order": 4,
+    "title": "子どもが下痢をした！薬は必要？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "04_diarrhea.md",
+    "sha256": "425b8e928f2ce4e01bf5d1beee1ba55062a779e597d2441605e83d62de566cec",
+    "original": "review/originals/section-03/04.md",
+    "markdown": "repository/articles/section-03/04.md",
+    "url": "content/children-medicine/section-03/04.html",
+    "related": [
+      "s03-05",
+      "s04-04",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-05",
+    "section": 3,
+    "order": 5,
+    "title": "子どもが吐いた！吐き気止めは必要？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "05_vomiting_antiemetic.md",
+    "sha256": "999defb3046e791d0ab5ff5776ab9a46e5cee661c4f41e86b266dc79f34f7d76",
+    "original": "review/originals/section-03/05.md",
+    "markdown": "repository/articles/section-03/05.md",
+    "url": "content/children-medicine/section-03/05.html",
+    "related": [
+      "s03-04",
+      "s02-02",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-06",
+    "section": 3,
+    "order": 6,
+    "title": "子どもの便秘、薬を使っても大丈夫？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "06_constipation.md",
+    "sha256": "dc7770e01a97c7826c1d8f6feaad2de817ab59d2ef6f4d154b2c59002ad41e0e",
+    "original": "review/originals/section-03/06.md",
+    "markdown": "repository/articles/section-03/06.md",
+    "url": "content/children-medicine/section-03/06.html",
+    "related": [
+      "s04-04",
+      "s08-01",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s03-07",
+    "section": 3,
+    "order": 7,
+    "title": "子どもの抗菌薬、最後まで飲み切るべき？",
+    "source_zip": "kodomo_medicine_section3_codex.zip",
+    "source_entry": "07_antibiotics_duration.md",
+    "sha256": "b1e12ef822de41665783e13480807657e83f79ea926c806cd758f10c41af2694",
+    "original": "review/originals/section-03/07.md",
+    "markdown": "repository/articles/section-03/07.md",
+    "url": "content/children-medicine/section-03/07.html",
+    "related": [
+      "s06-05",
+      "s02-01",
+      "s04-02"
+    ]
+  },
+  {
+    "id": "s04-01",
+    "section": 4,
+    "order": 1,
+    "title": "子どもの薬、副作用かも？と思ったら",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "01_side_effect_basics.md",
+    "sha256": "4c49261eb8721f487f973edd2f2b196e743c0efc31155c6cbd691155adb3d84d",
+    "original": "review/originals/section-04/01.md",
+    "markdown": "repository/articles/section-04/01.md",
+    "url": "content/children-medicine/section-04/01.html",
+    "related": [
+      "s04-02",
+      "s04-05",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s04-02",
+    "section": 4,
+    "order": 2,
+    "title": "薬を飲んだあとに発疹が！アレルギー？",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "02_rash_drug_allergy.md",
+    "sha256": "9ad7da59ba3324228ce8b3020e681dab40815fcdb81c3224243486c68f31d31c",
+    "original": "review/originals/section-04/02.md",
+    "markdown": "repository/articles/section-04/02.md",
+    "url": "content/children-medicine/section-04/02.html",
+    "related": [
+      "s04-01",
+      "s04-05",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s04-03",
+    "section": 4,
+    "order": 3,
+    "title": "薬を飲んだら眠い・興奮する！これって副作用？",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "03_drowsy_excited.md",
+    "sha256": "a10df8fb798bd259c50cd89e7ed6466e2317ebc3479a050d9c632e216924bcfe",
+    "original": "review/originals/section-04/03.md",
+    "markdown": "repository/articles/section-04/03.md",
+    "url": "content/children-medicine/section-04/03.html",
+    "related": [
+      "s04-06",
+      "s04-05",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s04-04",
+    "section": 4,
+    "order": 4,
+    "title": "薬を飲んだら下痢・腹痛・吐き気が出た！これって副作用？",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "04_gi_symptoms.md",
+    "sha256": "f3693c12524673e9fdd561a795da50c2f5b2615af983bb2afb9d1650d20a67f8",
+    "original": "review/originals/section-04/04.md",
+    "markdown": "repository/articles/section-04/04.md",
+    "url": "content/children-medicine/section-04/04.html",
+    "related": [
+      "s03-04",
+      "s03-05",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s04-05",
+    "section": 4,
+    "order": 5,
+    "title": "子どもの薬で重い副作用が起こることはある？",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "05_serious_adverse_reactions.md",
+    "sha256": "607e743a188164f2b241cacbbb725368837ca8313efa4cb1369253c27d5f8295",
+    "original": "review/originals/section-04/05.md",
+    "markdown": "repository/articles/section-04/05.md",
+    "url": "content/children-medicine/section-04/05.html",
+    "related": [
+      "s04-01",
+      "s04-06",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s04-06",
+    "section": 4,
+    "order": 6,
+    "title": "副作用が心配。薬をやめてもいい？",
+    "source_zip": "kodomo_medicine_section4_codex.zip",
+    "source_entry": "06_stop_or_continue.md",
+    "sha256": "f1f9967a513e5d6841b73086a45060a8700377c04e183118919cc84a780a54af",
+    "original": "review/originals/section-04/06.md",
+    "markdown": "repository/articles/section-04/06.md",
+    "url": "content/children-medicine/section-04/06.html",
+    "related": [
+      "s04-01",
+      "s04-05",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s05-01",
+    "section": 5,
+    "order": 1,
+    "title": "子どもの薬の誤飲、どう防ぐ？",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/01_prevent_accidental_ingestion.md",
+    "sha256": "8954dcd3de634f2654658e3a18c176cdbd3674bbab759c4e5bd6013ec854435d",
+    "original": "review/originals/section-05/01.md",
+    "markdown": "repository/articles/section-05/01.md",
+    "url": "content/children-medicine/section-05/01.html",
+    "related": [
+      "s05-02",
+      "s05-06",
+      "s02-05"
+    ]
+  },
+  {
+    "id": "s05-02",
+    "section": 5,
+    "order": 2,
+    "title": "薬はどこに保管するのが安全？",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/02_safe_storage.md",
+    "sha256": "190632909d44bbd8ec8b46b23377b89bc1cfa22df27ed8190abad282fcc92170",
+    "original": "review/originals/section-05/02.md",
+    "markdown": "repository/articles/section-05/02.md",
+    "url": "content/children-medicine/section-05/02.html",
+    "related": [
+      "s05-01",
+      "s05-04",
+      "s07-05"
+    ]
+  },
+  {
+    "id": "s05-03",
+    "section": 5,
+    "order": 3,
+    "title": "お菓子みたいな薬に注意！",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/03_candy_like_medicine.md",
+    "sha256": "e6844b291e7afc5e0e88ffd50f682f3ae4417a3b29540fb139adb2e17e932072",
+    "original": "review/originals/section-05/03.md",
+    "markdown": "repository/articles/section-05/03.md",
+    "url": "content/children-medicine/section-05/03.html",
+    "related": [
+      "s05-01",
+      "s05-02",
+      "s05-06"
+    ]
+  },
+  {
+    "id": "s05-04",
+    "section": 5,
+    "order": 4,
+    "title": "おじいちゃん・おばあちゃんの薬にも注意",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/04_grandparents_medicine.md",
+    "sha256": "5125ddf3de922055f469bec1b52e463cbfbe30903d86233a05062d784073753d",
+    "original": "review/originals/section-05/04.md",
+    "markdown": "repository/articles/section-05/04.md",
+    "url": "content/children-medicine/section-05/04.html",
+    "related": [
+      "s05-02",
+      "s05-06",
+      "s08-05"
+    ]
+  },
+  {
+    "id": "s05-05",
+    "section": 5,
+    "order": 5,
+    "title": "薬を飲ませるときの事故を防ぐには？",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/05_prevent_administration_errors.md",
+    "sha256": "f994f8013ac18a515256fc8176019919c203642a12acb205960791f56bfaef25",
+    "original": "review/originals/section-05/05.md",
+    "markdown": "repository/articles/section-05/05.md",
+    "url": "content/children-medicine/section-05/05.html",
+    "related": [
+      "s02-04",
+      "s07-03",
+      "s08-05"
+    ]
+  },
+  {
+    "id": "s05-06",
+    "section": 5,
+    "order": 6,
+    "title": "薬を誤飲したかもしれない！どうする？",
+    "source_zip": "kodomo_medicine_section5_codex.zip",
+    "source_entry": "kodomo_medicine_section5/06_if_accidental_ingestion.md",
+    "sha256": "37656dc3841e9db5cc2de4c3c473a03dc27d343deb4e16aba096cd13dcfebb44",
+    "original": "review/originals/section-05/06.md",
+    "markdown": "repository/articles/section-05/06.md",
+    "url": "content/children-medicine/section-05/06.html",
+    "related": [
+      "s02-04",
+      "s02-05",
+      "s05-01"
+    ]
+  },
+  {
+    "id": "s06-01",
+    "section": 6,
+    "order": 1,
+    "title": "子どもの薬は、大人の薬と何が違う？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "01_children_vs_adults.md",
+    "sha256": "fca29dbd2b172d78081488e86bdf3ebbacdd017a300e417936e6ff3c4b72eaf2",
+    "original": "review/originals/section-06/01.md",
+    "markdown": "repository/articles/section-06/01.md",
+    "url": "content/children-medicine/section-06/01.html",
+    "related": [
+      "s06-02",
+      "s01-03",
+      "s08-01"
+    ]
+  },
+  {
+    "id": "s06-02",
+    "section": 6,
+    "order": 2,
+    "title": "子どもの薬の量は、どうやって決まる？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "02_how_doses_are_decided.md",
+    "sha256": "81d3eb62343f45023afd9be99bb8ab867b1f255295f8e8c7416c607036d9a463",
+    "original": "review/originals/section-06/02.md",
+    "markdown": "repository/articles/section-06/02.md",
+    "url": "content/children-medicine/section-06/02.html",
+    "related": [
+      "s06-01",
+      "s06-07",
+      "s02-05"
+    ]
+  },
+  {
+    "id": "s06-03",
+    "section": 6,
+    "order": 3,
+    "title": "食前・食後・食間って、いつ飲むの？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "03_before_after_between_meals.md",
+    "sha256": "8f3369a1071360d684f9e7d09b5bba7b09833ec7a74e75589a4f20bd6ec12e27",
+    "original": "review/originals/section-06/03.md",
+    "markdown": "repository/articles/section-06/03.md",
+    "url": "content/children-medicine/section-06/03.html",
+    "related": [
+      "s06-04",
+      "s02-01",
+      "s08-01"
+    ]
+  },
+  {
+    "id": "s06-04",
+    "section": 6,
+    "order": 4,
+    "title": "1日3回の薬、何時間あければいい？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "04_three_times_a_day_intervals.md",
+    "sha256": "5e2a0a8ae55cea5ac6769536b0c4bfff5c7853249997c0e5ab406dcdea875b29",
+    "original": "review/originals/section-06/04.md",
+    "markdown": "repository/articles/section-06/04.md",
+    "url": "content/children-medicine/section-06/04.html",
+    "related": [
+      "s06-03",
+      "s06-05",
+      "s02-01"
+    ]
+  },
+  {
+    "id": "s06-05",
+    "section": 6,
+    "order": 5,
+    "title": "抗菌薬は、最後まで飲み切らないとダメ？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "05_antibiotics_course.md",
+    "sha256": "375efebd28025f9b01cf3f1e6be6403576befc23901d43a8b02de85a9df8f213",
+    "original": "review/originals/section-06/05.md",
+    "markdown": "repository/articles/section-06/05.md",
+    "url": "content/children-medicine/section-06/05.html",
+    "related": [
+      "s03-07",
+      "s06-04",
+      "s02-01"
+    ]
+  },
+  {
+    "id": "s06-06",
+    "section": 6,
+    "order": 6,
+    "title": "ジェネリック医薬品は、子どもにも使える？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "06_generics_for_children.md",
+    "sha256": "9ce90681a3c7cf464e6355b9ff3d5c669aeb73f3d8612e0788a9e90ca00d396d",
+    "original": "review/originals/section-06/06.md",
+    "markdown": "repository/articles/section-06/06.md",
+    "url": "content/children-medicine/section-06/06.html",
+    "related": [
+      "s06-07",
+      "s01-05",
+      "s08-01"
+    ]
+  },
+  {
+    "id": "s06-07",
+    "section": 6,
+    "order": 7,
+    "title": "薬の説明書、どこを見ればいい？",
+    "source_zip": "kodomo_medicine_section6_codex.zip",
+    "source_entry": "07_read_medicine_information.md",
+    "sha256": "6ed6637ebedaf36a7dd11e9a10b49911c3d91eba1b32e3656032878ad8d42120",
+    "original": "review/originals/section-06/07.md",
+    "markdown": "repository/articles/section-06/07.md",
+    "url": "content/children-medicine/section-06/07.html",
+    "related": [
+      "s06-06",
+      "s08-05",
+      "s08-03"
+    ]
+  },
+  {
+    "id": "s07-01",
+    "section": 7,
+    "order": 1,
+    "title": "子どもが薬を嫌がるとき、どうすればいい？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "01_refuses_medicine.md",
+    "sha256": "ffcb0bee9740a4de26fa1ff1ce6fbebc50ce4c67eaf8a99b075a38c87aa67eb8",
+    "original": "review/originals/section-07/01.md",
+    "markdown": "repository/articles/section-07/01.md",
+    "url": "content/children-medicine/section-07/01.html",
+    "related": [
+      "s07-02",
+      "s02-06",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s07-02",
+    "section": 7,
+    "order": 2,
+    "title": "薬を飲めたら、どう褒める？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "02_praise_and_encouragement.md",
+    "sha256": "5427aa1c6e66ebd12bd8ff4c86506247ed4854f6ad4fd54b7546089184f58403",
+    "original": "review/originals/section-07/02.md",
+    "markdown": "repository/articles/section-07/02.md",
+    "url": "content/children-medicine/section-07/02.html",
+    "related": [
+      "s07-01",
+      "s07-03",
+      "s08-02"
+    ]
+  },
+  {
+    "id": "s07-03",
+    "section": 7,
+    "order": 3,
+    "title": "薬を飲む習慣、どうつくる？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "03_daily_routine.md",
+    "sha256": "2a8b89c8993af4fbf01df417fb60780ada6b29439aa94542aa0e83637cea4645",
+    "original": "review/originals/section-07/03.md",
+    "markdown": "repository/articles/section-07/03.md",
+    "url": "content/children-medicine/section-07/03.html",
+    "related": [
+      "s08-05",
+      "s05-05",
+      "s02-01"
+    ]
+  },
+  {
+    "id": "s07-04",
+    "section": 7,
+    "order": 4,
+    "title": "保育園・幼稚園・学校で薬を飲むには？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "04_school_daycare.md",
+    "sha256": "6523b081332f36c068945b1421bbc1bc7b4bc18444dcb713cafb0f20c0458a30",
+    "original": "review/originals/section-07/04.md",
+    "markdown": "repository/articles/section-07/04.md",
+    "url": "content/children-medicine/section-07/04.html",
+    "related": [
+      "s07-03",
+      "s07-06",
+      "s06-04"
+    ]
+  },
+  {
+    "id": "s07-05",
+    "section": 7,
+    "order": 5,
+    "title": "外出・旅行のとき、薬はどう持っていく？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "05_travel_and_outings.md",
+    "sha256": "82eaf49a33ffe58c5a2e3dbb07efbee270fd21f3415bcbe49c153624a47b286a",
+    "original": "review/originals/section-07/05.md",
+    "markdown": "repository/articles/section-07/05.md",
+    "url": "content/children-medicine/section-07/05.html",
+    "related": [
+      "s05-02",
+      "s07-03",
+      "s02-01"
+    ]
+  },
+  {
+    "id": "s07-06",
+    "section": 7,
+    "order": 6,
+    "title": "子どもが自分で薬を管理するのは、いつから？",
+    "source_zip": "kodomo_medicine_section7_codex.zip",
+    "source_entry": "06_self_management.md",
+    "sha256": "5f8b50b151c66462bafe358ca03bad2fe78c05922acd7d05335371b2bd53d73c",
+    "original": "review/originals/section-07/06.md",
+    "markdown": "repository/articles/section-07/06.md",
+    "url": "content/children-medicine/section-07/06.html",
+    "related": [
+      "s07-03",
+      "s07-04",
+      "s08-05"
+    ]
+  },
+  {
+    "id": "s08-01",
+    "section": 8,
+    "order": 1,
+    "title": "薬剤師には、どんなことを相談していいの？",
+    "source_zip": "mirai_section8_codex.zip",
+    "source_entry": "mirai_section8/01_Φû¼σëñσ╕½πü½πü»πü⌐πéôπü¬πüôπü¿πéÆτ¢╕Φ½çπüùπüªπüäπüäπü«.md",
+    "sha256": "5c8c187f1d4e98c667ae06753f4558ad328f3973f4ab7c73bf1c8760a6f655cb",
+    "original": "review/originals/section-08/01.md",
+    "markdown": "repository/articles/section-08/01.md",
+    "url": "content/children-medicine/section-08/01.html",
+    "related": [
+      "s08-02",
+      "s08-03",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s08-02",
+    "section": 8,
+    "order": 2,
+    "title": "薬が飲めない・使えないとき、どう相談すればいい？",
+    "source_zip": "mirai_section8_codex.zip",
+    "source_entry": "mirai_section8/02_Φû¼πüîΘú▓πéüπü¬πüäΣ╜┐πüêπü¬πüäπü¿πüì.md",
+    "sha256": "44fb88f32efcf303bdf155e378c8f4867fdeea149fdd38fed3ca78c2fc70f5f8",
+    "original": "review/originals/section-08/02.md",
+    "markdown": "repository/articles/section-08/02.md",
+    "url": "content/children-medicine/section-08/02.html",
+    "related": [
+      "s01-01",
+      "s02-06",
+      "s07-01"
+    ]
+  },
+  {
+    "id": "s08-03",
+    "section": 8,
+    "order": 3,
+    "title": "薬の副作用かも？ どう相談すればいい？",
+    "source_zip": "mirai_section8_codex.zip",
+    "source_entry": "mirai_section8/03_Φû¼πü«σë»Σ╜£τö¿πüïπéé.md",
+    "sha256": "6b052d003b9eaee8bbc6a6faba40c7fd20809527ace9897729c26d46c514374a",
+    "original": "review/originals/section-08/03.md",
+    "markdown": "repository/articles/section-08/03.md",
+    "url": "content/children-medicine/section-08/03.html",
+    "related": [
+      "s04-01",
+      "s04-06",
+      "s08-04"
+    ]
+  },
+  {
+    "id": "s08-04",
+    "section": 8,
+    "order": 4,
+    "title": "病院と薬局、どちらに相談すればいい？",
+    "source_zip": "mirai_section8_codex.zip",
+    "source_entry": "mirai_section8/04_τùàΘÖóπü¿Φû¼σ▒Çπü⌐πüíπéëπü½τ¢╕Φ½ç.md",
+    "sha256": "a19654593e9a6a9307eaa8d4588f6990aca5080004a9fdca2d1882728ce0d775",
+    "original": "review/originals/section-08/04.md",
+    "markdown": "repository/articles/section-08/04.md",
+    "url": "content/children-medicine/section-08/04.html",
+    "related": [
+      "s08-01",
+      "s08-03",
+      "s05-06"
+    ]
+  },
+  {
+    "id": "s08-05",
+    "section": 8,
+    "order": 5,
+    "title": "お薬手帳は、子どもにも必要？",
+    "source_zip": "mirai_section8_codex.zip",
+    "source_entry": "mirai_section8/05_πüèΦû¼µëïσ╕│πü»σ¡Éπü⌐πééπü½πééσ┐àΦªü.md",
+    "sha256": "155aab7f04ec4c9a4359b95406dcf75f8d34b09cbf7b2feb37e9144802e117ce",
+    "original": "review/originals/section-08/05.md",
+    "markdown": "repository/articles/section-08/05.md",
+    "url": "content/children-medicine/section-08/05.html",
+    "related": [
+      "s05-05",
+      "s07-03",
+      "s06-07"
+    ]
+  }
+]
