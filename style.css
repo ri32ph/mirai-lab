@@ -5,3 +5,74 @@
 
 /* 各入口の共通レイアウト */
 .content-main{max-width:1050px;margin:auto;padding:35px 24px 80px}.breadcrumb{font-size:.85rem;margin-bottom:40px}.content-hero{border-bottom:1px solid var(--line);padding-bottom:30px}.content-hero h1{font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.7}.content-nav{display:flex;flex-wrap:wrap;gap:12px;margin:30px 0}.content-nav a{padding:8px 16px;border:1px solid var(--line);border-radius:25px}.content-section{padding:28px 0;border-bottom:1px solid var(--line);scroll-margin-top:20px}.planned{border-left:3px solid #a5b096;padding:10px 20px;background:#efeee3}.related{margin-top:50px}.related ul{padding-left:22px}body.large .content-main{font-size:1.15rem}@media print{.content-nav{display:none}.content-section{break-inside:avoid}}
+
+/* 画面幅と文字拡大に応じた共通調整 */
+@media screen {
+  header { flex-wrap: wrap; column-gap: clamp(16px, 3vw, 40px); }
+  header nav { flex-wrap: wrap; }
+  header nav a { display: inline-flex; align-items: center; min-height: 44px; }
+  .font-button { min-height: 44px; flex-shrink: 0; }
+  .hero { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1.1fr); }
+  .hero > *, .lab-card, .experience > *, .about > *, .section-heading > * { min-width: 0; }
+  .garden { width: 100%; margin-left: 0; }
+  h1, h2, h3, p, .breadcrumb, .primary, .result, .content-nav a, .related a { overflow-wrap: anywhere; }
+  .lab-card { width: 100%; }
+  .lab-card h3 { font-size: clamp(1.1rem, 1.6vw, 1.25rem); line-height: 1.8; }
+  .experience { grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr); }
+  .about { grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr); }
+  .primary { max-width: 100%; min-height: 48px; gap: 16px; }
+  .topic-buttons button, .content-nav a, .choices button, .about-links button { min-height: 44px; }
+  .result { min-width: 0; }
+  .quick-links { width: calc(100% - 48px); }
+  .quick-links a { min-width: 0; min-height: 44px; }
+  .quick-links b, .primary > span { flex-shrink: 0; }
+  .close { min-width: 44px; min-height: 44px; top: 4px; right: 4px; }
+  dialog { max-height: calc(100dvh - 32px); padding-top: 52px; }
+  body.large h2 { font-size: 1.85rem; }
+  body.large h3, body.large .lab-card h3 { font-size: 1.35rem; }
+  body.large .primary, body.large .choices button, body.large .content-nav a,
+  body.large .topic-buttons button, body.large .breadcrumb, body.large .planned { font-size: 1.125rem; }
+}
+@media screen and (max-width: 1050px) {
+  header nav { order: 3; flex-basis: 100%; justify-content: flex-start; margin: 0; gap: 8px 24px; }
+  .font-button { margin-left: auto; }
+  .section-heading { display: block; }
+  .lab-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .lab-card, .lab-card:nth-child(4), .lab-card:nth-child(5) { grid-column: auto; }
+  .lab-card:last-child { grid-column: 1 / -1; }
+}
+@media screen and (max-width: 760px) {
+  .hero { display: flex; flex-direction: column; align-items: stretch; }
+  .hero h1 { font-size: clamp(1.65rem, 5vw, 2.3rem); }
+  .garden { width: min(100%, 440px); margin: 0 auto; }
+  .hero-note { margin-top: 0; }
+  .experience, .about { grid-template-columns: minmax(0, 1fr); }
+  .about-symbol { width: 180px; margin: auto; font-size: 3.5rem; }
+  .quick-links { grid-template-columns: minmax(0, 1fr); padding: 5px 0; }
+  .quick-links a { border-right: 0; border-bottom: 1px solid var(--line); padding: 14px 6px; font-size: .9rem; }
+  .quick-links a:last-child { border-bottom: 0; }
+  .desktop { display: none; }
+}
+@media screen and (max-width: 580px) {
+  header { padding: 16px; gap: 12px; }
+  header nav { gap: 4px 16px; font-size: .85rem; }
+  .font-button { font-size: .8rem; padding: 6px 10px; }
+  .hero { padding: 24px 20px 0; }
+  .hero h1 br { display: none; }
+  body.large .hero h1 { font-size: 2rem; }
+  .section { padding: 44px 20px; }
+  .lab-grid { grid-template-columns: minmax(0, 1fr); }
+  .lab-card:last-child { grid-column: auto; }
+  .quick-links { width: calc(100% - 40px); margin: 28px auto 0; }
+  .topic-buttons { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .topic-buttons button { padding: 10px 14px; }
+  .experience-card { padding: 22px; }
+  .content-main { padding: 24px 20px 48px; }
+  .content-hero h1 { font-size: 1.6rem; }
+  body.large .content-hero h1 { font-size: 1.9rem; }
+  .content-nav { width: 100%; gap: 8px; }
+  .content-nav a { max-width: 100%; }
+  .breadcrumb { margin-bottom: 24px; }
+  .content-section { padding: 24px 0; }
+  dialog { width: calc(100% - 24px); max-height: calc(100dvh - 24px); padding: 52px 20px 24px; }
+}
