@@ -144,6 +144,17 @@
 
 3記事の本文を更新。**これは論点限定の照合であり、全記事の原典レビュー・医療者最終承認ではない。**
 
+### 05/02・05/03・05/04・05/06｜薬の保管・誤飲予防・疑い例への対応（論点限定）
+
+| 記事 | 一次資料と照合した内容 | 判定・修正 |
+|---|---|---|
+| 05/02 保管 | [消費者庁 Vol.561](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20210810/)：高い場所・扉付きだけでは防げない。施錠など複数対策 | 一致。重層的な予防策を本文に強調。個々の薬の保存温度は未照合 |
+| 05/03 お菓子に似た薬 | [消費者庁 Vol.639](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)：7歳児の喘息薬多量誤飲事例、薬をお菓子と説明しない | 一致。年長児でも自由に取り出せない保管を追記 |
+| 05/04 祖父母の薬 | [消費者庁 Vol.639](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)：3歳児による祖父の高血圧・糖尿病薬誤飲事故、大人用薬の危険 | 一致。少量でも危険性が高い薬に注意を促した。薬剤別のリスクは未照合 |
+| 05/06 誤飲の疑い | [日本中毒情報センター](https://www.j-poison-ic.jp/general-public/response-to-a-poisoning-accident/at-home/)・[中毒110番](https://www.j-poison-ic.jp/110serviece/)：原因物質確認、無理に吐かせない、重篤症状時119番 | 一致。意識清明で口に残る薬がある場合の対応を補足。物質別の応急措置は一律に扱わない |
+
+4記事は**一部論点のみ照合**。全文の医学的レビュー・医療者最終承認は未了。検索非掲載方針を継続。
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -177,11 +188,11 @@
 | 04 | [子どもの薬で重い副作用が起こることはある？](../content/children-medicine/section-04/05.html) | 未実施 | 未了 |
 | 04 | [副作用が心配。薬をやめてもいい？](../content/children-medicine/section-04/06.html) | 未実施 | 未了 |
 | 05 | [子どもの薬の誤飲、どう防ぐ？](../content/children-medicine/section-05/01.html) | 一部（論点限定） | 未了 |
-| 05 | [薬はどこに保管するのが安全？](../content/children-medicine/section-05/02.html) | 未実施 | 未了 |
-| 05 | [お菓子みたいな薬に注意！](../content/children-medicine/section-05/03.html) | 未実施 | 未了 |
-| 05 | [おじいちゃん・おばあちゃんの薬にも注意](../content/children-medicine/section-05/04.html) | 未実施 | 未了 |
+| 05 | [薬はどこに保管するのが安全？](../content/children-medicine/section-05/02.html) | 一部（論点限定） | 未了 |
+| 05 | [お菓子みたいな薬に注意！](../content/children-medicine/section-05/03.html) | 一部（論点限定） | 未了 |
+| 05 | [おじいちゃん・おばあちゃんの薬にも注意](../content/children-medicine/section-05/04.html) | 一部（論点限定） | 未了 |
 | 05 | [薬を飲ませるときの事故を防ぐには？](../content/children-medicine/section-05/05.html) | 未実施 | 未了 |
-| 05 | [薬を誤飲したかもしれない！どうする？](../content/children-medicine/section-05/06.html) | 未実施 | 未了 |
+| 05 | [薬を誤飲したかもしれない！どうする？](../content/children-medicine/section-05/06.html) | 一部（論点限定） | 未了 |
 | 06 | [子どもの薬は、大人の薬と何が違う？](../content/children-medicine/section-06/01.html) | 未実施 | 未了 |
 | 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 一部（論点限定） | 未了 |
 | 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 一部（論点限定） | 未了 |
