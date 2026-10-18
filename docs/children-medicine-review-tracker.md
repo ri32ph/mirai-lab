@@ -124,6 +124,16 @@
 
 **原典との一部論点の照合のみ。医療者による記事全体の最終承認は未了。**
 
+### 06/02–06/04｜小児用量・食事との関係・服用間隔（論点限定）
+
+| 記事 | 原典と照合した主張 | 結果・留保 |
+|---|---|---|
+| 06/02 子どもの薬の量 | [PMDA 医療安全関連報告](https://www.pmda.go.jp/files/000275295.pdf)：小児用量の体重・年齢等の確認、処方監査 | 一致（一般的な原則）。体重だけで用量を決めない旨を明確化。製品ごとの用量は未照合 |
+| 06/03 食前・食後・食間 | [PMDA「薬は正しく使いましょう」](https://www.pmda.go.jp/files/000226365.pdf)：食前30〜60分、食後約30分以内、食間食後約2時間 | 一致。一般的目安であることを明記。製品固有の例外は未照合 |
+| 06/04 1日3回の服用間隔 | [東京都健康長寿医療センター薬剤科FAQ](https://www.tmig.or.jp/department/central/pharmacy/faq.html)：「○時間ごと」は食事とは独立した指示 | 一致。一般的な時間区分と例を確認。抗菌薬等の薬剤ごとの投与間隔は未照合 |
+
+**2026-10-18**：3記事に参照資料を追加し、02・03の表現を補足。全文医学的確認・医療者最終承認は未了。
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -163,9 +173,9 @@
 | 05 | [薬を飲ませるときの事故を防ぐには？](../content/children-medicine/section-05/05.html) | 未実施 | 未了 |
 | 05 | [薬を誤飲したかもしれない！どうする？](../content/children-medicine/section-05/06.html) | 未実施 | 未了 |
 | 06 | [子どもの薬は、大人の薬と何が違う？](../content/children-medicine/section-06/01.html) | 未実施 | 未了 |
-| 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 未実施 | 未了 |
-| 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 未実施 | 未了 |
-| 06 | [1日3回の薬、何時間あければいい？](../content/children-medicine/section-06/04.html) | 未実施 | 未了 |
+| 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 一部（論点限定） | 未了 |
+| 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 一部（論点限定） | 未了 |
+| 06 | [1日3回の薬、何時間あければいい？](../content/children-medicine/section-06/04.html) | 一部（論点限定） | 未了 |
 | 06 | [抗菌薬は、最後まで飲み切らないとダメ？](../content/children-medicine/section-06/05.html) | 一部（論点限定） | 未了 |
 | 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 未実施 | 未了 |
 | 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 未実施 | 未了 |
