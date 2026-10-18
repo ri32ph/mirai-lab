@@ -35,6 +35,16 @@
 
 **修正履歴**：2026-10-18、食品を混ぜる際の温度・酸味・乳製品の説明と、1歳未満のはちみつの警告を更新。**記事全体の医療者最終承認は未了**。
 
+### 01/02・01/05｜シロップの計量と粉薬の苦味（論点限定）
+参照：[愛知医科大学病院｜水薬・粉薬の飲ませ方](https://www.aichi-med-u.ac.jp/hospital/sh10/sh1008/sh100801/sh100801_09.html)、[PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)
+
+| 記事 | 確認した論点 | 判定・対応 |
+|---|---|---|
+| 01/02 シロップ | 1回量を器具で量る、直接薬瓶から飲ませない、頬側へ少しずつ、器具を清潔にする | 一致（一般原則）。洗浄上の注意を本文へ補足。製品固有の振り混ぜ・希釈・保存条件は未照合 |
+| 01/05 苦い薬 | 酸味のある飲料で一部製剤の苦味が増える場合がある | 一致（製剤依存）。一律禁止と誤解されない表現に修正。薬剤ごとの混合可否は未照合 |
+
+**注意**：一部論点の資料照合であり、両記事の全文確認・医療者最終承認は未了。
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -53,10 +63,10 @@
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
 |---|---|---|---|
 | 01 | [子どもの粉薬、どうやって飲ませる？](../content/children-medicine/section-01/01.html) | 一部（論点限定） | 未了 |
-| 01 | [子どものシロップ薬、どうやって飲ませる？](../content/children-medicine/section-01/02.html) | 未実施 | 未了 |
+| 01 | [子どものシロップ薬、どうやって飲ませる？](../content/children-medicine/section-01/02.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの錠剤・カプセル、どうやって飲ませる？](../content/children-medicine/section-01/03.html) | 未実施 | 未了 |
 | 01 | [子どもの薬、食べ物に混ぜてもいい？](../content/children-medicine/section-01/04.html) | 一部（論点限定） | 未了 |
-| 01 | [子どもの薬が苦い！ 飲みやすくする工夫](../content/children-medicine/section-01/05.html) | 未実施 | 未了 |
+| 01 | [子どもの薬が苦い！ 飲みやすくする工夫](../content/children-medicine/section-01/05.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの服薬補助具、どう使えばいい？](../content/children-medicine/section-01/06.html) | 未実施 | 未了 |
 | 01 | [子どもの坐薬、どうやって使う？](../content/children-medicine/section-01/07.html) | 未実施 | 未了 |
 | 01 | [子どもの目薬、どうやってさす？](../content/children-medicine/section-01/08.html) | 未実施 | 未了 |
