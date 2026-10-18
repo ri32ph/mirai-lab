@@ -115,10 +115,12 @@
 
 | 記事 | 照合した資料 | 結果・残る課題 |
 |---|---|---|
-| 03/06 便秘 | [PMDA モビコール製品情報](https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2359110B2025_1?user=1)、[2026年9月改訂添付文書](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/111890_2359110B2025_1_02) | 2026年9月に1歳児の用法が追加されたことを確認。**本文への追記は未反映**。薬剤別の承認年齢を今後も再確認 |
+| 03/06 便秘 | [PMDA モビコール製品情報](https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2359110B2025_1?user=1)、[2026年9月改訂添付文書](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/111890_2359110B2025_1_02) | 2026年9月に1歳児の用法が追加されたことを確認。**本文への追記は反映済み（2026-10-18）**。薬剤別の承認年齢を今後も再確認 |
 | 03/06 便秘 | [日本小児栄養消化器肝臓学会](https://www.jspghan.org/guide/index.html)、[Minds](https://minds.jcqhc.or.jp/registrys/r-10421/) | 小児慢性機能性便秘症診療ガイドライン2025年版の発行を確認。ただし本文の閲覧・CQ単位の照合は未了 |
 | 03/07 抗菌薬 | [AMR臨床リファレンスセンター](https://amr.jihs.go.jp/general/1-6-2.html) | 処方された量・回数・期間を守り、変更は医師へ相談する一般原則と一致。個別薬剤・感染症別の推奨期間は未照合 |
 | 06/05 抗菌薬 | [AMR臨床リファレンスセンター](https://amr.jihs.go.jp/general/1-6-2.html) | 同じ一般原則と一致。旧サイトドメインを現行ドメインへ修正済み |
+
+**更新記録**：2026-10-18に03/06の本文へモビコール配合内用剤LD・HDの1歳児に対する用法・用量追加を反映。根拠：[PMDA 2026年9月改訂添付文書](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/111890_2359110B2025_1_02)。製品ごとの用量判断は処方医・薬剤師の指示を優先。
 
 **原典との一部論点の照合のみ。医療者による記事全体の最終承認は未了。**
 
