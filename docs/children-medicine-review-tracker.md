@@ -167,6 +167,16 @@
 
 **一部の主張のみ原典照合済み。3記事の全文確認・医療者最終承認は未了。**
 
+### 04/03・04/04・04/06｜眠気・消化器症状・薬の中止（論点限定、2026-10-18）
+
+| 記事 | 照合した出典と論点 | 判定・修正・未完了事項 |
+|---|---|---|
+| 04/03 眠気・興奮 | [NHS：Antihistamines](https://www.nhs.uk/medicines/antihistamines/)／鎮静性と非鎮静性抗ヒスタミン薬の眠気の違い、非鎮静性でも眠気は起こり得る | 一致。第二世代でも眠気が起こり得る旨を強調。逆説的興奮や薬剤個別の頻度は未照合 |
+| 04/04 下痢・腹痛・吐き気 | [NICE CG84 1.3、1.8](https://www.nice.org.uk/guidance/cg84/chapter/Recommendations)／経口補水液、授乳継続、脱水時の警告徴候 | 一致（小児急性胃腸炎の支持療法）。水分摂取不能時の受診を明確化。薬剤性消化器症状とプロバイオティクスの個別根拠は未照合 |
+| 04/06 副作用と中止 | [NHS：Epilepsy](https://www.nhs.uk/conditions/epilepsy/)／抗てんかん発作薬を専門医に相談せず急に中止しない | 一致（てんかん治療に限る）。本文の薬剤名を明確化。ステロイド・インスリンなど他の治療中断リスクは個別資料での照合未了 |
+
+**本文は3記事とも更新済み。いずれも論点限定の資料確認であり、記事全文の医学的確認や医療者の最終承認ではない。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -195,10 +205,10 @@
 | 03 | [子どもの抗菌薬、最後まで飲み切るべき？](../content/children-medicine/section-03/07.html) | 一部（論点限定） | 未了 |
 | 04 | [子どもの薬、副作用かも？と思ったら](../content/children-medicine/section-04/01.html) | 一部（論点限定） | 未了 |
 | 04 | [薬を飲んだあとに発疹が！アレルギー？](../content/children-medicine/section-04/02.html) | 一部（論点限定） | 未了 |
-| 04 | [薬を飲んだら眠い・興奮する！これって副作用？](../content/children-medicine/section-04/03.html) | 未実施 | 未了 |
-| 04 | [薬を飲んだら下痢・腹痛・吐き気が出た！これって副作用？](../content/children-medicine/section-04/04.html) | 未実施 | 未了 |
+| 04 | [薬を飲んだら眠い・興奮する！これって副作用？](../content/children-medicine/section-04/03.html) | 一部（論点限定） | 未了 |
+| 04 | [薬を飲んだら下痢・腹痛・吐き気が出た！これって副作用？](../content/children-medicine/section-04/04.html) | 一部（論点限定） | 未了 |
 | 04 | [子どもの薬で重い副作用が起こることはある？](../content/children-medicine/section-04/05.html) | 一部（論点限定） | 未了 |
-| 04 | [副作用が心配。薬をやめてもいい？](../content/children-medicine/section-04/06.html) | 未実施 | 未了 |
+| 04 | [副作用が心配。薬をやめてもいい？](../content/children-medicine/section-04/06.html) | 一部（論点限定） | 未了 |
 | 05 | [子どもの薬の誤飲、どう防ぐ？](../content/children-medicine/section-05/01.html) | 一部（論点限定） | 未了 |
 | 05 | [薬はどこに保管するのが安全？](../content/children-medicine/section-05/02.html) | 一部（論点限定） | 未了 |
 | 05 | [お菓子みたいな薬に注意！](../content/children-medicine/section-05/03.html) | 一部（論点限定） | 未了 |
