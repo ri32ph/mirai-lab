@@ -111,6 +111,17 @@
 
 **上記はいずれも対象論点のみ照合した記録であり、記事全文の医学的承認ではない。**
 
+### 03/06・03/07・06/05｜便秘薬と抗菌薬（論点限定）
+
+| 記事 | 照合した資料 | 結果・残る課題 |
+|---|---|---|
+| 03/06 便秘 | [PMDA モビコール製品情報](https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2359110B2025_1?user=1)、[2026年9月改訂添付文書](https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/111890_2359110B2025_1_02) | 2026年9月に1歳児の用法が追加されたことを確認。**本文への追記は未反映**。薬剤別の承認年齢を今後も再確認 |
+| 03/06 便秘 | [日本小児栄養消化器肝臓学会](https://www.jspghan.org/guide/index.html)、[Minds](https://minds.jcqhc.or.jp/registrys/r-10421/) | 小児慢性機能性便秘症診療ガイドライン2025年版の発行を確認。ただし本文の閲覧・CQ単位の照合は未了 |
+| 03/07 抗菌薬 | [AMR臨床リファレンスセンター](https://amr.jihs.go.jp/general/1-6-2.html) | 処方された量・回数・期間を守り、変更は医師へ相談する一般原則と一致。個別薬剤・感染症別の推奨期間は未照合 |
+| 06/05 抗菌薬 | [AMR臨床リファレンスセンター](https://amr.jihs.go.jp/general/1-6-2.html) | 同じ一般原則と一致。旧サイトドメインを現行ドメインへ修正済み |
+
+**原典との一部論点の照合のみ。医療者による記事全体の最終承認は未了。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -135,8 +146,8 @@
 | 03 | [子どもの咳止め・鼻水の薬、本当に必要？](../content/children-medicine/section-03/03.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもが下痢をした！薬は必要？](../content/children-medicine/section-03/04.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもが吐いた！吐き気止めは必要？](../content/children-medicine/section-03/05.html) | 一部（論点限定） | 未了 |
-| 03 | [子どもの便秘、薬を使っても大丈夫？](../content/children-medicine/section-03/06.html) | 未実施 | 未了 |
-| 03 | [子どもの抗菌薬、最後まで飲み切るべき？](../content/children-medicine/section-03/07.html) | 未実施 | 未了 |
+| 03 | [子どもの便秘、薬を使っても大丈夫？](../content/children-medicine/section-03/06.html) | 一部（論点限定） | 未了 |
+| 03 | [子どもの抗菌薬、最後まで飲み切るべき？](../content/children-medicine/section-03/07.html) | 一部（論点限定） | 未了 |
 | 04 | [子どもの薬、副作用かも？と思ったら](../content/children-medicine/section-04/01.html) | 未実施 | 未了 |
 | 04 | [薬を飲んだあとに発疹が！アレルギー？](../content/children-medicine/section-04/02.html) | 未実施 | 未了 |
 | 04 | [薬を飲んだら眠い・興奮する！これって副作用？](../content/children-medicine/section-04/03.html) | 未実施 | 未了 |
@@ -153,7 +164,7 @@
 | 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 未実施 | 未了 |
 | 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 未実施 | 未了 |
 | 06 | [1日3回の薬、何時間あければいい？](../content/children-medicine/section-06/04.html) | 未実施 | 未了 |
-| 06 | [抗菌薬は、最後まで飲み切らないとダメ？](../content/children-medicine/section-06/05.html) | 未実施 | 未了 |
+| 06 | [抗菌薬は、最後まで飲み切らないとダメ？](../content/children-medicine/section-06/05.html) | 一部（論点限定） | 未了 |
 | 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 未実施 | 未了 |
 | 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 未実施 | 未了 |
 | 07 | [子どもが薬を嫌がるとき、どうすればいい？](../content/children-medicine/section-07/01.html) | 未実施 | 未了 |
