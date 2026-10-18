@@ -46,3 +46,14 @@
 .article-body .article-faq-answer p:last-child{margin-bottom:0}
 @media(max-width:580px){.article-body .article-faq summary{padding:14px}.article-body .article-faq-answer{padding:15px}}
 @media print{.article-body .article-faq-answer{display:block!important}.article-body .article-faq summary::after{display:none}}
+
+/* 記事冒頭の情報の強弱：通常記事／緊急記事 */
+.article-visual-intro{display:flex;align-items:center;gap:18px;padding:15px 18px;background:#f0f6ef;border:1px solid #d2dfd2;border-radius:18px;margin:18px 0 24px}
+.article-visual-intro img{width:96px;height:96px;flex:0 0 96px;object-fit:contain;border-radius:50%}
+.article-visual-intro p{margin:0;line-height:1.8}
+.emergency-priority{display:flex;gap:16px;align-items:center}
+.emergency-priority .emergency-art{width:78px;height:78px;flex:0 0 78px;object-fit:contain}
+.consult-priority{margin:14px 0 24px;padding:16px 20px;border:1px solid #d8b995;border-left:5px solid #bb8a56;border-radius:12px;background:#fff7e9}
+.consult-priority p{margin:6px 0 0}
+@media(max-width:580px){.article-visual-intro img{width:70px;height:70px;flex-basis:70px}.emergency-priority .emergency-art{width:54px;height:54px;flex-basis:54px}.article-visual-intro,.emergency-priority{gap:10px;padding:12px}}
+@media print{.article-visual-intro,.consult-priority{break-inside:avoid}}
