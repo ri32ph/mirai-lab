@@ -45,6 +45,16 @@
 
 **注意**：一部論点の資料照合であり、両記事の全文確認・医療者最終承認は未了。
 
+### 01/07–01/09｜坐薬・点眼薬・塗り薬（論点限定）
+
+| 記事 | 照合した原典と論点 | 判定・残る課題 |
+|---|---|---|
+| 01/07 坐薬 | [国立成育医療研究センター お薬Q&A](https://www.ncchd.go.jp/hospital/sickness/medicine/)：基本の挿入、水で先端をぬらす工夫、排出時の対応 | 一致（一般原則）。本文に挿入時の工夫を追加。再投与・分割・保管は薬剤別判断が必要 |
+| 01/08 点眼薬 | [日本眼科用剤協会 目薬の使い方](https://gankayozai.jp/patient/okusuri.html)、[同 適正使用ハンドブック](https://gankayozai.jp/medical/tenganzai_handbook.html)：容器の先を触れさせない、2種類で通常5分以上、子どもへの点眼 | 一致（一般原則）。泣いているときの点眼を避ける工夫を追加。製品別の滴数・保存期限は未照合 |
+| 01/09 塗り薬 | [日本皮膚科学会 皮膚科Q&A](https://www.dermatol.or.jp/qa/qa39/q03.html)：約0.5gの1FTU、第一関節まで、25g・50gと5gチューブの口径差 | 一致（条件付き）。5gチューブでは同じ長さでも約0.5gとは限らない旨を追記。製品別適用量は未照合 |
+
+**2026-10-18修正**：3記事の一般向け表現と参考資料を更新。いずれも全文の医学的照合・医療者最終承認は未了。
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -68,9 +78,9 @@
 | 01 | [子どもの薬、食べ物に混ぜてもいい？](../content/children-medicine/section-01/04.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの薬が苦い！ 飲みやすくする工夫](../content/children-medicine/section-01/05.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの服薬補助具、どう使えばいい？](../content/children-medicine/section-01/06.html) | 未実施 | 未了 |
-| 01 | [子どもの坐薬、どうやって使う？](../content/children-medicine/section-01/07.html) | 未実施 | 未了 |
-| 01 | [子どもの目薬、どうやってさす？](../content/children-medicine/section-01/08.html) | 未実施 | 未了 |
-| 01 | [子どもの塗り薬、どのくらい塗ればいい？](../content/children-medicine/section-01/09.html) | 未実施 | 未了 |
+| 01 | [子どもの坐薬、どうやって使う？](../content/children-medicine/section-01/07.html) | 一部（論点限定） | 未了 |
+| 01 | [子どもの目薬、どうやってさす？](../content/children-medicine/section-01/08.html) | 一部（論点限定） | 未了 |
+| 01 | [子どもの塗り薬、どのくらい塗ればいい？](../content/children-medicine/section-01/09.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもの薬を飲み忘れた！どうすればいい？](../content/children-medicine/section-02/01.html) | 未実施 | 未了 |
 | 02 | [子どもが薬を飲んだあとに吐いてしまったら？](../content/children-medicine/section-02/02.html) | 未実施 | 未了 |
 | 02 | [子どもが薬をこぼした・吐き出したら？](../content/children-medicine/section-02/03.html) | 未実施 | 未了 |
