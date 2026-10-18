@@ -55,6 +55,16 @@
 
 **2026-10-18修正**：3記事の一般向け表現と参考資料を更新。いずれも全文の医学的照合・医療者最終承認は未了。
 
+### 01/03・01/06・02/01｜錠剤加工、経口シリンジ、飲み忘れ（一部論点）
+
+| 記事 | 照合資料・論点 | 判定と留保 |
+|---|---|---|
+| 01/03 錠剤・カプセル | [PMDA Q9](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0001.html)、[PMDA医療安全情報 No.65](https://www.pmda.go.jp/files/000251752.pdf)：自己判断で粉砕・カプセル開封をしない、徐放性製剤の加工リスク | 一致。徐放性製剤のリスクを追記。個別製品の分割可否は未照合 |
+| 01/06 服薬補助具 | [Great Ormond Street Hospital](https://www.gosh.nhs.uk/conditions-and-treatments/medicines-information/medicines-advice/how-give-your-child-liquid-medicines/)：経口シリンジを頬の内側に向け、少量ずつ与える | 一致。飲み込みを確認しながら少量ずつ与える旨を追記。器具別取扱いは未照合 |
+| 02/01 飲み忘れ | [NHSの薬剤別指示例](https://www.nhs.uk/medicines/methylphenidate-children/how-and-when-to-take-methylphenidate-for-children/)：2回分をまとめて服用しない、対応は薬による | 一致（薬剤別例）。すべての薬の具体的な飲み忘れ対応を裏付ける資料ではない。個別製品の照合は未実施 |
+
+**いずれも記事全体の医学的レビューと医療者最終承認は未了。**
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -74,14 +84,14 @@
 |---|---|---|---|
 | 01 | [子どもの粉薬、どうやって飲ませる？](../content/children-medicine/section-01/01.html) | 一部（論点限定） | 未了 |
 | 01 | [子どものシロップ薬、どうやって飲ませる？](../content/children-medicine/section-01/02.html) | 一部（論点限定） | 未了 |
-| 01 | [子どもの錠剤・カプセル、どうやって飲ませる？](../content/children-medicine/section-01/03.html) | 未実施 | 未了 |
+| 01 | [子どもの錠剤・カプセル、どうやって飲ませる？](../content/children-medicine/section-01/03.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの薬、食べ物に混ぜてもいい？](../content/children-medicine/section-01/04.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの薬が苦い！ 飲みやすくする工夫](../content/children-medicine/section-01/05.html) | 一部（論点限定） | 未了 |
-| 01 | [子どもの服薬補助具、どう使えばいい？](../content/children-medicine/section-01/06.html) | 未実施 | 未了 |
+| 01 | [子どもの服薬補助具、どう使えばいい？](../content/children-medicine/section-01/06.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの坐薬、どうやって使う？](../content/children-medicine/section-01/07.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの目薬、どうやってさす？](../content/children-medicine/section-01/08.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの塗り薬、どのくらい塗ればいい？](../content/children-medicine/section-01/09.html) | 一部（論点限定） | 未了 |
-| 02 | [子どもの薬を飲み忘れた！どうすればいい？](../content/children-medicine/section-02/01.html) | 未実施 | 未了 |
+| 02 | [子どもの薬を飲み忘れた！どうすればいい？](../content/children-medicine/section-02/01.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもが薬を飲んだあとに吐いてしまったら？](../content/children-medicine/section-02/02.html) | 未実施 | 未了 |
 | 02 | [子どもが薬をこぼした・吐き出したら？](../content/children-medicine/section-02/03.html) | 未実施 | 未了 |
 | 02 | [子どもの薬を間違えて飲ませてしまったら？](../content/children-medicine/section-02/04.html) | 未実施 | 未了 |
