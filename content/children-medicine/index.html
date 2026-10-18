@@ -12,6 +12,9 @@
 .cm-home .cm-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
 .cm-home .cm-grid-3{grid-template-columns:repeat(3,minmax(0,1fr))}
 .cm-home .cm-link{display:flex;flex-direction:column;justify-content:center;gap:5px;min-height:104px;padding:20px;background:#fff;border:1px solid var(--cm-line);border-radius:18px;text-decoration:none;color:inherit;box-shadow:0 3px 10px #344d4a0a;transition:transform .15s,box-shadow .15s}
+.cm-home .cm-link{position:relative;padding-right:42px}
+.cm-home .cm-link::after{content:"→";position:absolute;right:16px;top:50%;transform:translateY(-50%);font-size:1.3rem;font-weight:700;color:#497a73;line-height:1;pointer-events:none}
+.cm-home .cm-link:hover::after{right:12px}
 .cm-home .cm-link:hover{transform:translateY(-2px);box-shadow:0 8px 20px #344d4a12}
 .cm-home .cm-link:focus-visible{outline:3px solid #287b8f;outline-offset:3px}
 .cm-home .cm-link strong{font-size:1.09rem;line-height:1.45;color:#294c50}
