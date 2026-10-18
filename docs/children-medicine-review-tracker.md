@@ -187,6 +187,16 @@
 
 **2026-10-18**：3記事の本文を修正。いずれも一部の論点のみ資料照合済み。全文の医学的確認・医療者最終承認は未了。
 
+### 06/01・07/01・07/03｜小児用医薬品・飲ませ方・服薬習慣（論点限定、2026-10-18）
+
+| 記事 | 原典・照合した論点 | 判定と留保 |
+|---|---|---|
+| 06/01 大人と子どもの薬の違い | [PMDA Q6](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0011.html)、[東京都薬剤師会](https://www.toyaku.or.jp/health/tobehealthy/faq09.html)：市販薬の小児年齢制限、大人の薬の安易な減量を避ける | 一致（一般原則）。製品の年齢区分・用法用量を確認する文を追記。発達薬理学の各論は未照合 |
+| 07/01 薬を嫌がるとき | [PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)：苦味・におい・ざらつき、服薬方法の工夫と薬剤師への相談、上手に飲めたらほめる | 一致（この範囲）。飲めない場合も叱らず、困った点を相談する旨を補足。具体的な心理的介入の効果は未照合 |
+| 07/03 習慣づくり | [PMDA Q6](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0011.html)：年齢・用法用量を守る、医療者に相談する一般原則 | 一般的安全原則のみ一致。服用済みの記録とアラームを区別する説明を補足。**服薬記録の介入効果自体は原典照合していない** |
+
+3記事の本文は更新済み。**記事全体の医学的確認・医療者最終承認は未了。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -225,16 +235,16 @@
 | 05 | [おじいちゃん・おばあちゃんの薬にも注意](../content/children-medicine/section-05/04.html) | 一部（論点限定） | 未了 |
 | 05 | [薬を飲ませるときの事故を防ぐには？](../content/children-medicine/section-05/05.html) | 一部（論点限定） | 未了 |
 | 05 | [薬を誤飲したかもしれない！どうする？](../content/children-medicine/section-05/06.html) | 一部（論点限定） | 未了 |
-| 06 | [子どもの薬は、大人の薬と何が違う？](../content/children-medicine/section-06/01.html) | 未実施 | 未了 |
+| 06 | [子どもの薬は、大人の薬と何が違う？](../content/children-medicine/section-06/01.html) | 一部（論点限定） | 未了 |
 | 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 一部（論点限定） | 未了 |
 | 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 一部（論点限定） | 未了 |
 | 06 | [1日3回の薬、何時間あければいい？](../content/children-medicine/section-06/04.html) | 一部（論点限定） | 未了 |
 | 06 | [抗菌薬は、最後まで飲み切らないとダメ？](../content/children-medicine/section-06/05.html) | 一部（論点限定） | 未了 |
 | 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 一部（論点限定） | 未了 |
 | 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 一部（論点限定） | 未了 |
-| 07 | [子どもが薬を嫌がるとき、どうすればいい？](../content/children-medicine/section-07/01.html) | 未実施 | 未了 |
+| 07 | [子どもが薬を嫌がるとき、どうすればいい？](../content/children-medicine/section-07/01.html) | 一部（論点限定） | 未了 |
 | 07 | [薬を飲めたら、どう褒める？](../content/children-medicine/section-07/02.html) | 未実施 | 未了 |
-| 07 | [薬を飲む習慣、どうつくる？](../content/children-medicine/section-07/03.html) | 未実施 | 未了 |
+| 07 | [薬を飲む習慣、どうつくる？](../content/children-medicine/section-07/03.html) | 一部（論点限定） | 未了 |
 | 07 | [保育園・幼稚園・学校で薬を飲むには？](../content/children-medicine/section-07/04.html) | 未実施 | 未了 |
 | 07 | [外出・旅行のとき、薬はどう持っていく？](../content/children-medicine/section-07/05.html) | 未実施 | 未了 |
 | 07 | [子どもが自分で薬を管理するのは、いつから？](../content/children-medicine/section-07/06.html) | 未実施 | 未了 |
