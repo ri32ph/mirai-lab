@@ -32,3 +32,17 @@
   .category-list li:nth-child(3n) { background:#f7edda;border-color:#e9dcc2; }
   .category-list span,.article-meta { color:#655a52; }
 }
+
+/* 個別記事のQ&A：質問だけを一覧し、回答を開く */
+.article-body .article-faq{border:1px solid #cddbd2;border-radius:14px;background:#fffdfa;margin:12px 0;overflow:hidden}
+.article-body .article-faq summary{display:flex;align-items:center;gap:12px;cursor:pointer;min-height:54px;padding:14px 18px;font-weight:700;line-height:1.6;list-style:none}
+.article-body .article-faq summary::-webkit-details-marker{display:none}
+.article-body .article-faq summary::after{content:"＋";font-size:1.35rem;color:#496e63;margin-left:auto;flex:none}
+.article-body .article-faq[open] summary::after{content:"－"}
+.article-body .article-faq summary:focus-visible{outline:3px solid #2b7188;outline-offset:-3px}
+.article-faq-mark{display:inline-grid;place-items:center;width:29px;height:29px;border-radius:9px;background:#dcece6;color:#294f49;flex:none}
+.article-faq-question{flex:1;min-width:0}
+.article-body .article-faq-answer{padding:16px 20px 18px 59px;background:#f1f7f2;border-top:1px solid #d8e5da}
+.article-body .article-faq-answer p:last-child{margin-bottom:0}
+@media(max-width:580px){.article-body .article-faq summary{padding:14px}.article-body .article-faq-answer{padding:15px}}
+@media print{.article-body .article-faq-answer{display:block!important}.article-body .article-faq summary::after{display:none}}
