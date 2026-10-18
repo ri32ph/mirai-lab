@@ -22,6 +22,19 @@
 | 1歳未満でははちみつに混ぜない | 記事への追記候補 | 原典に明記あり。個別の食品混合記事も要確認 |
 | 上体を起こす、むせへの注意、量が不明な場合の対応 | 追加確認 | PMDA Q8のみでは個々の主張すべてを照合できない |
 
+### 01/04｜薬と食品の混合：PMDA・消費者庁
+原典：[PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)／[消費者庁「ハチミツによる乳児のボツリヌス症」](https://www.caa.go.jp/policies/policy/consumer_safety/food_safety/food_safety_portal/microorganism_virus/contents_001)
+
+| 確認した主張 | 判定 | 記録 |
+|---|---|---|
+| 食品に混ぜるときは少量・服用直前・残さず食べる | 一致（一般原則） | PMDA Q8の説明に照合 |
+| 熱い食品での混合や、酸味の強い飲食物に注意 | 一致（薬剤により異なる） | PMDA Q8。2026-10-18に本文表現を明確化 |
+| 乳製品をすべて一律に避ける必要はない | 条件付き | 薬剤・製剤ごとの相互作用と味の確認が必要 |
+| 1歳未満のはちみつ・はちみつ入り食品は禁止 | 一致 | 消費者庁の乳児ボツリヌス症情報。本文に明記 |
+| 製品ごとの食品との相性 | 要追加照合 | 個別製品の添付文書等との照合は未実施 |
+
+**修正履歴**：2026-10-18、食品を混ぜる際の温度・酸味・乳製品の説明と、1歳未満のはちみつの警告を更新。**記事全体の医療者最終承認は未了**。
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -42,7 +55,7 @@
 | 01 | [子どもの粉薬、どうやって飲ませる？](../content/children-medicine/section-01/01.html) | 一部（論点限定） | 未了 |
 | 01 | [子どものシロップ薬、どうやって飲ませる？](../content/children-medicine/section-01/02.html) | 未実施 | 未了 |
 | 01 | [子どもの錠剤・カプセル、どうやって飲ませる？](../content/children-medicine/section-01/03.html) | 未実施 | 未了 |
-| 01 | [子どもの薬、食べ物に混ぜてもいい？](../content/children-medicine/section-01/04.html) | 未実施 | 未了 |
+| 01 | [子どもの薬、食べ物に混ぜてもいい？](../content/children-medicine/section-01/04.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの薬が苦い！ 飲みやすくする工夫](../content/children-medicine/section-01/05.html) | 未実施 | 未了 |
 | 01 | [子どもの服薬補助具、どう使えばいい？](../content/children-medicine/section-01/06.html) | 未実施 | 未了 |
 | 01 | [子どもの坐薬、どうやって使う？](../content/children-medicine/section-01/07.html) | 未実施 | 未了 |
