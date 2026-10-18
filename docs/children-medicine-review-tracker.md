@@ -89,6 +89,15 @@
 
 **2026-10-18**：03/02記事の重複成分に関する説明を修正。今回の3記事については原典との一部論点の照合のみ。全文の医学的確認および医療者最終承認は未了。
 
+### 03/03–03/05｜咳・鼻水、下痢、嘔吐（論点限定・2026-10-18）
+| 記事 | 原典と確認点 | 判定・対応 |
+|---|---|---|
+| 03/03 咳・鼻水の薬 | [FDA: Should You Give Kids Medicine for Coughs and Colds?](https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds)。乳幼児のOTC感冒薬のリスク、複数成分の重複 | 一致（米国規制）。日本の全製品へ米国の年齢制限を機械的に適用しないことを明記。国内製品別照合は未実施 |
+| 03/04 下痢 | [NICE CG84](https://www.nice.org.uk/guidance/cg84/chapter/Recommendations)。ORS、授乳継続、小児急性胃腸炎の止瀉薬は原則用いない | 一致（小児急性胃腸炎）。一般向けの表現を修正。重症度・基礎疾患別対応は未照合 |
+| 03/05 嘔吐 | [Royal Children's Hospital: Gastroenteritis](https://www.rch.org.au/clinicalguide/guideline_index/Gastroenteritis/)。胆汁性嘔吐は重大な警告徴候、他疾患の鑑別を要する | 一致。濃い緑色の嘔吐と判断に迷う際の相談を補足。個別治療の判断は未照合 |
+
+本文は3件とも修正済み。これらは一部の記載に対する照合で、記事全体の医学的承認ではない。
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -123,9 +132,9 @@
 | 02 | [子どもが薬を嫌がって、飲めない日が続いたら？](../content/children-medicine/section-02/06.html) | 未実施 | 未了 |
 | 03 | [子どもが熱を出した！解熱剤はいつ使う？](../content/children-medicine/section-03/01.html) | 一部（論点限定） | 未了 |
 | 03 | [解熱剤を使っても熱が下がらない！どうすればいい？](../content/children-medicine/section-03/02.html) | 一部（論点限定） | 未了 |
-| 03 | [子どもの咳止め・鼻水の薬、本当に必要？](../content/children-medicine/section-03/03.html) | 未実施 | 未了 |
-| 03 | [子どもが下痢をした！薬は必要？](../content/children-medicine/section-03/04.html) | 未実施 | 未了 |
-| 03 | [子どもが吐いた！吐き気止めは必要？](../content/children-medicine/section-03/05.html) | 未実施 | 未了 |
+| 03 | [子どもの咳止め・鼻水の薬、本当に必要？](../content/children-medicine/section-03/03.html) | 一部（論点限定） | 未了 |
+| 03 | [子どもが下痢をした！薬は必要？](../content/children-medicine/section-03/04.html) | 一部（論点限定） | 未了 |
+| 03 | [子どもが吐いた！吐き気止めは必要？](../content/children-medicine/section-03/05.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもの便秘、薬を使っても大丈夫？](../content/children-medicine/section-03/06.html) | 未実施 | 未了 |
 | 03 | [子どもの抗菌薬、最後まで飲み切るべき？](../content/children-medicine/section-03/07.html) | 未実施 | 未了 |
 | 04 | [子どもの薬、副作用かも？と思ったら](../content/children-medicine/section-04/01.html) | 未実施 | 未了 |
