@@ -30,7 +30,9 @@
 .cm-home .cm-hero h1 .cm-flat-icon{width:54px;height:54px;margin-right:8px}
 .cm-home .cm-urgent strong .cm-flat-icon{width:34px;height:34px;margin-right:6px}
 .cm-home h2 .cm-flat-icon{width:35px;height:35px;margin-right:5px}
-.cm-home .cm-link .cm-flat-icon{margin-bottom:5px}
+.cm-home .cm-link .cm-flat-icon{margin-bottom:5px;border-radius:50%}
+.cm-home .cm-link img.cm-flat-icon{width:60px;height:60px;object-fit:cover;display:block}
+@media(max-width:580px){.cm-home .cm-link img.cm-flat-icon{width:54px;height:54px}}
 @media(max-width:680px){.cm-home .cm-grid-3{grid-template-columns:repeat(2,minmax(0,1fr))}.cm-home .cm-link{padding:15px;min-height:100px}.cm-home .cm-large{min-height:130px}}
 @media(max-width:390px){.cm-home .cm-grid,.cm-home .cm-grid-3{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.cm-home .cm-link{transition:none}}
@@ -40,10 +42,10 @@
 <section class="cm-hero" aria-labelledby="cm-title"><p class="cm-kicker">乳幼児・保護者の方へ</p><h1 id="cm-title"><img class="cm-flat-icon" src="assets/icons/hero-medicine.svg" alt="" width="54" height="54" loading="eager" decoding="async"> 子どものお薬、どうしたらいい？</h1><p class="cm-lead">いま知りたいこと、困っていることから選んでください。</p><p>親子に合った方法を、一緒に探そう。</p></section>
 <aside class="cm-urgent" aria-label="緊急時の対応"><strong><img class="cm-flat-icon" src="assets/icons/emergency.svg" alt="" width="44" height="44" loading="lazy" decoding="async"> 呼吸が苦しい・意識や反応がおかしいとき</strong><p>このページを調べるより先に、<a href="tel:119">119番</a>へ。薬を飲んだ・誤飲した疑いがある場合も、緊急の症状があれば救急対応を優先してください。</p></aside>
 <section class="cm-section" aria-labelledby="cm-start"><h2 id="cm-start">いま、何を知りたい？</h2><p class="cm-intro">近いものを選んでください。</p><div class="cm-grid">
-<a class="cm-link cm-large" href="#cm-forms"><img class="cm-flat-icon" src="assets/icons/give-medicine.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>薬を飲ませたい・使いたい</strong><small>粉薬、シロップ、坐薬、目薬、塗り薬など</small></a>
-<a class="cm-link cm-large" href="#cm-troubles"><img class="cm-flat-icon" src="assets/icons/difficulty.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>うまく飲めない・使えない</strong><small>嫌がる、飲み忘れた、吐いたなど</small></a>
-<a class="cm-link cm-large" href="#cm-troubles"><img class="cm-flat-icon" src="assets/icons/concern.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>間違えた・心配なことがある</strong><small>量の間違い、誤飲、副作用など</small></a>
-<a class="cm-link cm-large" href="#cm-themes"><img class="cm-flat-icon" src="assets/icons/learn.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>薬について知っておきたい</strong><small>薬の基本、保管、飲み合わせ、相談など</small></a>
+<a class="cm-link cm-large" href="#cm-forms"><img class="cm-flat-icon" src="assets/illustrations/give-medicine.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>薬を飲ませたい・使いたい</strong><small>粉薬、シロップ、坐薬、目薬、塗り薬など</small></a>
+<a class="cm-link cm-large" href="#cm-troubles"><img class="cm-flat-icon" src="assets/illustrations/difficulty.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>うまく飲めない・使えない</strong><small>嫌がる、飲み忘れた、吐いたなど</small></a>
+<a class="cm-link cm-large" href="#cm-troubles"><img class="cm-flat-icon" src="assets/illustrations/concern.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>間違えた・心配なことがある</strong><small>量の間違い、誤飲、副作用など</small></a>
+<a class="cm-link cm-large" href="#cm-themes"><img class="cm-flat-icon" src="assets/illustrations/learn.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>薬について知っておきたい</strong><small>薬の基本、保管、飲み合わせ、相談など</small></a>
 </div></section>
 <section id="cm-troubles" class="cm-section" aria-labelledby="cm-trouble-title"><h2 id="cm-trouble-title">よくある「どうしよう？」</h2><p class="cm-intro">気になることから、対処方法を確認できます。</p><div class="cm-grid">
 <a class="cm-link" href="section-02/01.html"><strong>飲み忘れた</strong><small>あとから飲ませてもいい？</small></a>
@@ -54,12 +56,12 @@
 <a class="cm-link" href="section-04/index.html"><strong>副作用が心配</strong><small>気をつけたい症状は？</small></a>
 </div></section>
 <section id="cm-forms" class="cm-section" aria-labelledby="cm-forms-title"><h2 id="cm-forms-title">薬のかたちから探す</h2><p class="cm-intro">使うお薬を選ぶと、飲ませ方・使い方を調べられます。</p><div class="cm-grid cm-grid-3">
-<a class="cm-link" href="section-01/01.html"><img class="cm-flat-icon" src="assets/icons/powder.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>粉薬</strong><small>混ぜ方・飲ませ方</small></a>
-<a class="cm-link" href="section-01/02.html"><img class="cm-flat-icon" src="assets/icons/syrup.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>シロップ</strong><small>量り方・飲ませ方</small></a>
-<a class="cm-link" href="section-01/03.html"><img class="cm-flat-icon" src="assets/icons/tablets.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>錠剤・カプセル</strong><small>飲ませ方・割っていい？</small></a>
-<a class="cm-link" href="section-01/07.html"><img class="cm-flat-icon" src="assets/icons/suppository.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>坐薬</strong><small>入れ方・出てきたとき</small></a>
-<a class="cm-link" href="section-01/08.html"><img class="cm-flat-icon" src="assets/icons/eyedrops.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>目薬</strong><small>さし方・嫌がるとき</small></a>
-<a class="cm-link" href="section-01/09.html"><img class="cm-flat-icon" src="assets/icons/ointment.svg" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>塗り薬</strong><small>量・塗り方</small></a>
+<a class="cm-link" href="section-01/01.html"><img class="cm-flat-icon" src="assets/illustrations/powder.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>粉薬</strong><small>混ぜ方・飲ませ方</small></a>
+<a class="cm-link" href="section-01/02.html"><img class="cm-flat-icon" src="assets/illustrations/syrup.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>シロップ</strong><small>量り方・飲ませ方</small></a>
+<a class="cm-link" href="section-01/03.html"><img class="cm-flat-icon" src="assets/illustrations/tablets.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>錠剤・カプセル</strong><small>飲ませ方・割っていい？</small></a>
+<a class="cm-link" href="section-01/07.html"><img class="cm-flat-icon" src="assets/illustrations/suppository.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>坐薬</strong><small>入れ方・出てきたとき</small></a>
+<a class="cm-link" href="section-01/08.html"><img class="cm-flat-icon" src="assets/illustrations/eyedrops.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>目薬</strong><small>さし方・嫌がるとき</small></a>
+<a class="cm-link" href="section-01/09.html"><img class="cm-flat-icon" src="assets/illustrations/ointment.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>塗り薬</strong><small>量・塗り方</small></a>
 </div></section>
 <section class="cm-section cm-note" aria-labelledby="cm-tips-title"><h2 id="cm-tips-title"><img class="cm-flat-icon" src="assets/icons/tips.svg" alt="" width="44" height="44" loading="lazy" decoding="async"> ちょっとした工夫で、楽になることも</h2><p>うまく飲めないときも、別の方法が見つかる場合があります。薬によって使える工夫は異なるので、自己判断で砕いたり混ぜたりせず、薬剤師に確認しましょう。</p><a href="section-07/index.html">毎日の服薬の工夫を見てみる →</a></section>
 <section id="cm-themes" class="cm-section cm-theme" aria-labelledby="cm-all-title"><h2 id="cm-all-title">もっと詳しく調べる</h2><p class="cm-intro">全52記事を、8つのテーマから探せます。</p><div class="cm-grid">
