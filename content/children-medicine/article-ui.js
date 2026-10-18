@@ -47,6 +47,21 @@ document.querySelectorAll('.article-body').forEach(body=>{
   }
 });
 
+// Q&Aの回答は通常は閉じる。印刷時だけ全件を開き、印刷後に元の状態へ戻す。
+// ブラウザー標準のdetailsを使うため、キーボード操作にも対応する。
+const faqPrintState=new Map();
+window.addEventListener('beforeprint',()=>{
+  faqPrintState.clear();
+  document.querySelectorAll('details.article-faq').forEach(item=>{
+    faqPrintState.set(item,item.open);
+    item.open=true;
+  });
+});
+window.addEventListener('afterprint',()=>{
+  faqPrintState.forEach((wasOpen,item)=>{item.open=wasOpen;});
+  faqPrintState.clear();
+});
+
 // 通常解説記事では、共通の救急案内を「最初に必ず出す」扱いにしない。
 // 事故・過量服用・重い副作用の疑いが主題の記事は冒頭表示を維持。
 (()=>{
