@@ -27,7 +27,9 @@
 .cm-home .cm-theme{padding-top:24px;border-top:1px solid var(--cm-line)}
 .cm-home .cm-flat-icon{display:inline-flex;width:44px;height:44px;flex:0 0 auto;vertical-align:middle;align-items:center;justify-content:center}
 .cm-home img.cm-flat-icon{display:inline-block;width:44px;height:44px;object-fit:contain;object-position:center;vertical-align:middle;max-width:none;flex-shrink:0}
-.cm-home .cm-hero h1 .cm-flat-icon{width:54px;height:54px;margin-right:8px}
+.cm-home .cm-hero h1{display:flex;align-items:center;gap:16px}
+.cm-home .cm-hero h1 .cm-flat-icon{display:block;width:82px;height:82px;flex:0 0 82px;object-fit:cover;border-radius:50%;margin:0}
+@media(max-width:580px){.cm-home .cm-hero h1{gap:10px}.cm-home .cm-hero h1 .cm-flat-icon{width:58px;height:58px;flex-basis:58px}}
 .cm-home .cm-urgent strong .cm-flat-icon{width:34px;height:34px;margin-right:6px}
 .cm-home h2 .cm-flat-icon{width:35px;height:35px;margin-right:5px}
 .cm-home .cm-link .cm-flat-icon{margin-bottom:5px;border-radius:50%}
@@ -39,7 +41,7 @@
 </style></head><body><a class="skip" href="#main">本文へ進む</a><header><a class="brand" href="../../index.html">ミライラボ<span class="brand-sub">MIRAI LAB</span></a><nav aria-label="メイン"><a href="index.html">子どものお薬</a><a href="section-08/01.html">相談について</a></nav><button class="font-button" id="font" aria-pressed="false">文字を大きく A＋</button></header><main id="main" class="article-main cm-home" tabindex="-1">
 <p class="draft-notice">公開前の確認用です。医療者による最終確認は完了していません。</p>
 <nav class="breadcrumb" aria-label="現在地"><a href="../../index.html">ミライラボ トップ</a> / 子どものお薬</nav>
-<section class="cm-hero" aria-labelledby="cm-title"><p class="cm-kicker">乳幼児・保護者の方へ</p><h1 id="cm-title"><img class="cm-flat-icon" src="assets/icons/hero-medicine.svg" alt="" width="54" height="54" loading="eager" decoding="async"> 子どものお薬、どうしたらいい？</h1><p class="cm-lead">いま知りたいこと、困っていることから選んでください。</p><p>親子に合った方法を、一緒に探そう。</p></section>
+<section class="cm-hero" aria-labelledby="cm-title"><p class="cm-kicker">乳幼児・保護者の方へ</p><h1 id="cm-title"><img class="cm-flat-icon" src="assets/illustrations/give-medicine.webp" alt="" width="54" height="54" loading="eager" decoding="async"> 子どものお薬、どうしたらいい？</h1><p class="cm-lead">いま知りたいこと、困っていることから選んでください。</p><p>親子に合った方法を、一緒に探そう。</p></section>
 <aside class="cm-urgent" aria-label="緊急時の対応"><strong><img class="cm-flat-icon" src="assets/icons/emergency.svg" alt="" width="44" height="44" loading="lazy" decoding="async"> 呼吸が苦しい・意識や反応がおかしいとき</strong><p>このページを調べるより先に、<a href="tel:119">119番</a>へ。薬を飲んだ・誤飲した疑いがある場合も、緊急の症状があれば救急対応を優先してください。</p></aside>
 <section class="cm-section" aria-labelledby="cm-start"><h2 id="cm-start">いま、何を知りたい？</h2><p class="cm-intro">近いものを選んでください。</p><div class="cm-grid">
 <a class="cm-link cm-large" href="#cm-forms"><img class="cm-flat-icon" src="assets/illustrations/give-medicine.webp" alt="" width="44" height="44" loading="lazy" decoding="async"><strong>薬を飲ませたい・使いたい</strong><small>粉薬、シロップ、坐薬、目薬、塗り薬など</small></a>
