@@ -46,3 +46,21 @@ document.querySelectorAll('.article-body').forEach(body=>{
     }
   }
 });
+
+// 通常解説記事では、共通の救急案内を「最初に必ず出す」扱いにしない。
+// 事故・過量服用・重い副作用の疑いが主題の記事は冒頭表示を維持。
+(()=>{
+ const article=document.querySelector('.article-main > article');
+ const emergency=article?.querySelector(':scope > aside.emergency:not(.emergency-priority)');
+ if(!article||!emergency)return;
+ const match=location.pathname.match(/\/(section-\d{2})\/(\d{2})\.html$/);
+ if(!match)return;
+ const slug=match[1]+'/'+match[2];
+ const priority=new Set(['section-02/04','section-02/05','section-04/01','section-04/02','section-04/05','section-05/06']);
+ if(priority.has(slug))return;
+ const heading=emergency.querySelector('h2');
+ if(heading)heading.textContent='緊急の症状があるとき';
+ emergency.classList.add('emergency-secondary');
+ const body=article.querySelector('.article-body');
+ if(body){body.after(emergency);}
+})();
