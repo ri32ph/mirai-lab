@@ -177,6 +177,16 @@
 
 **本文は3記事とも更新済み。いずれも論点限定の資料確認であり、記事全文の医学的確認や医療者の最終承認ではない。**
 
+### 02/03・02/06・05/05｜飲みこぼし・服薬拒否・二重投与の防止（論点限定）
+
+| 記事 | 確認資料と論点 | 対応・未照合事項 |
+|---|---|---|
+| 02/03 こぼした・吐き出した | [NHS：Medicines for babies and children](https://www.nhs.uk/baby/health/medicines-for-babies-and-children/)：薬の用量を正確に確認し、不明なときは薬剤師へ相談 | 自己判断の追加・前倒し・まとめ飲みを避ける説明を追記。**こぼした量に応じた個別の再投与可否を直接裏付ける資料ではない**ため、薬剤別判断は未照合 |
+| 02/06 薬を嫌がる | [PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)、[米国小児科学会 HealthyChildren](https://www.healthychildren.org/English/tips-tools/Symptom-Checker/Pages/symptomviewer.aspx?symptom=Medicine+-+Refusal+to+Take)：嫌がる理由、無理な投与による嘔吐・むせの危険、薬剤ごとの工夫 | 製剤変更なども相談できることを追記。個別の薬に適した食品混合・剤形変更は未照合 |
+| 05/05 服薬事故を防ぐ | [NHS：Medicines for babies and children](https://www.nhs.uk/baby/health/medicines-for-babies-and-children/)：正しい用量、投与記録、家庭用スプーンを避ける | 家族間の記録共有と重複投与への注意を補足。家庭用記録ツール別の効果検証は未実施 |
+
+**2026-10-18**：3記事の本文を修正。いずれも一部の論点のみ資料照合済み。全文の医学的確認・医療者最終承認は未了。
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -192,10 +202,10 @@
 | 01 | [子どもの塗り薬、どのくらい塗ればいい？](../content/children-medicine/section-01/09.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもの薬を飲み忘れた！どうすればいい？](../content/children-medicine/section-02/01.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもが薬を飲んだあとに吐いてしまったら？](../content/children-medicine/section-02/02.html) | 一部（論点限定） | 未了 |
-| 02 | [子どもが薬をこぼした・吐き出したら？](../content/children-medicine/section-02/03.html) | 未実施 | 未了 |
+| 02 | [子どもが薬をこぼした・吐き出したら？](../content/children-medicine/section-02/03.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもの薬を間違えて飲ませてしまったら？](../content/children-medicine/section-02/04.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもに薬を多く飲ませてしまったら？](../content/children-medicine/section-02/05.html) | 一部（論点限定） | 未了 |
-| 02 | [子どもが薬を嫌がって、飲めない日が続いたら？](../content/children-medicine/section-02/06.html) | 未実施 | 未了 |
+| 02 | [子どもが薬を嫌がって、飲めない日が続いたら？](../content/children-medicine/section-02/06.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもが熱を出した！解熱剤はいつ使う？](../content/children-medicine/section-03/01.html) | 一部（論点限定） | 未了 |
 | 03 | [解熱剤を使っても熱が下がらない！どうすればいい？](../content/children-medicine/section-03/02.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもの咳止め・鼻水の薬、本当に必要？](../content/children-medicine/section-03/03.html) | 一部（論点限定） | 未了 |
@@ -213,7 +223,7 @@
 | 05 | [薬はどこに保管するのが安全？](../content/children-medicine/section-05/02.html) | 一部（論点限定） | 未了 |
 | 05 | [お菓子みたいな薬に注意！](../content/children-medicine/section-05/03.html) | 一部（論点限定） | 未了 |
 | 05 | [おじいちゃん・おばあちゃんの薬にも注意](../content/children-medicine/section-05/04.html) | 一部（論点限定） | 未了 |
-| 05 | [薬を飲ませるときの事故を防ぐには？](../content/children-medicine/section-05/05.html) | 未実施 | 未了 |
+| 05 | [薬を飲ませるときの事故を防ぐには？](../content/children-medicine/section-05/05.html) | 一部（論点限定） | 未了 |
 | 05 | [薬を誤飲したかもしれない！どうする？](../content/children-medicine/section-05/06.html) | 一部（論点限定） | 未了 |
 | 06 | [子どもの薬は、大人の薬と何が違う？](../content/children-medicine/section-06/01.html) | 未実施 | 未了 |
 | 06 | [子どもの薬の量は、どうやって決まる？](../content/children-medicine/section-06/02.html) | 一部（論点限定） | 未了 |
