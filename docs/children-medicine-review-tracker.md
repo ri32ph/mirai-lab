@@ -197,6 +197,17 @@
 
 3記事の本文は更新済み。**記事全体の医学的確認・医療者最終承認は未了。**
 
+### 07/02・07/04・07/05・07/06｜声かけ、園・学校、旅行、自己管理（論点限定・2026-10-18）
+
+| 記事 | 根拠として確認した範囲 | 判定・修正・残る確認 |
+|---|---|---|
+| 07/02 薬を飲めたときの声かけ | [PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)：飲ませ方の工夫と保護者の関わり | 取り組みを尊重する説明を補足。ただしシール・褒め方の**服薬成功率に対する効果の原典確認は未実施** |
+| 07/04 園・学校での与薬 | [こども家庭庁 保育所保育指針解説](https://www.cfa.go.jp/policies/hoiku/shishin-h30-bunkatsu)：保育所での医師の指示、与薬依頼票、施錠保管、本人・量・重複の確認 | 一致（保育所）。本人確認と実際の服薬記録の確認を補足。学校での取扱いは施設別 |
+| 07/05 旅行中の薬 | [消費者庁 Vol.639](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)・[Vol.561](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20210810/)：高い場所だけに頼らない保管、複数の誤飲対策 | 一致（誤飲防止）。施錠などを追記。航空機への薬の持込規定・薬剤別温度条件は未照合 |
+| 07/06 子ども自身による管理 | [消費者庁 Vol.639](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)：年長児でも自ら薬を取り出す誤飲事故 | 一致（家庭内保管の注意）。きょうだいの誤飲防止を追加。自己管理移行の年齢や手法の有効性は未照合 |
+
+**資料照合は上記論点に限定。全記事の最終医学的承認は未了。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -243,11 +254,11 @@
 | 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 一部（論点限定） | 未了 |
 | 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 一部（論点限定） | 未了 |
 | 07 | [子どもが薬を嫌がるとき、どうすればいい？](../content/children-medicine/section-07/01.html) | 一部（論点限定） | 未了 |
-| 07 | [薬を飲めたら、どう褒める？](../content/children-medicine/section-07/02.html) | 未実施 | 未了 |
+| 07 | [薬を飲めたら、どう褒める？](../content/children-medicine/section-07/02.html) | 一部（論点限定） | 未了 |
 | 07 | [薬を飲む習慣、どうつくる？](../content/children-medicine/section-07/03.html) | 一部（論点限定） | 未了 |
-| 07 | [保育園・幼稚園・学校で薬を飲むには？](../content/children-medicine/section-07/04.html) | 未実施 | 未了 |
-| 07 | [外出・旅行のとき、薬はどう持っていく？](../content/children-medicine/section-07/05.html) | 未実施 | 未了 |
-| 07 | [子どもが自分で薬を管理するのは、いつから？](../content/children-medicine/section-07/06.html) | 未実施 | 未了 |
+| 07 | [保育園・幼稚園・学校で薬を飲むには？](../content/children-medicine/section-07/04.html) | 一部（論点限定） | 未了 |
+| 07 | [外出・旅行のとき、薬はどう持っていく？](../content/children-medicine/section-07/05.html) | 一部（論点限定） | 未了 |
+| 07 | [子どもが自分で薬を管理するのは、いつから？](../content/children-medicine/section-07/06.html) | 一部（論点限定） | 未了 |
 | 08 | [薬剤師には、どんなことを相談していいの？](../content/children-medicine/section-08/01.html) | 未実施 | 未了 |
 | 08 | [薬が飲めない・使えないとき、どう相談すればいい？](../content/children-medicine/section-08/02.html) | 未実施 | 未了 |
 | 08 | [薬の副作用かも？ どう相談すればいい？](../content/children-medicine/section-08/03.html) | 未実施 | 未了 |
