@@ -134,6 +134,16 @@
 
 **2026-10-18**：3記事に参照資料を追加し、02・03の表現を補足。全文医学的確認・医療者最終承認は未了。
 
+### 06/06・06/07・08/05｜後発医薬品・薬剤情報・お薬手帳（2026-10-18、論点限定）
+
+| 記事 | 照合資料と論点 | 判定・修正 |
+|---|---|---|
+| 06/06 ジェネリック医薬品 | [厚生労働省：後発医薬品の使用促進](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/iryou/kouhatu-iyaku/index.html)／後発医薬品の同等性と製品差 | 一般原則は整合。同等性と服用感の違いを分けて記述。個別製品の添加物・小児適応は未照合 |
+| 06/07 薬の説明書 | [厚生労働省：お薬手帳の意義・役割](https://www.mhlw.go.jp/web/t_doc?dataId=00tc6257&dataType=1&pageNo=1)／医療者との情報共有と薬の安全な使用 | 一般原則は整合。薬袋と説明資料に違いがある場合の相談を強調。個別施設の書面内容は未照合 |
+| 08/05 お薬手帳 | [厚生労働省：電子版お薬手帳](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/e-okusuritecho.html)／医療情報の共有、マイナポータル連携とアプリ機能 | 整合。連携機能はアプリ・設定で異なる旨を追記。アプリ別機能は未照合 |
+
+3記事の本文を更新。**これは論点限定の照合であり、全記事の原典レビュー・医療者最終承認ではない。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -177,8 +187,8 @@
 | 06 | [食前・食後・食間って、いつ飲むの？](../content/children-medicine/section-06/03.html) | 一部（論点限定） | 未了 |
 | 06 | [1日3回の薬、何時間あければいい？](../content/children-medicine/section-06/04.html) | 一部（論点限定） | 未了 |
 | 06 | [抗菌薬は、最後まで飲み切らないとダメ？](../content/children-medicine/section-06/05.html) | 一部（論点限定） | 未了 |
-| 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 未実施 | 未了 |
-| 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 未実施 | 未了 |
+| 06 | [ジェネリック医薬品は、子どもにも使える？](../content/children-medicine/section-06/06.html) | 一部（論点限定） | 未了 |
+| 06 | [薬の説明書、どこを見ればいい？](../content/children-medicine/section-06/07.html) | 一部（論点限定） | 未了 |
 | 07 | [子どもが薬を嫌がるとき、どうすればいい？](../content/children-medicine/section-07/01.html) | 未実施 | 未了 |
 | 07 | [薬を飲めたら、どう褒める？](../content/children-medicine/section-07/02.html) | 未実施 | 未了 |
 | 07 | [薬を飲む習慣、どうつくる？](../content/children-medicine/section-07/03.html) | 未実施 | 未了 |
@@ -189,7 +199,7 @@
 | 08 | [薬が飲めない・使えないとき、どう相談すればいい？](../content/children-medicine/section-08/02.html) | 未実施 | 未了 |
 | 08 | [薬の副作用かも？ どう相談すればいい？](../content/children-medicine/section-08/03.html) | 未実施 | 未了 |
 | 08 | [病院と薬局、どちらに相談すればいい？](../content/children-medicine/section-08/04.html) | 未実施 | 未了 |
-| 08 | [お薬手帳は、子どもにも必要？](../content/children-medicine/section-08/05.html) | 未実施 | 未了 |
+| 08 | [お薬手帳は、子どもにも必要？](../content/children-medicine/section-08/05.html) | 一部（論点限定） | 未了 |
 
 ## レビュー記録テンプレート
 - 対象記事：
