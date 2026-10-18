@@ -65,6 +65,18 @@
 
 **いずれも記事全体の医学的レビューと医療者最終承認は未了。**
 
+### 02/02・02/04・02/05｜服薬後の嘔吐・取り違え・過量服用（論点限定）
+
+出典：[Medicines for Children：よくある質問](https://www.medicinesforchildren.org.uk/advice-guides/faqs/)、[日本中毒情報センター：中毒事故が起こったら](https://www.j-poison-ic.jp/general-public/response-to-a-poisoning-accident/at-home/)、[中毒110番の案内](https://www.j-poison-ic.jp/110serviece/service-guide-genelal/)
+
+| 記事 | 照合した論点 | 判定・対応 |
+|---|---|---|
+| 02/02 嘔吐後の追加服用 | Medicines for Childrenは一般的な30分目安を紹介する一方、薬剤固有の指示の確認も促す | 条件付き一致。30分が全薬剤共通の絶対ルールでないことを維持し、海外の目安であることを補足。製品別判断は未照合 |
+| 02/04 取り違え | 中毒情報センター：誤飲では吐かせず、残留物と服用量などを確認。中毒110番は実際の急性中毒事故が対象 | 一致（基本的応急対応）。本文に口腔内の残留薬への注意を追加。個別薬剤のリスクは未照合 |
+| 02/05 多く飲ませた | 中毒情報センター：家庭で吐かせない、医薬品の急性中毒は相談対象、大阪・つくばの一般専用電話は24時間 | 一致（相談・応急対応）。残留薬への注意を追加。アセトアミノフェン過量の薬剤別リスクは今後照合 |
+
+**いずれも記事全体の医学的確認や医療者最終承認は未了。**
+
 ### 05/01｜薬の誤飲予防：消費者庁
 原典：[消費者庁「Vol.639 医薬品の誤飲事故」](https://www.caa.go.jp/policies/policy/consumer_safety/child/project_001/mail/20231020/)／[2015年調査報告書](https://www.caa.go.jp/policies/council/csic/report/report_007/)
 
@@ -92,10 +104,10 @@
 | 01 | [子どもの目薬、どうやってさす？](../content/children-medicine/section-01/08.html) | 一部（論点限定） | 未了 |
 | 01 | [子どもの塗り薬、どのくらい塗ればいい？](../content/children-medicine/section-01/09.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもの薬を飲み忘れた！どうすればいい？](../content/children-medicine/section-02/01.html) | 一部（論点限定） | 未了 |
-| 02 | [子どもが薬を飲んだあとに吐いてしまったら？](../content/children-medicine/section-02/02.html) | 未実施 | 未了 |
+| 02 | [子どもが薬を飲んだあとに吐いてしまったら？](../content/children-medicine/section-02/02.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもが薬をこぼした・吐き出したら？](../content/children-medicine/section-02/03.html) | 未実施 | 未了 |
-| 02 | [子どもの薬を間違えて飲ませてしまったら？](../content/children-medicine/section-02/04.html) | 未実施 | 未了 |
-| 02 | [子どもに薬を多く飲ませてしまったら？](../content/children-medicine/section-02/05.html) | 未実施 | 未了 |
+| 02 | [子どもの薬を間違えて飲ませてしまったら？](../content/children-medicine/section-02/04.html) | 一部（論点限定） | 未了 |
+| 02 | [子どもに薬を多く飲ませてしまったら？](../content/children-medicine/section-02/05.html) | 一部（論点限定） | 未了 |
 | 02 | [子どもが薬を嫌がって、飲めない日が続いたら？](../content/children-medicine/section-02/06.html) | 未実施 | 未了 |
 | 03 | [子どもが熱を出した！解熱剤はいつ使う？](../content/children-medicine/section-03/01.html) | 未実施 | 未了 |
 | 03 | [解熱剤を使っても熱が下がらない！どうすればいい？](../content/children-medicine/section-03/02.html) | 未実施 | 未了 |
