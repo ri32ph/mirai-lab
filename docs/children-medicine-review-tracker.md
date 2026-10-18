@@ -155,6 +155,18 @@
 
 4記事は**一部論点のみ照合**。全文の医学的レビュー・医療者最終承認は未了。検索非掲載方針を継続。
 
+### 04/01・04/02・04/05｜副作用・薬疹の警告症状（論点限定）
+
+原典：[PMDA「重篤副作用疾患別対応マニュアル（患者・一般の方向け）」](https://www.pmda.go.jp/safety/info-services/drugs/adr-info/manuals-for-public/0001.html)。とくにスティーヴンス・ジョンソン症候群等の初期症状（高熱、眼の充血・目やに、口唇のただれ、広範囲の皮疹）と早期相談の必要性。
+
+| 記事 | 確認した主張・対応 | 未完了事項 |
+|---|---|---|
+| 04/01 副作用かも | 重症薬疹の警告症状に眼・口の症状を追記 | 個別薬剤ごとの重篤副作用・中止判断は未照合 |
+| 04/02 発疹とアレルギー | 皮膚症状と眼・口腔の異常の組み合わせへの注意を補足 | アナフィラキシー診断基準、ペニシリンアレルギーの詳細評価は別途照合 |
+| 04/05 重い副作用 | 目の充血・目やに・唇のただれ・のどの痛みなども早期サインとなる旨を追加 | アナフィラキシー対応や薬剤性臓器障害の詳細は別途照合 |
+
+**一部の主張のみ原典照合済み。3記事の全文確認・医療者最終承認は未了。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -181,11 +193,11 @@
 | 03 | [子どもが吐いた！吐き気止めは必要？](../content/children-medicine/section-03/05.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもの便秘、薬を使っても大丈夫？](../content/children-medicine/section-03/06.html) | 一部（論点限定） | 未了 |
 | 03 | [子どもの抗菌薬、最後まで飲み切るべき？](../content/children-medicine/section-03/07.html) | 一部（論点限定） | 未了 |
-| 04 | [子どもの薬、副作用かも？と思ったら](../content/children-medicine/section-04/01.html) | 未実施 | 未了 |
-| 04 | [薬を飲んだあとに発疹が！アレルギー？](../content/children-medicine/section-04/02.html) | 未実施 | 未了 |
+| 04 | [子どもの薬、副作用かも？と思ったら](../content/children-medicine/section-04/01.html) | 一部（論点限定） | 未了 |
+| 04 | [薬を飲んだあとに発疹が！アレルギー？](../content/children-medicine/section-04/02.html) | 一部（論点限定） | 未了 |
 | 04 | [薬を飲んだら眠い・興奮する！これって副作用？](../content/children-medicine/section-04/03.html) | 未実施 | 未了 |
 | 04 | [薬を飲んだら下痢・腹痛・吐き気が出た！これって副作用？](../content/children-medicine/section-04/04.html) | 未実施 | 未了 |
-| 04 | [子どもの薬で重い副作用が起こることはある？](../content/children-medicine/section-04/05.html) | 未実施 | 未了 |
+| 04 | [子どもの薬で重い副作用が起こることはある？](../content/children-medicine/section-04/05.html) | 一部（論点限定） | 未了 |
 | 04 | [副作用が心配。薬をやめてもいい？](../content/children-medicine/section-04/06.html) | 未実施 | 未了 |
 | 05 | [子どもの薬の誤飲、どう防ぐ？](../content/children-medicine/section-05/01.html) | 一部（論点限定） | 未了 |
 | 05 | [薬はどこに保管するのが安全？](../content/children-medicine/section-05/02.html) | 一部（論点限定） | 未了 |
