@@ -208,6 +208,17 @@
 
 **資料照合は上記論点に限定。全記事の最終医学的承認は未了。**
 
+### 08/01–08/04｜薬剤師相談・薬が使えない・副作用相談・受診先（論点限定、2026-10-18）
+
+| 記事 | 原典で確認した論点 | 判定・修正・留保 |
+|---|---|---|
+| 08/01 薬剤師に相談 | [PMDAくすり相談窓口](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/0003.html)：医療用・一般用医薬品の使い方、飲み合わせの相談可。個人の薬についてはかかりつけ医・薬局にも相談を案内 | 一致。処方箋がない場合の相談と、まずかかりつけへ相談する案内を補足。個別薬剤の相談事項は未照合 |
+| 08/02 薬が使えない | [PMDA Q8](https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0008.html)：飲ませ方の工夫と薬剤師への相談 | 一般原則のみ整合。重要な薬が使用できない場合、予定時刻を待たず処方元へ連絡する点を補足。ただし薬剤群別の緊急度の照合は未実施 |
+| 08/03 副作用相談 | [PMDA患者副作用報告](https://www.pmda.go.jp/safety/reports/patients/0024.html)：服用状況、薬剤・症状の記録。副作用相談はくすり相談窓口へ | 一般原則に一致。原因未確定の症状は事実として記録する旨を追記。個別の副作用因果関係は未照合 |
+| 08/04 病院・薬局どちら | [厚労省：子ども医療電話相談 #8000](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/newpage_55223.html)：地域により相談対応時間が異なり、小児の症状・受診判断を相談できる | 一致。#8000の役割と緊急時119番を明確化。地域ごとの対応時間は未照合 |
+
+**この4記事は上記の個別論点について資料確認を行った段階。記事全文の医学的検証・医療者による公開承認は未了。**
+
 ## 52記事一覧
 
 | 部門 | 記事 | 原典照合 | 医療者最終承認 |
@@ -259,10 +270,10 @@
 | 07 | [保育園・幼稚園・学校で薬を飲むには？](../content/children-medicine/section-07/04.html) | 一部（論点限定） | 未了 |
 | 07 | [外出・旅行のとき、薬はどう持っていく？](../content/children-medicine/section-07/05.html) | 一部（論点限定） | 未了 |
 | 07 | [子どもが自分で薬を管理するのは、いつから？](../content/children-medicine/section-07/06.html) | 一部（論点限定） | 未了 |
-| 08 | [薬剤師には、どんなことを相談していいの？](../content/children-medicine/section-08/01.html) | 未実施 | 未了 |
-| 08 | [薬が飲めない・使えないとき、どう相談すればいい？](../content/children-medicine/section-08/02.html) | 未実施 | 未了 |
-| 08 | [薬の副作用かも？ どう相談すればいい？](../content/children-medicine/section-08/03.html) | 未実施 | 未了 |
-| 08 | [病院と薬局、どちらに相談すればいい？](../content/children-medicine/section-08/04.html) | 未実施 | 未了 |
+| 08 | [薬剤師には、どんなことを相談していいの？](../content/children-medicine/section-08/01.html) | 一部（論点限定） | 未了 |
+| 08 | [薬が飲めない・使えないとき、どう相談すればいい？](../content/children-medicine/section-08/02.html) | 一部（論点限定） | 未了 |
+| 08 | [薬の副作用かも？ どう相談すればいい？](../content/children-medicine/section-08/03.html) | 一部（論点限定） | 未了 |
+| 08 | [病院と薬局、どちらに相談すればいい？](../content/children-medicine/section-08/04.html) | 一部（論点限定） | 未了 |
 | 08 | [お薬手帳は、子どもにも必要？](../content/children-medicine/section-08/05.html) | 一部（論点限定） | 未了 |
 
 ## レビュー記録テンプレート
