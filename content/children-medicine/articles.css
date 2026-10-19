@@ -68,3 +68,13 @@
 .article-body .article-summary{background:#eaf4f0;border-left:5px solid #699d88;border-radius:12px;padding:16px 20px;margin:0 0 23px;line-height:1.8}
 .article-body .article-summary strong{display:block;font-weight:800;margin-bottom:5px;color:#275449}
 .article-body .article-summary p{margin:0}
+
+/* ミライラボ共通のダークブラウン + 子どものお薬は淡いブルー */
+.article-main{color:#493c3b}
+.article-main h1,.article-main h2,.article-main h3,.article-main p,.article-main li,.article-main summary{color:#493c3b}
+.article-main .article-toc{background:#e9f1f7;border-color:#cadce9}
+.article-main .article-summary{background:#e8f2f8;border-left-color:#7095ac}
+.article-main .article-faq-mark{background:#dcebf5;color:#493c3b}
+.article-main .article-faq-answer{background:#f1f7fb}
+.article-main .article-body h2{border-bottom-color:#b6d0e1}
+.article-main .article-body a,.article-main .breadcrumb a,.article-main .article-pagination a{color:#493c3b}
