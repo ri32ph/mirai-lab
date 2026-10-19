@@ -43,3 +43,11 @@ body .qa-item[data-field]{border-color:var(--qa-card-strong)}
 body .qa-item[data-field] summary{background:var(--qa-card-accent);color:#493c3b}
 body .qa-item[data-field] .qa-body{background:color-mix(in srgb,var(--qa-card-accent) 54%,white);color:#493c3b;border-top-color:var(--qa-card-strong)}
 body .qa-item[data-field] .qa-tag{background:var(--qa-card-accent);color:#493c3b}
+
+/* FAQ adjustment: keep question headers in original neutral white; tint only expanded answers. */
+body[class*="theme-"] .faq summary,
+body[class*="theme-"] .article-body .article-faq summary,
+body[class*="theme-"] .qa-index-item summary,
+body .qa-item[data-field] summary,
+body[class*="theme-"] .qa-item summary{background:#fffefa;color:#493c3b}
+body[class*="theme-"] .qa-item[open] summary{background:#fffefa}
