@@ -1,0 +1,19 @@
+/* MIRAI LAB shared typography and softly differentiated section themes */
+body{--ml-ink:#493c3b;--ml-accent:#e6efdf;--ml-accent-strong:#6d8d75;--ml-paper:#fffbf4;color:var(--ml-ink);font-family:'Hiragino Maru Gothic ProN','Yu Gothic',Meiryo,sans-serif}
+body.theme-adults{--ml-accent:#e2eee2;--ml-accent-strong:#507960}
+body.theme-kids-youth{--ml-accent:#fbe7d8;--ml-accent-strong:#9f664a}
+body.theme-older-adults{--ml-accent:#e8e5f5;--ml-accent-strong:#6f6298}
+body.theme-family{--ml-accent:#f8e3e3;--ml-accent-strong:#a56573}
+body.theme-children-medicine{--ml-accent:#e2edf4;--ml-accent-strong:#527a96}
+body.theme-medicine-guide{--ml-accent:#efe9d7;--ml-accent-strong:#947a4f}
+body.theme-find{--ml-accent:#e6efdf;--ml-accent-strong:#6d8d75}
+body.theme-adults,body.theme-kids-youth,body.theme-older-adults,body.theme-family,body.theme-children-medicine,body.theme-medicine-guide,body.theme-find{color:var(--ml-ink)}
+body[class*="theme-"] h1,body[class*="theme-"] h2,body[class*="theme-"] h3,body[class*="theme-"] h4,body[class*="theme-"] p,body[class*="theme-"] li,body[class*="theme-"] label,body[class*="theme-"] summary{color:var(--ml-ink)}
+body[class*="theme-"] a{color:var(--ml-ink)}
+body[class*="theme-"] .hero,body[class*="theme-"] .ad-hero,body[class*="theme-"] .ky-hero,body[class*="theme-"] .oa-hero,body[class*="theme-"] .fm-hero{background:var(--ml-accent)}
+body[class*="theme-"] .card.active,body[class*="theme-"] .article-toc,body[class*="theme-"] .article-summary,body[class*="theme-"] .qa-item[open] summary,body[class*="theme-"] .find-hero{background:var(--ml-accent)}
+body[class*="theme-"] .eyebrow,body[class*="theme-"] .pill,body[class*="theme-"] .ky-kicker{color:var(--ml-ink)}
+body[class*="theme-"] .pill,body[class*="theme-"] .qa-tag{background:var(--ml-accent)}
+body[class*="theme-"] .article-body h2{border-bottom-color:var(--ml-accent-strong)}
+body[class*="theme-"] a:focus-visible,body[class*="theme-"] button:focus-visible,body[class*="theme-"] summary:focus-visible{outline:3px solid var(--ml-accent-strong);outline-offset:3px}
+/* Preserve emergency warnings and accessible contrast: pastel backgrounds are accents, not pale foreground text. */
