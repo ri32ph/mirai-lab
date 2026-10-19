@@ -84,3 +84,6 @@
 .article-body .article-faq summary{background:#e2edf4;color:#493c3b}
 .article-body .article-faq-answer{background:#f1f7fb;color:#493c3b;border-top-color:#8daec4}
 .article-body .article-faq summary::after{color:#493c3b}
+
+/* Questions remain neutral; only expanded answers use the pale pediatric theme. */
+.article-body .article-faq summary{background:#fffdfa;color:#493c3b}
