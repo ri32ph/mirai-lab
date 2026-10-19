@@ -1,9 +1,9 @@
 const labs=[
-{path:'content/children-medicine/index.html',title:'おくすりののみかたラボ',audience:'乳幼児・保護者',icon:'🧸',color:'#f1e3d7',catch:'親子に合った方法を見つけよう',entry:'子どものお薬の使い方・飲ませ方を調べる →',menus:['年齢から探す','薬の種類から探す','困りごとから探す','飲ませ方を試してみる']},
-{path:'content/kids-youth/index.html',title:'キミの未来ラボ',audience:'子ども・若者',icon:'🌱',color:'#e6eadb',catch:'自分を知ることから始めよう',entry:'薬や体・心のことを楽しく学ぶ →',menus:['薬','体と心','毎日の健康','未来を考える']},
-{path:'content/adults/index.html',title:'わたしの未来ラボ',audience:'成人',icon:'☀️',color:'#f3eacb',catch:'忙しい毎日にも、自分を大切に',entry:'毎日の健康づくりのヒントを探す →',menus:['薬との付き合い方','健康診断','食事・運動・睡眠','これからの健康']},
-{path:'content/older-adults/index.html',title:'これからの未来ラボ',audience:'高齢者',icon:'🌷',color:'#e7e9e1',catch:'これからも、好きなことを',entry:'好きなことを続けるための工夫を探す →',menus:['やりたいこと探し','薬と暮らし','食べる・動く・つながる','自分の希望を伝える']},
-{path:'content/family/index.html',title:'家族の未来ラボ',audience:'家族・支援者',icon:'🤝',color:'#efe1dc',catch:'大切な人も、自分も、大切に',entry:'子育て・介護や家族の薬について調べる →',menus:['子育て','介護','家族の薬','支える人の健康']}];
+{path:'content/children-medicine/index.html',title:'おくすりののみかたラボ',audience:'乳幼児・保護者',icon:'🧸',color:'#e2edf4',catch:'親子に合った方法を見つけよう',entry:'子どものお薬の使い方・飲ませ方を調べる →',menus:['年齢から探す','薬の種類から探す','困りごとから探す','飲ませ方を試してみる']},
+{path:'content/kids-youth/index.html',title:'キミの未来ラボ',audience:'子ども・若者',icon:'🌱',color:'#fbe7d8',catch:'自分を知ることから始めよう',entry:'薬や体・心のことを楽しく学ぶ →',menus:['薬','体と心','毎日の健康','未来を考える']},
+{path:'content/adults/index.html',title:'わたしの未来ラボ',audience:'成人',icon:'☀️',color:'#e2eee2',catch:'忙しい毎日にも、自分を大切に',entry:'毎日の健康づくりのヒントを探す →',menus:['薬との付き合い方','健康診断','食事・運動・睡眠','これからの健康']},
+{path:'content/older-adults/index.html',title:'これからの未来ラボ',audience:'高齢者',icon:'🌷',color:'#e8e5f5',catch:'これからも、好きなことを',entry:'好きなことを続けるための工夫を探す →',menus:['やりたいこと探し','薬と暮らし','食べる・動く・つながる','自分の希望を伝える']},
+{path:'content/family/index.html',title:'家族の未来ラボ',audience:'家族・支援者',icon:'🤝',color:'#f8e3e3',catch:'大切な人も、自分も、大切に',entry:'子育て・介護や家族の薬について調べる →',menus:['子育て','介護','家族の薬','支える人の健康']}];
 const dialog=document.querySelector('#dialog'),body=document.querySelector('#dialog-body');
 function show(html){body.innerHTML=html;if(!dialog.open)dialog.showModal();}
 document.querySelector('.close').onclick=()=>dialog.close();dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}});
