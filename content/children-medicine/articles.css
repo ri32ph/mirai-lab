@@ -78,3 +78,9 @@
 .article-main .article-faq-answer{background:#f1f7fb}
 .article-main .article-body h2{border-bottom-color:#b6d0e1}
 .article-main .article-body a,.article-main .breadcrumb a,.article-main .article-pagination a{color:#493c3b}
+
+/* FAQ accordion: pediatric pastel blue on both title and expanded answer */
+.article-body .article-faq{border-color:#8daec4}
+.article-body .article-faq summary{background:#e2edf4;color:#493c3b}
+.article-body .article-faq-answer{background:#f1f7fb;color:#493c3b;border-top-color:#8daec4}
+.article-body .article-faq summary::after{color:#493c3b}
