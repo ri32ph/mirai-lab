@@ -17,3 +17,29 @@ body[class*="theme-"] .pill,body[class*="theme-"] .qa-tag{background:var(--ml-ac
 body[class*="theme-"] .article-body h2{border-bottom-color:var(--ml-accent-strong)}
 body[class*="theme-"] a:focus-visible,body[class*="theme-"] button:focus-visible,body[class*="theme-"] summary:focus-visible{outline:3px solid var(--ml-accent-strong);outline-offset:3px}
 /* Preserve emergency warnings and accessible contrast: pastel backgrounds are accents, not pale foreground text. */
+
+/* Q&A cards: theme-matched question and softer open answer surfaces */
+body[class*="theme-"] .faq,
+body[class*="theme-"] .article-body .article-faq,
+body[class*="theme-"] .qa-index-item{border-color:var(--ml-accent-strong);background:#fffefa}
+body[class*="theme-"] .faq summary,
+body[class*="theme-"] .article-body .article-faq summary,
+body[class*="theme-"] .qa-index-item summary{background:var(--ml-accent);color:var(--ml-ink)}
+body[class*="theme-"] .faq .answer,
+body[class*="theme-"] .article-body .article-faq-answer,
+body[class*="theme-"] .qa-index-item .qa-answer{background:color-mix(in srgb,var(--ml-accent) 52%,white);color:var(--ml-ink);border-top-color:var(--ml-accent-strong)}
+body[class*="theme-"] .article-faq-mark,
+body[class*="theme-"] .qa-q{background:color-mix(in srgb,var(--ml-accent-strong) 22%,white);color:var(--ml-ink)}
+body[class*="theme-"] .faq summary::after,
+body[class*="theme-"] .article-faq summary::after,
+body[class*="theme-"] .qa-index-item summary::after{color:var(--ml-ink)}
+/* The all-fields Q&A hub colors each result by its actual source section. */
+.qa-item[data-field="children-medicine"]{--qa-card-accent:#e2edf4;--qa-card-strong:#527a96}
+.qa-item[data-field="kids-youth"]{--qa-card-accent:#fbe7d8;--qa-card-strong:#9f664a}
+.qa-item[data-field="adults"]{--qa-card-accent:#e2eee2;--qa-card-strong:#507960}
+.qa-item[data-field="older-adults"]{--qa-card-accent:#e8e5f5;--qa-card-strong:#6f6298}
+.qa-item[data-field="family"]{--qa-card-accent:#f8e3e3;--qa-card-strong:#a56573}
+body .qa-item[data-field]{border-color:var(--qa-card-strong)}
+body .qa-item[data-field] summary{background:var(--qa-card-accent);color:#493c3b}
+body .qa-item[data-field] .qa-body{background:color-mix(in srgb,var(--qa-card-accent) 54%,white);color:#493c3b;border-top-color:var(--qa-card-strong)}
+body .qa-item[data-field] .qa-tag{background:var(--qa-card-accent);color:#493c3b}
