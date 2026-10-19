@@ -87,3 +87,7 @@
 
 /* Questions remain neutral; only expanded answers use the pale pediatric theme. */
 .article-body .article-faq summary{background:#fffdfa;color:#493c3b}
+
+/* 「まず知ってほしいこと」だけ白地に統一。Q&Aや注意喚起の配色は維持。 */
+.article-main .article-body .article-summary{background:#fff;border:1px solid #d8e3ea;border-left:5px solid #7095ac;color:#493c3b}
+.article-main .article-body .article-summary strong{color:#493c3b}
