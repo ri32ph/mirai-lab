@@ -1,0 +1,8 @@
+{
+  "fiscal_expiry_guard": "PASS",
+  "status": "PASS",
+  "boundary_cases": 51,
+  "age_month_combinations_checked": 1224,
+  "ui_initialization_and_selection": "PASS",
+  "scope": "対象候補・境界・条件ラベル・DOMスタブの操作。医療者承認やブラウザ目視ではない。"
+}

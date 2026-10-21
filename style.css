@@ -200,3 +200,6 @@
 
 /* 各ラボのトップカードは各分野と同じパステル色。文字色はトップ共通のダークブラウン。 */
 .lab-card,.lab-card h3,.lab-card .catch,.lab-card .audience,.lab-card .card-arrow{color:#493c3b}
+
+/* 年代別入口とは別の、薬・予防接種の共通メニュー */
+.medical-section{padding-top:16px}.medical-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.medical-card{display:flex;flex-direction:column;min-width:0;padding:30px;border:1px solid #d8cbb4;border-radius:22px;background:#f5efdf}.medical-card:nth-child(2){background:#e7efe5;border-color:#c4d4c2}.medical-label{font-size:.8rem;color:#635b46}.medical-card h3{font-size:1.4rem;margin:12px 0}.medical-card p{font-size:.95rem;margin:0 0 24px}.medical-action{display:flex;justify-content:space-between;gap:16px;margin-top:auto;padding-top:16px;border-top:1px solid #74664f35;font-weight:700;font-size:.95rem}.medical-card:hover{border-color:#80564d;box-shadow:0 5px 18px #493c3b0d}body.large .medical-label,body.large .medical-card p,body.large .medical-action{font-size:1.1rem}body.large .medical-card h3{font-size:1.65rem}@media(max-width:760px){.medical-grid{grid-template-columns:minmax(0,1fr)}.medical-card{padding:24px}}@media print{.medical-section{padding:15px 0}.medical-card{break-inside:avoid;background:white;color:black}.medical-grid{grid-template-columns:1fr 1fr}}

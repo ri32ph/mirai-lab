@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-20",
+  "status": "PASS",
+  "html_pages_checked": 5,
+  "internal_references": 100,
+  "errors": [],
+  "age_audience_menu_unchanged": true,
+  "medical_menu_separate": true,
+  "external_banner": "machicare.vercel.app; external label; noopener noreferrer",
+  "changed_existing_files": [
+    "find.html",
+    "index.html",
+    "style.css"
+  ],
+  "medical_final_review": "pending",
+  "visual_browser_check": "not_completed"
+}
