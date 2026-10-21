@@ -5,3 +5,6 @@
 @media(max-width:600px){.h-main{padding:20px 18px 50px}.h-entry-card{padding:22px;gap:18px;align-items:flex-start}.h-entry-card img{width:64px;height:64px}.h-entry-card h2{font-size:1.35rem}.h-entry-card p{font-size:.95rem}.h-hero img{width:80px;height:80px}.h-planned li{align-items:flex-start}.h-table th,.h-table td{padding:10px;font-size:.9rem}.h-table th:first-child,.h-table td:first-child{width:34%}}
 @media(max-width:380px){.h-entry-card{flex-direction:column}.h-hero img{float:none;margin:0 0 12px}.h-planned li{flex-direction:column;gap:6px}}
 @media print{.theme-health-habits header,.h-breadcrumb,.h-toc,.h-related{display:none!important}.h-main{max-width:none;padding:0}.h-panel,.h-hero{background:white;border:0;padding:8px 0}.h-prose h2{break-after:avoid}.h-prose p,.h-prose li{orphans:3;widows:3}.h-entry-card{break-inside:avoid}.h-review{background:white;border:1px solid #999}.h-hero h1{font-size:22pt}}
+
+/* 共通navの横並び指定を目次には適用しない。 */
+.theme-health-habits .h-toc{display:block;width:auto;margin:24px 0;font-size:1rem}
