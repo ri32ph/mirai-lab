@@ -1,0 +1,171 @@
+{
+  "cholesterol-exercise": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "食事・運動とLDLコレステロール",
+    "titles": [
+      "食事・運動も大切",
+      "体質や病歴も関わる",
+      "薬は相談して決める"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "adults/movement.webp",
+      "adults/medicines.webp"
+    ],
+    "lifestyle": [
+      "健康全体を支える",
+      "食事・運動は、脂質だけでなく血圧や体力などにも関わります。"
+    ],
+    "medicine": [
+      "LDLコレステロールを下げる",
+      "体質やこれまでの病気などに合わせ、薬を組み合わせます。"
+    ],
+    "note": "薬が必要かどうかは、検査値だけでなく病歴や心血管リスクも合わせて考えます。",
+    "descriptions": [
+      "薬を使う場合も、続けられる健康習慣を大切に。",
+      "食事だけでなく、生まれ持った体質などもLDL値に影響します。",
+      "数値や病歴を合わせて考え、薬は自己判断でやめない。"
+    ]
+  },
+  "hypertension-salt": {
+    "hero": "health-habits/blood-pressure.webp",
+    "scope": "減塩と血圧の管理",
+    "titles": [
+      "薬を使っても減塩を",
+      "下がり方には個人差",
+      "下がっても自己中止しない"
+    ],
+    "icons": [
+      "health-habits/less-salt.webp",
+      "health-habits/blood-pressure.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "日々の血圧管理を支える",
+      "減塩や体に合う運動など、続けやすい習慣を整えます。"
+    ],
+    "medicine": [
+      "血圧を整える",
+      "家庭血圧や病歴などを見ながら、必要な治療を組み合わせます。"
+    ],
+    "note": "目標の血圧や薬を調整する時期は、記録をもとに医師と相談します。",
+    "descriptions": [
+      "治療中の減塩も、血圧の管理に役立ちます。",
+      "減塩だけで十分かどうかは、人によって異なります。",
+      "家庭血圧を記録し、減薬・中止は医師と相談。"
+    ],
+    "lifestyleIcon": "health-habits/less-salt.webp"
+  },
+  "diabetes-diet": {
+    "hero": "health-habits/blood-glucose.webp",
+    "scope": "主に成人の2型糖尿病について",
+    "titles": [
+      "食事・運動は治療の土台",
+      "治療は一人ひとり違う",
+      "低血糖に気をつける"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "adults/medicines.webp",
+      "health-habits/blood-glucose.webp"
+    ],
+    "lifestyle": [
+      "栄養と体の動きを整える",
+      "必要な栄養を摂り、体の状態に合う運動を続けます。"
+    ],
+    "medicine": [
+      "血糖や合併症に応じて選ぶ",
+      "インスリンの出方・効き方や、心臓・腎臓の状態も考えて選びます。"
+    ],
+    "note": "1型糖尿病などのインスリン依存状態では、インスリン治療を食事・運動で置き換えることはできません。",
+    "descriptions": [
+      "必要な栄養を摂り、無理のない運動を続けます。",
+      "血糖値・体質・合併症に合わせて選び、薬の変更は相談を。",
+      "食事を抜く・急に運動を増やすと、薬によっては低血糖に。"
+    ]
+  },
+  "osteoporosis-calcium": {
+    "hero": "health-habits/bone.webp",
+    "scope": "栄養・運動と骨折の予防",
+    "titles": [
+      "栄養と転倒予防を一緒に",
+      "骨折の危険も見て考える",
+      "薬とサプリをまとめて確認"
+    ],
+    "icons": [
+      "older-adults/walking.webp",
+      "health-habits/bone.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "骨と体を支える",
+      "必要な栄養と体に合う運動を続け、転倒しにくい環境を整えます。"
+    ],
+    "medicine": [
+      "骨折を防ぐ治療を選ぶ",
+      "骨密度や骨折歴などに応じ、骨の作り替えに働く薬を使います。"
+    ],
+    "note": "カルシウムは大切な材料です。必要な薬や注射を自己判断で中断しないようにしましょう。",
+    "descriptions": [
+      "カルシウムだけでなく、食事全体と体の動きも。",
+      "骨密度と骨折歴などを合わせ、治療を選びます。",
+      "薬や注射の中断、サプリの追加は相談してから。"
+    ]
+  },
+  "anemia-iron": {
+    "hero": "health-habits/red-blood-cells.webp",
+    "scope": "主に成人の貧血について",
+    "titles": [
+      "まず、貧血の原因を知る",
+      "鉄剤が必要なこともある",
+      "終える時期も相談する"
+    ],
+    "icons": [
+      "health-habits/red-blood-cells.webp",
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "必要な栄養を摂る",
+      "鉄を含む食品を取り入れながら、食事全体を整えます。"
+    ],
+    "medicine": [
+      "不足している鉄を補う",
+      "鉄不足がある場合は、原因への対応と並行して鉄剤などを使います。"
+    ],
+    "note": "貧血は鉄不足だけで起こるものではありません。原因に合った検査や治療が必要です。",
+    "descriptions": [
+      "鉄不足とは限りません。検査で原因を確認。",
+      "食事の工夫と、必要に応じた鉄の補充を。",
+      "血液の数値が改善しても、貯蔵鉄が不足していることがあります。"
+    ]
+  },
+  "constipation-fiber": {
+    "hero": "health-habits/intestine.webp",
+    "scope": "主に成人の便秘について",
+    "titles": [
+      "食物繊維は少しずつ",
+      "つらさに合う薬を選ぶ",
+      "受診したいサインもある"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "health-habits/intestine.webp",
+      "adults/medicines.webp"
+    ],
+    "lifestyle": [
+      "排便しやすい習慣を整える",
+      "食事・水分・体の動き・トイレの習慣を、体に合う範囲で見直します。"
+    ],
+    "medicine": [
+      "便を出しやすくする",
+      "硬さや出しにくさなどに合わせて、薬やほかの治療を組み合わせます。"
+    ],
+    "note": "強い腹痛や嘔吐などがあるときは、食物繊維や下剤を追加して様子を見続けないでください。",
+    "descriptions": [
+      "多いほどよい、とは限りません。体の反応を見ながら。",
+      "硬さや出しにくさに合わせ、薬を組み合わせます。",
+      "強い腹痛・嘔吐・血便は、食事や下剤だけで様子を見続けないで。"
+    ]
+  }
+}

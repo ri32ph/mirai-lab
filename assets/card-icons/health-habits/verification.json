@@ -1,0 +1,49 @@
+{
+  "images": [
+    {
+      "file": "blood-glucose.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1163722
+    },
+    {
+      "file": "blood-pressure.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1223075
+    },
+    {
+      "file": "bone.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1078481
+    },
+    {
+      "file": "intestine.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1242434
+    },
+    {
+      "file": "less-salt.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1237484
+    },
+    {
+      "file": "red-blood-cells.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1109130
+    }
+  ],
+  "galleryImageLinks": "6/6 passed",
+  "visualInspection": "all six inspected",
+  "publication": "not published"
+}
