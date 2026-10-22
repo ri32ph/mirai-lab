@@ -8,3 +8,6 @@
 
 /* 共通navの横並び指定を目次には適用しない。 */
 .theme-health-habits .h-toc{display:block;width:auto;margin:24px 0;font-size:1rem}
+
+/* 要点は本文に、詳しい研究情報は開閉できる補足に。 */
+.h-keypoints{background:#edf4e9;border:1px solid #c8d8be;border-radius:16px;padding:20px 24px;margin:28px 0}.h-keypoints-title{font-size:1.1rem;font-weight:700;margin:0 0 12px}.h-keypoints ul{margin-bottom:0}.h-research{background:#f2f5f9;border:1px solid #cbd6e1;border-radius:14px;margin:24px 0;padding:0 20px}.h-research summary{cursor:pointer;font-weight:700;padding:18px 0;line-height:1.7;min-height:44px}.h-research summary:focus-visible{outline:3px solid #235f87;outline-offset:3px;border-radius:6px}.h-research[open]{padding-bottom:14px}.h-research[open] summary{border-bottom:1px solid #cbd6e1;margin-bottom:18px}.h-research .h-table{background:white}.h-research p{font-size:.95rem}.h-prose strong{font-weight:700}@media(max-width:600px){.h-keypoints{padding:18px}.h-research{padding-left:15px;padding-right:15px}}@media print{.h-keypoints,.h-research{background:white;box-shadow:none}.h-research summary{break-after:avoid}}
