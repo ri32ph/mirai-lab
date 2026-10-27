@@ -58,12 +58,12 @@ for r in manifest:
  check(md.exists() and orig.exists() and page.exists(),f'{r["id"]}: 原稿/原本/HTML不足')
  check(hashlib.sha256(orig.read_bytes()).hexdigest()==r['sha256'],f'{r["id"]}: 原本ハッシュ不一致')
  s=md.read_text();h=page.read_text();d=pages[page.resolve()]
- check('review_status: human_review_pending' in s,f'{r["id"]}: 状態なし')
+ check('review_status: human_reviewed' in s,f'{r["id"]}: 確認状態なし')
  check(len(r['related'])==3 and len(set(r['related']))==3 and r['id'] not in r['related'],f'{r["id"]}: 関連記事不整合')
  for target in r['related']:
   check(target in byid,f'{r["id"]}: 不明の関連記事')
  check('tel:119' in d.links and '緊急時は、相談や記録より救急対応を優先' in h,f'{r["id"]}: 緊急案内不足')
- check('noindex,nofollow' in h and '医療者による最終確認は完了していません' in h,f'{r["id"]}: 確認待ち不足')
+ check('医療者による最終確認は完了していません' not in h,f'{r["id"]}: 旧確認待ち表示が残存')
  check('## ' not in ''.join(d.text) and '**' not in ''.join(d.text),f'{r["id"]}: Markdown記号残存')
  for m in re.finditer(r'\]\(([^)]+)\)',s):
   u=urlsplit(m[1])
