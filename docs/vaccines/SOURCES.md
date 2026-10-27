@@ -40,3 +40,10 @@
 自治体ごとの認定・助成、長期療養等の全特例、任意接種の一覧、必要回数・接種可否・接種間隔の個別判定は対象外。2027年度になると更新確認まで年齢選択を停止する。
 
 データの医療者最終承認は未了。資料の製剤別全記載を完全に点検したものではなく、機能に使う対象条件を確認した記録。
+
+## 2026年10月21日：対象期間の強調表示
+
+- [厚生労働省｜高齢者の肺炎球菌ワクチン](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/pneumococcus-senior/index.html)：定期接種対象は65歳、60〜64歳は一定の障害のある方。2026年度はPCV20を使用。長期療養特例は個別確認が必要。通常の対象期間として65歳の間を強調し、生涯で接種できる機会が一度だけという表現にはしていない。
+- [厚生労働省｜MRワクチン](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/mr/index.html)：第1期の通常対象は1歳以上2歳未満。対象年齢外の相談・特例の可能性も否定しない。
+
+強調対象はまず肺炎球菌65歳とMR第1期の2例。年度・生年月日・週齢による条件がある接種を、年齢だけで同じ表示に追加していない。未強調の接種に期限がないという意味ではない。age-data.jsonのattentionに対象年齢・文言を管理。元の対象候補判定は維持。

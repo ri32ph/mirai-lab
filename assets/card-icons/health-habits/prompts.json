@@ -1,0 +1,36 @@
+{
+  "mode": "built-in image_gen",
+  "styleReference": "../kids-youth/sports-medicine.webp",
+  "items": [
+    {
+      "file": "blood-pressure.png",
+      "label": "血圧計",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: A simple upper-arm blood pressure monitor, sage upper-arm cuff connected by one short tube to a cream and muted blue monitor. Screen has only two short horizontal strokes, no numerical reading."
+    },
+    {
+      "file": "blood-glucose.png",
+      "label": "血糖測定器",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: One simple muted blue blood glucose meter with a test strip inserted at its lower edge and one small coral blood drop beside it. Blank screen with two tiny horizontal strokes, no numerical reading. No syringe."
+    },
+    {
+      "file": "bone.png",
+      "label": "骨",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: One single friendly simplified long bone tilted diagonally, rounded joint ends, ivory fill, two small mustard accent rays. No fracture, no skeleton, no food."
+    },
+    {
+      "file": "red-blood-cells.png",
+      "label": "赤血球",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: Three simplified rounded red blood cells in muted coral, recognizable biconcave discs with gentle darker central depressions. Non-gory educational symbol. No vessel, no medicine, no lettering."
+    },
+    {
+      "file": "intestine.png",
+      "label": "腸",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: One simplified friendly large intestine in soft coral around a few broad smooth loops of small intestine. Recognizable gut silhouette, anatomically inspired but very simple, no face, no other organs, no medical claims."
+    },
+    {
+      "file": "less-salt.png",
+      "label": "減塩",
+      "prompt": "Use case: illustration-story. Asset type: reusable square Mirai Lab website point-card icon. Input image is STYLE REFERENCE ONLY; generate an entirely new subject. Match its warm cream unoutlined circular backing, thick dark brown rounded outlines, gently irregular hand-drawn but crisp flat fills, muted sage/coral/mustard/pale blue palette, small simple highlights. Centered large single motif on cream disc occupying 88 percent of square; outside disc genuinely transparent alpha. Readable at 72px. No text, labels, numbers, logo, watermark, realistic pencil texture, gradients, 3D, extra decorative objects or faces. Subject: A small tilted glass salt shaker with sage lid pouring just three tiny salt grains onto a small spoon. Restrained amount, no prohibition sign, no words. Clear simple salt-seasoning motif."
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "cholesterol-exercise": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "食事・運動とLDLコレステロール",
+    "titles": [
+      "食事・運動も大切",
+      "体質や病歴も関わる",
+      "薬は相談して決める"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "adults/movement.webp",
+      "adults/medicines.webp"
+    ],
+    "lifestyle": [
+      "健康全体を支える",
+      "食事・運動は、脂質だけでなく血圧や体力などにも関わります。"
+    ],
+    "medicine": [
+      "LDLコレステロールを下げる",
+      "体質やこれまでの病気などに合わせ、薬を組み合わせます。"
+    ],
+    "note": "薬が必要かどうかは、検査値だけでなく病歴や心血管リスクも合わせて考えます。",
+    "descriptions": [
+      "薬を使う場合も、続けられる健康習慣を大切に。",
+      "食事だけでなく、生まれ持った体質などもLDL値に影響します。",
+      "数値や病歴を合わせて考え、薬は自己判断でやめない。"
+    ]
+  },
+  "hypertension-salt": {
+    "hero": "health-habits/blood-pressure.webp",
+    "scope": "減塩と血圧の管理",
+    "titles": [
+      "薬を使っても減塩を",
+      "下がり方には個人差",
+      "下がっても自己中止しない"
+    ],
+    "icons": [
+      "health-habits/less-salt.webp",
+      "health-habits/blood-pressure.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "日々の血圧管理を支える",
+      "減塩や体に合う運動など、続けやすい習慣を整えます。"
+    ],
+    "medicine": [
+      "血圧を整える",
+      "家庭血圧や病歴などを見ながら、必要な治療を組み合わせます。"
+    ],
+    "note": "目標の血圧や薬を調整する時期は、記録をもとに医師と相談します。",
+    "descriptions": [
+      "治療中の減塩も、血圧の管理に役立ちます。",
+      "減塩だけで十分かどうかは、人によって異なります。",
+      "家庭血圧を記録し、減薬・中止は医師と相談。"
+    ],
+    "lifestyleIcon": "health-habits/less-salt.webp"
+  },
+  "diabetes-diet": {
+    "hero": "health-habits/blood-glucose.webp",
+    "scope": "主に成人の2型糖尿病について",
+    "titles": [
+      "食事・運動は治療の土台",
+      "治療は一人ひとり違う",
+      "低血糖に気をつける"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "adults/medicines.webp",
+      "health-habits/blood-glucose.webp"
+    ],
+    "lifestyle": [
+      "栄養と体の動きを整える",
+      "必要な栄養を摂り、体の状態に合う運動を続けます。"
+    ],
+    "medicine": [
+      "血糖や合併症に応じて選ぶ",
+      "インスリンの出方・効き方や、心臓・腎臓の状態も考えて選びます。"
+    ],
+    "note": "1型糖尿病などのインスリン依存状態では、インスリン治療を食事・運動で置き換えることはできません。",
+    "descriptions": [
+      "必要な栄養を摂り、無理のない運動を続けます。",
+      "血糖値・体質・合併症に合わせて選び、薬の変更は相談を。",
+      "食事を抜く・急に運動を増やすと、薬によっては低血糖に。"
+    ]
+  },
+  "osteoporosis-calcium": {
+    "hero": "health-habits/bone.webp",
+    "scope": "栄養・運動と骨折の予防",
+    "titles": [
+      "栄養と転倒予防を一緒に",
+      "骨折の危険も見て考える",
+      "薬とサプリをまとめて確認"
+    ],
+    "icons": [
+      "older-adults/walking.webp",
+      "health-habits/bone.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "骨と体を支える",
+      "必要な栄養と体に合う運動を続け、転倒しにくい環境を整えます。"
+    ],
+    "medicine": [
+      "骨折を防ぐ治療を選ぶ",
+      "骨密度や骨折歴などに応じ、骨の作り替えに働く薬を使います。"
+    ],
+    "note": "カルシウムは大切な材料です。必要な薬や注射を自己判断で中断しないようにしましょう。",
+    "descriptions": [
+      "カルシウムだけでなく、食事全体と体の動きも。",
+      "骨密度と骨折歴などを合わせ、治療を選びます。",
+      "薬や注射の中断、サプリの追加は相談してから。"
+    ]
+  },
+  "anemia-iron": {
+    "hero": "health-habits/red-blood-cells.webp",
+    "scope": "主に成人の貧血について",
+    "titles": [
+      "まず、貧血の原因を知る",
+      "鉄剤が必要なこともある",
+      "終える時期も相談する"
+    ],
+    "icons": [
+      "health-habits/red-blood-cells.webp",
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp"
+    ],
+    "lifestyle": [
+      "必要な栄養を摂る",
+      "鉄を含む食品を取り入れながら、食事全体を整えます。"
+    ],
+    "medicine": [
+      "不足している鉄を補う",
+      "鉄不足がある場合は、原因への対応と並行して鉄剤などを使います。"
+    ],
+    "note": "貧血は鉄不足だけで起こるものではありません。原因に合った検査や治療が必要です。",
+    "descriptions": [
+      "鉄不足とは限りません。検査で原因を確認。",
+      "食事の工夫と、必要に応じた鉄の補充を。",
+      "血液の数値が改善しても、貯蔵鉄が不足していることがあります。"
+    ]
+  },
+  "constipation-fiber": {
+    "hero": "health-habits/intestine.webp",
+    "scope": "主に成人の便秘について",
+    "titles": [
+      "食物繊維は少しずつ",
+      "つらさに合う薬を選ぶ",
+      "受診したいサインもある"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "health-habits/intestine.webp",
+      "adults/medicines.webp"
+    ],
+    "lifestyle": [
+      "排便しやすい習慣を整える",
+      "食事・水分・体の動き・トイレの習慣を、体に合う範囲で見直します。"
+    ],
+    "medicine": [
+      "便を出しやすくする",
+      "硬さや出しにくさなどに合わせて、薬やほかの治療を組み合わせます。"
+    ],
+    "note": "強い腹痛や嘔吐などがあるときは、食物繊維や下剤を追加して様子を見続けないでください。",
+    "descriptions": [
+      "多いほどよい、とは限りません。体の反応を見ながら。",
+      "硬さや出しにくさに合わせ、薬を組み合わせます。",
+      "強い腹痛・嘔吐・血便は、食事や下剤だけで様子を見続けないで。"
+    ]
+  },
+  "food-interactions": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "B · 食品・飲み物と薬の関係",
+    "titles": [
+      "食品の注意は薬ごとに",
+      "時間をずらしても残る影響",
+      "普段の食生活も伝える"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "一部の薬と食品の組み合わせに注意。食事全体をむやみに制限しない。",
+      "納豆とワルファリンなど、服用時刻だけでは解決しないものも。",
+      "健康食品やサプリメントも、お薬手帳と一緒に確認。"
+    ],
+    "lifestyle": [
+      "いつもの食品を振り返る",
+      "よく摂る食品・飲み物や健康食品を伝えます。"
+    ],
+    "medicine": [
+      "薬の名前から確認する",
+      "避ける必要がある食品や、間隔を個別に確かめます。"
+    ],
+    "note": "「すべての薬で同じ食品を避ける」というルールにはできません。",
+    "roleHeading": "生活の変化と薬を、合わせて確認",
+    "leftLabel": "生活の中で気づくこと",
+    "rightLabel": "薬について確認すること",
+    "related": [
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ],
+      [
+        "meal-timing.html",
+        "食前・食後、飲む時間には意味がある？"
+      ],
+      [
+        "../medicine-guide/how-to-take.html",
+        "薬の正しい飲み方の基本"
+      ]
+    ]
+  },
+  "meal-timing": {
+    "hero": "family/caregiver-selfcare.webp",
+    "scope": "B · 食事の有無・時刻と服薬",
+    "titles": [
+      "食事は吸収にも関わる",
+      "食べない日の対応は個別に",
+      "続けにくい時間は相談を"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "服用時間の理由は、胃への負担だけではありません。",
+      "薬を全部中止する・全部いつもどおり飲む、とは決めない。",
+      "朝食を抜く習慣や夜勤も伝え、使い方を確認。"
+    ],
+    "lifestyle": [
+      "食べる時刻や量の変化",
+      "朝食を抜く日や、食べられない日があることを伝えます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を整理する",
+      "食事やほかの薬との間隔、体調不良時の対応を確かめます。"
+    ],
+    "note": "食事がとれないときの対応は、薬ごとの指示を確認してください。",
+    "roleHeading": "生活の変化と薬を、合わせて確認",
+    "leftLabel": "生活の中で気づくこと",
+    "rightLabel": "薬について確認すること",
+    "related": [
+      [
+        "../medicine-guide/timing.html",
+        "食前・食後・食間の基本とQ&A"
+      ],
+      [
+        "food-interactions.html",
+        "食事と薬の飲み合わせ"
+      ],
+      [
+        "exercise-hypoglycemia.html",
+        "運動するときの低血糖"
+      ],
+      [
+        "minerals-medicines.html",
+        "詳しく知る：乳製品・ミネラルと薬"
+      ]
+    ]
+  },
+  "exercise-hypoglycemia": {
+    "hero": "health-habits/blood-glucose.webp",
+    "scope": "B · 主に成人の糖尿病治療中の人へ",
+    "titles": [
+      "低血糖が起きやすい薬を知る",
+      "運動前に準備する",
+      "終わった後にも注意"
+    ],
+    "icons": [
+      "children-medicine/learn.webp",
+      "kids-youth/sports-medicine.webp",
+      "health-habits/blood-glucose.webp"
+    ],
+    "descriptions": [
+      "インスリンや一部の飲み薬では、運動時に注意が必要。",
+      "ブドウ糖を携帯し、測定や対処方法を医療者と確認。",
+      "数時間後や夜間にも起こる場合があります。"
+    ],
+    "lifestyle": [
+      "いつもより体を動かす日",
+      "散歩や庭仕事も含め、時間・強さ・食事を振り返ります。"
+    ],
+    "medicine": [
+      "測定・補食・薬の計画",
+      "自分に必要な準備を、医師や薬剤師と決めます。"
+    ],
+    "note": "意識や飲み込みに異常がある場合は、口から糖分を与えず119番です。",
+    "roleHeading": "生活の変化と薬を、合わせて確認",
+    "leftLabel": "生活の中で気づくこと",
+    "rightLabel": "薬について確認すること",
+    "related": [
+      [
+        "diabetes-diet.html",
+        "糖尿病：食事を頑張れば薬はいらない？"
+      ],
+      [
+        "meal-timing.html",
+        "食事と服用時刻の関係"
+      ]
+    ]
+  },
+  "appetite-nutrition": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "B · 主に成人の服薬中の人へ",
+    "titles": [
+      "食欲・味の変化を伝える",
+      "体重だけで判断しない",
+      "食べられない状態を放置しない"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "adults/medicines.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "薬の影響も、病気や口の状態も含めて確認。",
+      "食事量・体力・吐き気などを合わせて振り返る。",
+      "水分がとれない、嘔吐が続く場合は当日中に医療機関へ。"
+    ],
+    "lifestyle": [
+      "食べにくさを記録する",
+      "いつから、何が、どれくらい食べにくいかを伝えます。"
+    ],
+    "medicine": [
+      "薬の影響と対応を確認",
+      "症状や使用薬を確かめ、必要な受診や調整につなげます。"
+    ],
+    "note": "意識・呼吸の異常は119番。強い腹痛が続く場合も速やかに受診してください。",
+    "roleHeading": "生活の変化と薬を、合わせて確認",
+    "leftLabel": "生活の中で気づくこと",
+    "rightLabel": "薬について確認すること",
+    "related": [
+      [
+        "meal-timing.html",
+        "食事がとれない日の薬"
+      ],
+      [
+        "exercise-hypoglycemia.html",
+        "低血糖への備え"
+      ]
+    ]
+  },
+  "sleep-medicines": {
+    "hero": "kids-youth/sleep.webp",
+    "scope": "B · 主に成人の睡眠習慣と治療",
+    "titles": [
+      "一日の眠り方を振り返る",
+      "お酒や追加の薬で補わない",
+      "減らし方も相談する"
+    ],
+    "icons": [
+      "kids-youth/sleep.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "起床・昼寝・カフェイン・日中の眠気を確認。",
+      "睡眠薬と飲酒を組み合わせず、市販薬の追加も確認。",
+      "急な中止や増量を避け、自分に合う治療を相談。"
+    ],
+    "lifestyle": [
+      "眠りと日中の過ごし方",
+      "寝つきだけでなく、朝の眠気や生活への支障を伝えます。"
+    ],
+    "medicine": [
+      "治療の効果と困りごと",
+      "薬の使い方と、ほかの治療を組み合わせて考えます。"
+    ],
+    "note": "呼びかけへの反応が乏しい・呼吸がおかしい場合は119番です。",
+    "roleHeading": "生活の変化と薬を、合わせて確認",
+    "leftLabel": "生活の中で気づくこと",
+    "rightLabel": "薬について確認すること",
+    "related": [
+      [
+        "../medicine-guide/timing.html",
+        "就寝前の薬など、飲む時間の基本"
+      ],
+      [
+        "appetite-nutrition.html",
+        "薬を飲み始めて体調が変わったら"
+      ],
+      [
+        "alcohol-medicines.html",
+        "詳しく知る：お酒と薬"
+      ]
+    ]
+  },
+  "isoniazid-food": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · ヒスタミン・チラミンと食品の状態",
+    "titles": [
+      "食品名だけでは決まらない",
+      "薬の働きとの関係を知る",
+      "食事と症状を伝える"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "種類や熟成・保存状態によって、含まれる成分量は異なります。",
+      "ヒスタミンやチラミンが分解されにくくなり、症状が出ることがあります。",
+      "気になる症状があれば医療者に連絡。治療を自分で中断しない。"
+    ],
+    "lifestyle": [
+      "食品・飲み物の情報を伝える",
+      "商品や量、摂った時刻、気になる症状を確かめます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を確認する",
+      "必要な注意と対応を、処方元・薬剤師に確認します。"
+    ],
+    "roleHeading": "食品と薬を、具体的に確かめる",
+    "leftLabel": "日常の情報",
+    "rightLabel": "治療側の確認",
+    "note": "自己判断で薬の量を調整せず、個別の服薬指示を確認してください。",
+    "related": [
+      [
+        "food-interactions.html",
+        "基本編：食事と薬の飲み合わせ"
+      ],
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ]
+    ]
+  },
+  "grapefruit-medicines": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · 免疫抑制薬・一部の降圧薬など",
+    "titles": [
+      "免疫抑制薬では特に確認",
+      "時間をずらすだけでは不十分",
+      "薬を自分で減らさない"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "タクロリムスなど、血中濃度の変化が重大な副作用につながる薬があります。",
+      "果実もジュースも確認。影響が数日続く場合があります。",
+      "食べた場合は量・時刻を伝えて相談し、薬の増減で調整しない。"
+    ],
+    "lifestyle": [
+      "食品・飲み物の情報を伝える",
+      "商品や量、摂った時刻、気になる症状を確かめます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を確認する",
+      "必要な注意と対応を、処方元・薬剤師に確認します。"
+    ],
+    "roleHeading": "食品と薬を、具体的に確かめる",
+    "leftLabel": "日常の情報",
+    "rightLabel": "治療側の確認",
+    "note": "自己判断で薬の量を調整せず、個別の服薬指示を確認してください。",
+    "related": [
+      [
+        "food-interactions.html",
+        "基本編：食事と薬の飲み合わせ"
+      ],
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ]
+    ]
+  },
+  "warfarin-food": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · ビタミンKと、普段の食事の考え方",
+    "titles": [
+      "納豆・青汁・クロレラは避ける",
+      "野菜全体をやめない",
+      "薬名を確認する"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "ワルファリン服用中の注意です。服用時刻をずらしても解決しません。",
+      "一時的な大量摂取などを避け、食事の変化を相談。",
+      "「血液を固まりにくくする薬」すべてに同じ制限はありません。"
+    ],
+    "lifestyle": [
+      "食品・飲み物の情報を伝える",
+      "商品や量、摂った時刻、気になる症状を確かめます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を確認する",
+      "必要な注意と対応を、処方元・薬剤師に確認します。"
+    ],
+    "roleHeading": "食品と薬を、具体的に確かめる",
+    "leftLabel": "日常の情報",
+    "rightLabel": "治療側の確認",
+    "note": "自己判断で薬の量を調整せず、個別の服薬指示を確認してください。",
+    "related": [
+      [
+        "food-interactions.html",
+        "基本編：食事と薬の飲み合わせ"
+      ],
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ]
+    ]
+  },
+  "minerals-medicines": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · カルシウム・鉄・マグネシウムなど",
+    "titles": [
+      "一部の薬は吸収が減る",
+      "前後の順番も大切",
+      "栄養をむやみに減らさない"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "乳製品やミネラル含有製品との組み合わせを確認。",
+      "どの薬も2時間あければよい、という共通ルールにはできません。",
+      "薬と食事・サプリメントの時刻を、続けられる形で相談。"
+    ],
+    "lifestyle": [
+      "食品・飲み物の情報を伝える",
+      "商品や量、摂った時刻、気になる症状を確かめます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を確認する",
+      "必要な注意と対応を、処方元・薬剤師に確認します。"
+    ],
+    "roleHeading": "食品と薬を、具体的に確かめる",
+    "leftLabel": "日常の情報",
+    "rightLabel": "治療側の確認",
+    "note": "自己判断で薬の量を調整せず、個別の服薬指示を確認してください。",
+    "related": [
+      [
+        "food-interactions.html",
+        "基本編：食事と薬の飲み合わせ"
+      ],
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ]
+    ]
+  },
+  "alcohol-medicines": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · 眠気・代謝など、薬ごとに違う影響",
+    "titles": [
+      "水で飲んでも飲酒は別に確認",
+      "眠気や呼吸への影響も",
+      "何時間なら安全、と決めない"
+    ],
+    "icons": [
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp",
+      "adults/treatment.webp"
+    ],
+    "descriptions": [
+      "薬を飲む瞬間だけで、影響の有無は決まりません。",
+      "睡眠薬などと飲酒を組み合わせないでください。",
+      "薬名・飲酒量・時刻を伝え、対応を確認。"
+    ],
+    "lifestyle": [
+      "食品・飲み物の情報を伝える",
+      "商品や量、摂った時刻、気になる症状を確かめます。"
+    ],
+    "medicine": [
+      "薬ごとの条件を確認する",
+      "必要な注意と対応を、処方元・薬剤師に確認します。"
+    ],
+    "roleHeading": "食品と薬を、具体的に確かめる",
+    "leftLabel": "日常の情報",
+    "rightLabel": "治療側の確認",
+    "note": "自己判断で薬の量を調整せず、個別の服薬指示を確認してください。",
+    "related": [
+      [
+        "food-interactions.html",
+        "基本編：食事と薬の飲み合わせ"
+      ],
+      [
+        "food-interactions-details.html",
+        "飲み合わせをもっと詳しく知る"
+      ]
+    ]
+  },
+  "thyroid-iodine": {
+    "hero": "kids-youth/breakfast.webp",
+    "scope": "詳しく知る · 甲状腺とヨウ素",
+    "titles": [
+      "全員が同じ制限ではない",
+      "普段の食事と治療前は別",
+      "食品・量・期間を確認"
+    ],
+    "icons": [
+      "adults/treatment.webp",
+      "kids-youth/breakfast.webp",
+      "children-medicine/learn.webp"
+    ],
+    "descriptions": [
+      "診断・甲状腺機能・検査や治療の目的で変わります。",
+      "摂りすぎの見直しと、一時的なヨウ素制限を分けて考えます。",
+      "だしやサプリメントも含め、具体的に確かめましょう。"
+    ],
+    "lifestyle": [
+      "だしや製品も伝える",
+      "何を、どのくらい、どれくらいの頻度で摂るかを共有します。"
+    ],
+    "medicine": [
+      "目的と期間を確かめる",
+      "今回の検査・治療の説明書で確認し、薬も自己判断でやめません。"
+    ],
+    "roleHeading": "自分に必要な制限を、確かめる",
+    "leftLabel": "普段の食事・製品",
+    "rightLabel": "検査・治療の指示",
+    "note": "病気の重さだけで制限は決まりません。制限する食品・量・期間を担当医に確認しましょう。",
+    "related": [
+      [
+        "food-interactions.html",
+        "食事と薬の飲み合わせ（基本編）"
+      ],
+      [
+        "minerals-medicines.html",
+        "乳製品・ミネラルと薬"
+      ],
+      [
+        "food-interactions-details.html",
+        "詳しいページの一覧"
+      ]
+    ]
+  }
+}

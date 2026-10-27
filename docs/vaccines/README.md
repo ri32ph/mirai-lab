@@ -4,7 +4,7 @@
 
 - 原稿：content/vaccines/children.md / visit.md
 - 入口・共通テンプレート：scripts/build-vaccines.mjs
-- 年齢検索の配置：content/vaccines/age-picker-section.html
+- 年齢検索の配置：content/vaccines/templates/age-picker.inc
 - 対象条件：content/vaccines/age-data.json（2026年度版）
 - 生成データ：age-data.js。JSON更新後にビルドする。
 - 再生成：npm install後、node scripts/build-vaccines.mjs

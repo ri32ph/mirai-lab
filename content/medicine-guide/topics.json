@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "otc-categories",
+    "title": "市販薬の箱にある「第1類」って何？",
+    "description": "要指導・第1類・第2類・第3類の違いと、2026年の販売制度を確認します。",
+    "keywords": "OTC 一般用医薬品 要指導医薬品 特定要指導 指定第2類 登録販売者 オーバードーズ",
+    "related": [
+      {
+        "href": "otc.html",
+        "title": "市販薬を選ぶ・使う"
+      },
+      {
+        "href": "medicine-notebook.html",
+        "title": "市販薬を買うときも、お薬手帳を"
+      },
+      {
+        "href": "consult.html",
+        "title": "困ったとき・相談するとき"
+      }
+    ],
+    "last_checked": "2026-10-21",
+    "icon": "../../assets/card-icons/children-medicine/learn.webp"
+  },
+  {
+    "slug": "medicine-notebook",
+    "title": "市販薬を買うときも、お薬手帳を",
+    "description": "購入前の提示、購入後の記録。処方薬・市販薬・サプリメントの情報をまとめましょう。",
+    "keywords": "OTC 一般用医薬品 健康食品 電子処方箋 電子処方せん 重複 相互作用",
+    "related": [
+      {
+        "href": "otc.html",
+        "title": "市販薬を選ぶ・使う"
+      },
+      {
+        "href": "safety.html",
+        "title": "薬を安全に使う"
+      },
+      {
+        "href": "../children-medicine/section-08/05.html",
+        "title": "お薬手帳は、子どもにも必要？"
+      }
+    ],
+    "last_checked": "2026-10-21",
+    "icon": "../../assets/card-icons/adults/medicines.webp"
+  },
+  {
+    "slug": "supplements-need",
+    "title": "サプリメントは、どんなときに必要？",
+    "description": "食事で足りているか、不足が心配か。目的と対象に合う根拠から必要性を考えます。",
+    "keywords": "健康食品 栄養補助食品 栄養機能食品 葉酸 過剰摂取",
+    "related": [
+      {
+        "href": "supplements.html",
+        "title": "サプリメントについて知る"
+      },
+      {
+        "href": "supplements-children.html",
+        "title": "子どもにサプリメントは必要？"
+      },
+      {
+        "href": "supplements-evidence.html",
+        "title": "その「効果がある」は、誰で確かめた？"
+      }
+    ],
+    "last_checked": "2026-10-21",
+    "icon": "../../assets/card-icons/kids-youth/breakfast.webp"
+  },
+  {
+    "slug": "supplements-children",
+    "title": "子どもにサプリメントは必要？",
+    "description": "偏食、成長、スポーツが気になるとき。保護者と子どもが一緒に確かめたいことをまとめます。",
+    "keywords": "健康食品 若者 グミ 鉄 亜鉛 ビタミン 成長 集中力 筋力",
+    "related": [
+      {
+        "href": "supplements.html",
+        "title": "サプリメントについて知る"
+      },
+      {
+        "href": "supplements-need.html",
+        "title": "サプリメントは、どんなときに必要？"
+      },
+      {
+        "href": "../kids-youth/sports-medicine.html",
+        "title": "スポーツと薬・サプリ"
+      },
+      {
+        "href": "../children-medicine/section-05/03.html",
+        "title": "お菓子みたいな薬に注意！"
+      }
+    ],
+    "last_checked": "2026-10-21",
+    "icon": "../../assets/card-icons/kids-youth/breakfast.webp"
+  },
+  {
+    "slug": "supplements-evidence",
+    "title": "その「効果がある」は、誰で確かめた？",
+    "description": "健康食品の広告・口コミ・研究を読むときに、対象、商品、量、比較相手を確かめましょう。",
+    "keywords": "サプリ サプリメント 健康食品 広告 SNS 口コミ エビデンス 臨床試験 論文",
+    "related": [
+      {
+        "href": "supplements.html",
+        "title": "サプリメントについて知る"
+      },
+      {
+        "href": "supplements-need.html",
+        "title": "サプリメントは、どんなときに必要？"
+      },
+      {
+        "href": "supplements-children.html",
+        "title": "子どもにサプリメントは必要？"
+      }
+    ],
+    "last_checked": "2026-10-21",
+    "icon": "../../assets/card-icons/adults/medicines.webp"
+  }
+]

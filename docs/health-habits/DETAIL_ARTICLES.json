@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "isoniazid-food",
+    "title": "イソニアジドと飲食物。魚やチーズの注意はなぜ？",
+    "summary": "ヒスタミン・チラミンと食品の状態",
+    "episode": 12
+  },
+  {
+    "slug": "grapefruit-medicines",
+    "title": "グレープフルーツと薬。免疫抑制薬では特に確認を",
+    "summary": "免疫抑制薬・一部の降圧薬など",
+    "episode": 13
+  },
+  {
+    "slug": "warfarin-food",
+    "title": "ワルファリンと食品。納豆と野菜は同じ注意？",
+    "summary": "ビタミンKと、普段の食事の考え方",
+    "episode": 14
+  },
+  {
+    "slug": "minerals-medicines",
+    "title": "乳製品・ミネラルと薬。どれくらい間隔をあける？",
+    "summary": "カルシウム・鉄・マグネシウムなど",
+    "episode": 15
+  },
+  {
+    "slug": "alcohol-medicines",
+    "title": "お酒と薬。時間をずらせば大丈夫？",
+    "summary": "眠気・代謝など、薬ごとに違う影響",
+    "episode": 16
+  },
+  {
+    "slug": "thyroid-iodine",
+    "title": "甲状腺の病気があったら、海藻は控える？ ヨウ素制限の確かめ方",
+    "summary": "普段の食事と、検査・治療前の制限を分けて確認",
+    "episode": 17
+  }
+]

@@ -86,7 +86,16 @@
         "maxMonth": 24
       },
       "kind": "routine",
-      "source": "https://id-info.jihs.go.jp/immunization/schedule/2026/20260801_routine-note_r1.pdf"
+      "source": "https://id-info.jihs.go.jp/immunization/schedule/2026/20260801_routine-note_r1.pdf",
+      "attention": {
+        "ages": [
+          1
+        ],
+        "badge": "対象期間は1歳以上2歳未満",
+        "selectorLabel": "MR第1期",
+        "message": "MR第1期の通常の定期接種対象は、1歳以上2歳未満です。接種歴を確認し、まだの場合は対象期間内の予定を相談しましょう。",
+        "footnote": "対象年齢を過ぎた場合も、特例や自治体の対応について相談できます。"
+      }
     },
     {
       "id": "varicella",
@@ -188,13 +197,23 @@
       "id": "pneumo-adult",
       "name": "高齢者の肺炎球菌",
       "target": "65歳。または60～64歳で法律上の一定の障害がある方",
-      "note": "66歳以降すべてが通常の定期接種対象となる仕組みではありません。過去の接種歴を伝えて自治体・医療機関へ確認してください。",
+      "note": "2026年度の定期接種には20価肺炎球菌結合型ワクチン（PCV20）を用います。通常の対象は65歳の間です。60〜64歳は、心臓・腎臓・呼吸器の機能に身の回りの生活が極度に制限される程度の障害がある方、またはHIVによる免疫の機能に日常生活がほとんど不可能な程度の障害がある方が対象です。長期療養などの特例や過去の接種歴については自治体・医療機関へ確認してください。",
       "rule": {
         "minAge": 60,
         "maxAge": 66
       },
       "kind": "adult",
-      "source": "https://id-info.jihs.go.jp/immunization/schedule/2026/20260801_routine-note_r1.pdf"
+      "source": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/vaccine/pneumococcus-senior/index.html",
+      "attention": {
+        "ages": [
+          65
+        ],
+        "badge": "対象期間は原則65歳の間",
+        "selectorLabel": "肺炎球菌",
+        "message": "通常の定期接種の対象は65歳の間です。66歳以降に毎年対象となる制度ではないため、まだ受けていない方は対象期間内に自治体・医療機関へ確認しましょう。",
+        "footnote": "60〜64歳で一定の障害がある方や、長期療養の特例などは別の条件があります。過去の接種歴も含めて確認してください。"
+      },
+      "sourceLabel": "厚生労働省｜高齢者の肺炎球菌ワクチン ↗"
     },
     {
       "id": "shingles",
@@ -280,5 +299,6 @@
       "kind": "conditional",
       "source": "https://id-info.jihs.go.jp/immunization/schedule/2026/20260801_routine-note_r1.pdf"
     }
-  ]
+  ],
+  "highlightChecked": "2026-10-21"
 }
