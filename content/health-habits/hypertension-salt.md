@@ -25,14 +25,20 @@
 
 最初から完璧を目指すより、取り組めそうなことを一つ選びましょう。
 
-- 麺類の汁は、全部飲まない。
-- しょうゆやソースは、かける前に味を確かめる。
-- 汁物や漬物、加工食品が重なっていないか見直す。
-- 食品の表示にある「食塩相当量」を見て、似た商品を比べる。
+<ul class="h-salt-actions" aria-label="今日から選べる4つの減塩の工夫">
+<li><div class="h-salt-card-heading"><img src="../../assets/card-icons/health-habits/salt-noodle-bowl.svg" alt="" width="58" height="58" loading="lazy"><h3 class="h-salt-label"><strong>麺類の汁</strong></h3></div><p>麺類の汁は、全部飲まない。</p></li>
+<li><div class="h-salt-card-heading"><img src="../../assets/card-icons/health-habits/salt-seasoning.svg" alt="" width="58" height="58" loading="lazy"><h3 class="h-salt-label"><strong>しょうゆ・ソース</strong></h3></div><p>しょうゆやソースは、かける前に味を確かめる。</p></li>
+<li><div class="h-salt-card-heading"><img src="../../assets/card-icons/health-habits/salt-meal-balance.svg" alt="" width="58" height="58" loading="lazy"><h3 class="h-salt-label"><strong>献立の組み合わせ</strong></h3></div><p>汁物や漬物、加工食品が重なっていないか見直す。</p></li>
+<li><div class="h-salt-card-heading"><img src="../../assets/card-icons/health-habits/salt-food-label.svg" alt="" width="58" height="58" loading="lazy"><h3 class="h-salt-label"><strong>食品の表示</strong></h3></div><p>食品の表示にある「食塩相当量」を見て、似た商品を比べる。</p></li>
+</ul>
 
 食事量そのものを極端に減らす必要はありません。食べにくさや食欲低下がある人は、十分な栄養も摂れるように、医師や管理栄養士に相談してください。
 
 ## 3．減塩すると、どれくらい血圧が下がる？
+
+減塩によって、<strong>一般的な降圧薬1剤に匹敵する血圧低下が得られた</strong>という研究報告もあります。2023年の研究では、最初の1週間の終了時、低ナトリウム食の群は高ナトリウム食の群より、24時間測定の上の血圧が平均8mmHg低く、著者らは一般的な第一選択の降圧薬に匹敵する効果と述べています。[3]
+
+ただし、薬と減塩を直接比較した試験ではありません。研究用の食事による短期間の結果であり、誰でも同じだけ下がる、薬1剤を置き換えられるという意味ではありません。減塩は、薬を使っている方にとっても取り組む価値のある方法です。[3]
 
 減塩への反応は人によって違います。大きく下がる人もいれば、変化が小さい人もいます。<strong>平均的な研究結果だけで、自分の薬が必要かどうかは決められません。</strong>[1,3]
 

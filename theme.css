@@ -5,7 +5,7 @@ body.theme-kids-youth{--ml-accent:#fbe7d8;--ml-accent-strong:#9f664a}
 body.theme-older-adults{--ml-accent:#e8e5f5;--ml-accent-strong:#6f6298}
 body.theme-family{--ml-accent:#f8e3e3;--ml-accent-strong:#a56573}
 body.theme-children-medicine{--ml-accent:#e2edf4;--ml-accent-strong:#527a96}
-body.theme-medicine-guide{--ml-accent:#efe9d7;--ml-accent-strong:#947a4f}
+body.theme-medicine-guide{--ml-ink:#26364a;--ml-accent:#ffffff;--ml-accent-strong:#203a5b;--ml-paper:#ffffff}
 body.theme-find{--ml-accent:#e6efdf;--ml-accent-strong:#6d8d75}
 body.theme-adults,body.theme-kids-youth,body.theme-older-adults,body.theme-family,body.theme-children-medicine,body.theme-medicine-guide,body.theme-find{color:var(--ml-ink)}
 body[class*="theme-"] h1,body[class*="theme-"] h2,body[class*="theme-"] h3,body[class*="theme-"] h4,body[class*="theme-"] p,body[class*="theme-"] li,body[class*="theme-"] label,body[class*="theme-"] summary{color:var(--ml-ink)}
@@ -51,3 +51,48 @@ body[class*="theme-"] .qa-index-item summary,
 body .qa-item[data-field] summary,
 body[class*="theme-"] .qa-item summary{background:#fffefa;color:#493c3b}
 body[class*="theme-"] .qa-item[open] summary{background:#fffefa}
+
+/* 薬・市販薬・サプリメント：白を基調にネイビーをアクセントにする。 */
+body.theme-medicine-guide{--ink:#26364a;--sage:#ffffff;--peach:#ffffff;--line:#d9e1eb;background:#ffffff;color:#26364a}
+body.theme-medicine-guide header,body.theme-medicine-guide footer{background:#ffffff;border-color:#d9e1eb}
+body.theme-medicine-guide header a,body.theme-medicine-guide a{color:#203a5b}
+body.theme-medicine-guide h1,body.theme-medicine-guide h2,body.theme-medicine-guide h3,body.theme-medicine-guide .eyebrow{color:#203a5b}
+body.theme-medicine-guide .hero{background:#ffffff;border:1px solid #d9e1eb;border-top:4px solid #203a5b;border-radius:12px}
+body.theme-medicine-guide .hero::after{content:"";display:block;clear:both}
+body.theme-medicine-guide .section,body.theme-medicine-guide .intro,body.theme-medicine-guide .card,body.theme-medicine-guide .card.active,body.theme-medicine-guide .guide-entries .card:nth-child(n){background:#ffffff;border-color:#d9e1eb;border-radius:12px;box-shadow:none}
+body.theme-medicine-guide a.card{border-top:3px solid #203a5b}
+body.theme-medicine-guide a.card:hover{background:#f5f7fa;border-color:#203a5b}
+body.theme-medicine-guide .pill,body.theme-medicine-guide .flowline span{background:#f0f4f8;color:#203a5b;border-radius:6px}
+body.theme-medicine-guide .faq,body.theme-medicine-guide .faq summary{background:#ffffff;border-color:#d9e1eb;color:#203a5b}
+body.theme-medicine-guide .faq .answer{background:#f5f7fa;border-color:#d9e1eb}
+body.theme-medicine-guide .timetable th,body.theme-medicine-guide .table-scroll th{background:#f0f4f8;color:#203a5b}
+body.theme-medicine-guide .table-hint{color:#455c77}
+body.theme-medicine-guide .guide-hero-icon{float:right;width:96px;height:96px;object-fit:contain;margin:0 0 16px 20px}
+body.theme-medicine-guide .guide-card-icon{display:block;width:56px;height:56px;object-fit:contain;margin:0 0 14px}
+/* 警告・確認待ちの色は意味を持つため、既存の注意色を維持する。 */
+body.theme-medicine-guide .notice{background:#fff3e2;border-left-color:#a56a26}
+body.theme-medicine-guide .draft{background:#fff8e8;border:1px solid #dbc793;border-radius:8px}
+.qa-item[data-field="medicine-guide"]{--qa-card-accent:#f0f4f8;--qa-card-strong:#203a5b}
+@media(max-width:580px){body.theme-medicine-guide .guide-hero-icon{width:72px;height:72px;margin:0 0 12px 12px}body.theme-medicine-guide .guide-card-icon{width:48px;height:48px}}
+@media print{body.theme-medicine-guide .guide-hero-icon{width:64px;height:64px}body.theme-medicine-guide .guide-card-icon{width:40px;height:40px}body.theme-medicine-guide a.card{background:#ffffff}}
+
+/* 白いカードの四辺をネイビーで明確に囲む。 */
+body.theme-medicine-guide .hero,body.theme-medicine-guide .section,body.theme-medicine-guide .intro,body.theme-medicine-guide .card,body.theme-medicine-guide .card.active,body.theme-medicine-guide .guide-entries .card:nth-child(n),body.theme-medicine-guide a.card:hover{background:#ffffff;border:1.5px solid #203a5b;box-shadow:none}
+body.theme-medicine-guide .faq,body.theme-medicine-guide .faq summary{background:#ffffff;border-color:#203a5b}
+body.theme-medicine-guide .faq .answer{background:#eaf0f7;border-top:1px solid #9aadc4}
+body.theme-medicine-guide .pill,body.theme-medicine-guide .flowline span{background:#ffffff;border:1px solid #203a5b}
+
+/* 共通のクリーム背景。見出しと基本8章は白、ほかの入口は淡色。 */
+body.theme-medicine-guide{background:#fffbf4;--ml-paper:#fffbf4}
+body.theme-medicine-guide header,body.theme-medicine-guide footer{background:#fffbf4}
+body.theme-medicine-guide .cards:not(.chapter-cards)>.card:nth-child(3n+1){background:#f8e9e7;border-color:#ba8f91}
+body.theme-medicine-guide .cards:not(.chapter-cards)>.card:nth-child(3n+2){background:#eaf1e8;border-color:#94ad97}
+body.theme-medicine-guide .cards:not(.chapter-cards)>.card:nth-child(3n){background:#eaf0f7;border-color:#92a8c1}
+body.theme-medicine-guide .guide-home>.intro{background:#fbefe4;border-color:#c7a88d}
+body.theme-medicine-guide .guide-home>.section{background:#edf2ea;border-color:#a8b9a2}
+body.theme-medicine-guide .guide-home>.section[aria-labelledby="entry-title"]{background:#fffdf8;border-color:#d5cabe}
+body.theme-medicine-guide .guide-home>.section:last-of-type{background:#f0edf6;border-color:#b5a8c9}
+body.theme-medicine-guide .chapter-cards>.card,body.theme-medicine-guide .chapter-cards>.card:hover{background:#ffffff;border-color:#203a5b}
+@media print{body.theme-medicine-guide,body.theme-medicine-guide .cards>.card,body.theme-medicine-guide .guide-home>.section,body.theme-medicine-guide .guide-home>.intro{background:#ffffff}}
+
+@media print{body.theme-medicine-guide .faq .answer{background:#ffffff}}
