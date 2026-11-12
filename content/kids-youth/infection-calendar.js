@@ -52,3 +52,18 @@
  next.addEventListener('click',()=>{m++;if(m>11){y++;m=0;}manual=true;render();});
  render();
 })();
+
+/* Open the short explanation for a selected transmission route. */
+document.querySelectorAll('.infection-route-button').forEach(button => {
+  button.setAttribute('aria-pressed','false');
+  button.addEventListener('click', () => {
+    const card=button.closest('.infection-spread');
+    const details=card?.querySelector('.infection-route-explainer');
+    const target=details?.querySelector('#route-'+button.dataset.routeKey);
+    if (!details || !target) return;
+    details.open=true;
+    card.querySelectorAll('.infection-route-button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+    details.querySelectorAll('dl > div').forEach(row=>row.classList.toggle('is-selected',row===target));
+    target.scrollIntoView({block:'nearest',behavior:'smooth'});
+  });
+});
