@@ -1,0 +1,82 @@
+.infection-main {
+  max-width: 940px;
+  margin: auto;
+  padding: 24px clamp(16px, 4vw, 40px) 60px;
+  line-height: 1.8;
+}
+.infection-hero {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  align-items: center;
+  gap: 24px;
+  margin: 20px 0;
+  padding: clamp(20px, 4vw, 36px);
+  border-radius: 22px;
+  background: #eef5ed;
+}
+.infection-hero h1 { color: #38584b; margin: .2em 0; overflow-wrap: anywhere; }
+.infection-figure {
+  --mascot: #ffc28e;
+  margin: 0;
+  padding: 12px;
+  border-radius: 18px;
+  background: #fffbf3;
+  text-align: center;
+  color: #38584b;
+}
+.infection-figure.mint { --mascot: #b9d6bc; }
+.infection-figure.rose { --mascot: #f3b6b4; }
+.infection-figure.lilac { --mascot: #d6c6e9; }
+.infection-figure.sky { --mascot: #b4d7e4; }
+.infection-art {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  min-height: 150px;
+}
+.infection-mascot {
+  position: relative;
+  display: block;
+  width: clamp(68px, 12vw, 120px);
+  aspect-ratio: 1;
+  border-radius: 48% 48% 44% 44%;
+  border: 3px solid #758b91;
+  background: radial-gradient(circle at 24% 63%, #e58d8866 0 7%, transparent 8%),
+              radial-gradient(circle at 76% 63%, #e58d8866 0 7%, transparent 8%),
+              var(--mascot);
+}
+.infection-mascot::before, .infection-mascot::after {
+  content: "";
+  position: absolute;
+  top: 40%;
+  width: 12%;
+  height: 9%;
+  border-bottom: 3px solid #536f76;
+  border-radius: 50%;
+}
+.infection-mascot::before { left: 28%; }
+.infection-mascot::after { right: 28%; }
+.infection-mouth {
+  position: absolute;
+  left: 44%;
+  top: 62%;
+  width: 12%;
+  height: 10%;
+  border-radius: 50%;
+  background: #795e60;
+}
+.infection-symbol { font-size: clamp(20px, 3vw, 34px); }
+.infection-symbol.left { transform: translateY(12px) rotate(-12deg); }
+.infection-symbol.right { transform: translateY(-26px) rotate(12deg); }
+.infection-figure figcaption { font-weight: 700; }
+.infection-return {
+  background: #f3f4e9;
+  border-radius: 18px;
+  padding: 18px 24px;
+}
+.infection-return dt { font-weight: 700; }
+.infection-return dd { margin: 0 0 12px; }
+@media (max-width: 640px) {
+  .infection-hero { grid-template-columns: 1fr; }
+}
