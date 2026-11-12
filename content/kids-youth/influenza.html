@@ -16,6 +16,7 @@
 .flu-return{background:#f3f4e9;border-radius:18px;padding:18px 24px}
 @media(max-width:640px){.flu-hero{grid-template-columns:1fr}}
 </style>
+<link rel="stylesheet" href="infection-detail.css">
 </head>
 <body class="theme-kids-youth">
 <a class="skip" href="#main">本文へ進む</a>
@@ -28,9 +29,8 @@
 </div>
 <section class="infection-pathogen" aria-label="病原体と感染経路">
 <h2>どんな病原体？</h2>
-<p><strong>インフルエンザウイルス</strong>が原因。インフルエンザウイルスが原因。急な発熱、頭痛、筋肉や関節の痛みなどが出ることがある。</p>
+<p><strong>インフルエンザウイルス</strong>が原因。急な発熱、頭痛、筋肉や関節の痛みなどが出ることがある。</p>
 <p><strong>どうやって広がる？</strong> 主にせきやくしゃみなどから出る飛沫や、ウイルスを含む粒子を介して広がる。</p>
-<p class="infection-character-note">キャラクターは、病原体と症状を親しみやすく表現したイメージ図。実際の形や大きさ、色とは異なる。</p>
 </section>
 <section><h2>どんな症状が出る？</h2>
 <p>熱が急に上がったり、頭や関節、筋肉が痛くなったりします。体がだるく、せきや鼻水、のどの痛みが出ることもあります。症状が軽い場合もあります。</p>
@@ -42,6 +42,7 @@
 <p><strong>発症後5日</strong>が過ぎ、さらに<strong>熱が下がってから小学生以上は2日、幼児・保育所は3日</strong>が過ぎてからが目安です。発症した日と熱が下がった日は、それぞれ0日目と数えます。</p>
 <p><a href="infections.html#influenza">一覧で学校と園の基準を見比べる</a>　<a href="infections.html#days">曜日を使った数え方を見る</a></p>
 </section>
+<section class="infection-calendar" data-infection-calendar="influenza" aria-label="登校・登園の目安をカレンダーで確認"></section>
 <section><h2>処方された薬の使い方を調べたいとき</h2><p><a href="../children-medicine/index.html#cm-forms">子どものお薬｜粉薬・シロップ・目薬などの使い方</a></p></section>
 <section><h2>出典</h2><ul>
 <li><a href="https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/infulenza/QA2026.html">厚生労働省「急性呼吸器感染症（ARI）総合対策に関するQ&amp;A」</a></li>
@@ -50,5 +51,6 @@
 </ul></section>
 </main>
 <footer><a href="infections.html">感染症一覧へ戻る</a></footer>
+<script defer src="infection-calendar.js"></script>
 </body>
 </html>

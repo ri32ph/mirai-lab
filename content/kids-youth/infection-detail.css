@@ -85,7 +85,25 @@
 .infection-pathogen { border: 1px solid #dce7dd; background: #fbfcf8; border-radius: 18px; padding: 16px 22px; margin: 24px 0; }
 .infection-pathogen h2 { margin-top: 0; }
 .infection-pathogen p { margin: .5em 0; }
-.infection-character-note { color: #52695b; font-size: .88rem; }
 .infection-figure.character-figure { background: #f8faf6; padding: 12px; }
 .infection-figure.character-figure img { width: 100%; max-width: 320px; height: auto; aspect-ratio: 1; object-fit: contain; display: block; margin: auto; }
 .infection-figure.character-figure figcaption { font-weight: 600; font-size: .92rem; line-height: 1.5; margin-top: 6px; }
+
+/* Reusable date calendar for each infection detail page */
+.infection-calendar { border:1px solid #cfdfd3; background:#f9fcf8; border-radius:20px; padding:clamp(14px,3vw,24px); margin:24px 0; }
+.infection-calendar h3 { color:#38584b; margin:0 0 10px; font-size:1.15rem; }
+.infection-calendar-fields { display:flex; flex-wrap:wrap; gap:14px; margin:14px 0; }
+.infection-calendar-fields label { display:flex; flex-direction:column; gap:5px; flex:1 1 175px; font-weight:600; font-size:.95rem; }
+.infection-calendar-fields input,.infection-calendar-fields select { border:1px solid #a7b9ab; border-radius:10px; background:white; font:inherit; padding:8px; width:100%; max-width:100%; color:#253c31; }
+.infection-calendar-result { background:#edf5e8; padding:12px; border-radius:12px; font-weight:700; }
+.infection-calendar-nav { display:flex; align-items:center; justify-content:space-between; margin:14px 0 8px; gap:10px; }
+.infection-calendar-nav button { background:#fff; border:1px solid #aac2ad; border-radius:10px; color:#345646; font:inherit; padding:6px 10px; cursor:pointer; }
+.infection-calendar-grid { display:grid; grid-template-columns:repeat(7,minmax(0,1fr)); gap:4px; }
+.infection-calendar-dayname { text-align:center; font-weight:700; font-size:.9rem; }
+.infection-calendar-day { display:flex; align-items:center; justify-content:center; min-height:38px; padding:4px; border-radius:9px; background:#fff; border:1px solid #e0e8df; font-variant-numeric:tabular-nums; }
+.infection-calendar-day.is-start { background:#d9e7f6; border-color:#7d9bb7; }
+.infection-calendar-day.is-wait { background:#fff1d8; border-color:#e7cd95; }
+.infection-calendar-day.is-earliest { background:#d3ead6; border:2px solid #528665; font-weight:800; }
+.infection-calendar-day.is-today { box-shadow:inset 0 0 0 2px #75828b; }
+.infection-calendar-legend,.infection-calendar-note { font-size:.9rem; line-height:1.7; }
+@media(max-width:480px){.infection-calendar-day{min-height:34px;font-size:.9rem}.infection-calendar-grid{gap:3px}}
