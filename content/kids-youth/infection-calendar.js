@@ -21,7 +21,7 @@
  const legend=document.createElement('p');legend.className='infection-calendar-legend';legend.textContent='● 0日目　■ 経過期間　★ 計算上の最短の日';root.appendChild(legend);
  const caution=document.createElement('p');caution.className='infection-calendar-note';caution.textContent=rule[3]+' この計算だけで登校・登園が決まるわけではない。体調や医師の判断、学校・園の案内も確認する。';root.appendChild(caution);
  const today=new Date();let y=today.getFullYear(),m=today.getMonth(),manual=false;
- function parse(v){if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(v))return null;const a=v.split('-').map(Number),d=new Date(a[0],a[1]-1,a[2]);return d.getFullYear()===a[0]&&d.getMonth()===a[1]-1&&d.getDate()===a[2]?d:null;}
+ function parse(v){if(!/^\d{4}-\d{2}-\d{2}$/.test(v))return null;const a=v.split('-').map(Number),d=new Date(a[0],a[1]-1,a[2]);return d.getFullYear()===a[0]&&d.getMonth()===a[1]-1&&d.getDate()===a[2]?d:null;}
  function add(d,n){return new Date(d.getFullYear(),d.getMonth(),d.getDate()+n);}
  function stamp(d){return d?Date.UTC(d.getFullYear(),d.getMonth(),d.getDate())/86400000:null;}
  function label(d){return d.getFullYear()+'年'+(d.getMonth()+1)+'月'+d.getDate()+'日';}
