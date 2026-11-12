@@ -42,7 +42,7 @@
  ['月','火','水','木','金','土','日'].forEach(s=>{const e=document.createElement('span');e.className='infection-calendar-dayname';e.textContent=s;calendar.appendChild(e);});
  const offset=(new Date(y,m,1).getDay()+6)%7;for(let i=0;i<offset;i++){const e=document.createElement('span');e.className='infection-calendar-blank';calendar.appendChild(e);}
  const last=new Date(y,m+1,0).getDate();for(let i=1;i<=last;i++){const d=new Date(y,m,i),t=stamp(d),e=document.createElement('div');e.className='infection-calendar-day';e.textContent=i;
- if(start&&t===stamp(start)){e.classList.add('is-start');e.title='0日目';}
+ if(start&&t===stamp(start)){e.classList.add('is-start');e.title=kind==='condition'?'確認した日':'0日目';}
  if(start&&earliest&&t>stamp(start)&&t<stamp(earliest)){e.classList.add('is-wait');e.title='経過期間';}
  if(earliest&&t===stamp(earliest)){e.classList.add('is-earliest');e.title='最短の目安';}
  if(t===stamp(today))e.classList.add('is-today');calendar.appendChild(e);}
