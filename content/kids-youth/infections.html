@@ -12,6 +12,38 @@
 .inf-table thead th{background:#e4efe5;color:#304d40}.inf-table th:first-child{width:25%}.inf-table tbody th{color:#304d40}
 .inf-table tbody tr:nth-child(even){background:#f7faf7}
 .inf-table caption{text-align:left;margin-bottom:.6em}
+
+/* A readable infection index: links are blue and underlined; facts stay neutral. */
+body.theme-kids-youth .inf-main{color:#283137;font-size:1.01rem;line-height:1.8}
+body.theme-kids-youth .inf-main p,
+body.theme-kids-youth .inf-main td,
+body.theme-kids-youth .inf-main li{color:#283137;line-height:1.8}
+body.theme-kids-youth .inf-main h1,body.theme-kids-youth .inf-main h2{color:#273e44}
+body.theme-kids-youth .inf-main a{color:#075d91;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1.5px;font-weight:700}
+body.theme-kids-youth .inf-main a:hover{color:#08426b;background:#e8f3fb}
+body.theme-kids-youth .inf-table{border:1px solid #dbe3df;border-radius:12px;overflow:hidden}
+body.theme-kids-youth .inf-table thead th{color:#273e44;background:#edf3ee;font-size:.94rem}
+body.theme-kids-youth .inf-table tbody th{background:#f8faf7;font-size:1.04rem}
+body.theme-kids-youth .inf-table tbody th a{display:inline-block;padding:2px 0}
+body.theme-kids-youth .inf-hero{background:#f0f5ef;border:1px solid #dce7dd}
+body.theme-kids-youth .inf-hero a{display:inline-block;margin-right:12px}
+body.theme-kids-youth .inf-note{background:#fafbf8;border:1px solid #e0e7dd}
+@media(max-width:680px){
+ body.theme-kids-youth .inf-table,
+ body.theme-kids-youth .inf-table tbody,
+ body.theme-kids-youth .inf-table tr,
+ body.theme-kids-youth .inf-table tbody th,
+ body.theme-kids-youth .inf-table td{display:block;width:100%}
+ body.theme-kids-youth .inf-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ body.theme-kids-youth .inf-table{border:0;background:transparent;border-radius:0}
+ body.theme-kids-youth .inf-table tr{background:#fff !important;margin:0 0 15px;border:1px solid #dce5df;border-radius:13px;overflow:hidden}
+ body.theme-kids-youth .inf-table tbody th{border:0;background:#eff5ef;font-size:1.1rem;padding:12px 15px}
+ body.theme-kids-youth .inf-table td{border:0;border-top:1px solid #e7ece8;padding:11px 15px 13px}
+ body.theme-kids-youth .inf-table td::before{display:block;font-weight:800;font-size:.85rem;color:#43575a;margin-bottom:3px}
+ body.theme-kids-youth .inf-table td:nth-of-type(1)::before{content:"学校・幼稚園｜出席停止の基準"}
+ body.theme-kids-youth .inf-table td:nth-of-type(2)::before{content:"保育所｜登園の目安"}
+}
+
 </style></head>
 <body class="theme-kids-youth"><a class="skip" href="#main">本文へ進む</a>
 <header><a class="brand" href="../../index.html">ミライラボ<span class="brand-sub">MIRAI LAB</span></a><button class="font-button" id="font" aria-pressed="false">文字を大きく A＋</button></header>

@@ -157,3 +157,159 @@
   .infection-cleaning-table th,.infection-cleaning-table td { padding:7px 5px; }
   .infection-route-button { font-size:.88rem; }
 }
+
+/* Readability: clearly separate readable text, actionable links, and controls. */
+body.theme-kids-youth .infection-main,
+body.theme-kids-youth .flu-main {
+  --detail-text: #282d30;
+  --detail-muted: #53616a;
+  --detail-heading: #273e44;
+  --detail-link: #075d91;
+  color: var(--detail-text);
+  line-height: 1.85;
+  font-size: 1.04rem;
+}
+body.theme-kids-youth .infection-main p,
+body.theme-kids-youth .flu-main p,
+body.theme-kids-youth .infection-main li,
+body.theme-kids-youth .flu-main li,
+body.theme-kids-youth .infection-main dd,
+body.theme-kids-youth .flu-main dd {
+  color: var(--detail-text);
+  line-height: 1.85;
+}
+body.theme-kids-youth .infection-main a:not(.brand),
+body.theme-kids-youth .flu-main a:not(.brand) {
+  color: var(--detail-link);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: .2em;
+  font-weight: 600;
+}
+body.theme-kids-youth .infection-main a:hover,
+body.theme-kids-youth .flu-main a:hover { color:#08426b; background:#e8f3fb; }
+body.theme-kids-youth .infection-main a:focus-visible,
+body.theme-kids-youth .flu-main a:focus-visible { outline:3px solid #347ca4; outline-offset:3px; }
+body.theme-kids-youth .infection-main .breadcrumb,
+body.theme-kids-youth .flu-main .breadcrumb { font-size:.9rem; color:var(--detail-muted); margin-bottom:14px; }
+body.theme-kids-youth .infection-hero,
+body.theme-kids-youth .flu-hero {
+  background:#f0f5ef;
+  border:1px solid #d7e4d9;
+  box-shadow:none;
+  padding:clamp(20px,4vw,32px);
+  margin:12px 0 26px;
+}
+body.theme-kids-youth .infection-hero h1,
+body.theme-kids-youth .flu-hero h1 {
+  color:var(--detail-heading);
+  font-size:clamp(1.55rem,3.8vw,2.15rem);
+  line-height:1.4;
+  margin:0 0 12px;
+}
+body.theme-kids-youth .infection-hero p,
+body.theme-kids-youth .flu-hero p { margin:0 0 12px; }
+body.theme-kids-youth .infection-main > section:not(.infection-calendar),
+body.theme-kids-youth .flu-main > section:not(.infection-calendar) {
+  background:#fff;
+  border:1px solid #dde3df;
+  border-radius:16px;
+  box-shadow:none;
+  margin:18px 0;
+  padding:clamp(18px,3.5vw,30px);
+}
+body.theme-kids-youth .infection-main > section:not(.infection-calendar) > h2,
+body.theme-kids-youth .flu-main > section:not(.infection-calendar) > h2 {
+  color:var(--detail-heading);
+  line-height:1.45;
+  font-size:clamp(1.24rem,2.8vw,1.48rem);
+  font-weight:800;
+  letter-spacing:0;
+  border-left:5px solid #86a89c;
+  padding-left:13px;
+  margin:0 0 16px;
+}
+body.theme-kids-youth .infection-main > section.infection-return,
+body.theme-kids-youth .flu-main > section.flu-return {
+  background:#f8faf6;
+  border-color:#cdddcf;
+}
+body.theme-kids-youth .infection-main > section.infection-pathogen,
+body.theme-kids-youth .flu-main > section.infection-pathogen,
+body.theme-kids-youth .infection-main > section.infection-spread,
+body.theme-kids-youth .flu-main > section.infection-spread {
+  background:#fff;
+}
+body.theme-kids-youth .infection-main section > p:last-child,
+body.theme-kids-youth .flu-main section > p:last-child { margin-bottom:0; }
+body.theme-kids-youth .infection-main strong,
+body.theme-kids-youth .flu-main strong { color:#26363b; }
+body.theme-kids-youth .infection-main .infection-return dt,
+body.theme-kids-youth .flu-main .infection-return dt { color:#2b4245; font-size:1.02rem; }
+body.theme-kids-youth .infection-route-buttons { margin:0 0 15px; }
+body.theme-kids-youth .infection-route-button {
+  background:#eaf2f1;
+  border-color:#8baea9;
+  color:#244d50;
+  font-weight:700;
+  text-decoration:none;
+}
+body.theme-kids-youth .infection-route-button[aria-pressed="true"] {
+  background:#d8eae6; color:#153e42;
+}
+body.theme-kids-youth .infection-route-explainer { background:#f7fafb; border-color:#d8e4e7; }
+body.theme-kids-youth .infection-route-explainer summary { color:#274e62; }
+body.theme-kids-youth .infection-route-explainer dt { color:#243b47; }
+body.theme-kids-youth .infection-calendar {
+  background:#f9fbfc;
+  border:1px solid #d7e0e5;
+  border-radius:16px;
+  padding:clamp(18px,3.5vw,28px);
+  box-shadow:none;
+  margin:18px 0;
+}
+body.theme-kids-youth .infection-calendar h3 {
+  color:var(--detail-heading);
+  font-size:clamp(1.24rem,2.8vw,1.48rem);
+  border-left:5px solid #86a89c;
+  padding-left:13px;
+  line-height:1.45;
+}
+body.theme-kids-youth .infection-calendar .infection-calendar-note,
+body.theme-kids-youth .infection-calendar .infection-calendar-legend {
+  color:var(--detail-muted);
+  font-size:.91rem;
+}
+body.theme-kids-youth .infection-calendar .infection-calendar-result { color:#254236; }
+body.theme-kids-youth .infection-jump {
+  display:inline-flex; align-items:center;
+  gap:7px;
+  padding:9px 15px;
+  background:#fff;
+  border:1px solid #9bb5c3;
+  border-radius:9px;
+  font-size:.92rem;
+  margin-top:4px;
+}
+body.theme-kids-youth .infection-main a.infection-jump,
+body.theme-kids-youth .flu-main a.infection-jump {
+  text-decoration:none; color:#19577c;
+  font-weight:700;
+}
+body.theme-kids-youth .infection-main .infection-references,
+body.theme-kids-youth .flu-main .infection-references {
+  background:#fbfbfb !important;
+  border-color:#e4e4e4 !important;
+}
+body.theme-kids-youth .infection-references li { margin:7px 0; font-size:.94rem; }
+body.theme-kids-youth .infection-references h2 { font-size:1.18rem !important; }
+body.theme-kids-youth .infection-main .infection-medication-link,
+body.theme-kids-youth .flu-main .infection-medication-link { background:#fbfbfb; }
+body.theme-kids-youth .infection-main .infection-medication-link p,
+body.theme-kids-youth .flu-main .infection-medication-link p { font-size:.94rem; }
+@media(max-width:640px){
+  body.theme-kids-youth .infection-main,body.theme-kids-youth .flu-main {font-size:1rem;line-height:1.8;}
+  body.theme-kids-youth .infection-hero,body.theme-kids-youth .flu-hero {gap:12px;}
+  body.theme-kids-youth .infection-main > section:not(.infection-calendar),
+  body.theme-kids-youth .flu-main > section:not(.infection-calendar) {margin:14px 0;}
+}
