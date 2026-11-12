@@ -107,3 +107,53 @@
 .infection-calendar-day.is-today { box-shadow:inset 0 0 0 2px #75828b; }
 .infection-calendar-legend,.infection-calendar-note { font-size:.9rem; line-height:1.7; }
 @media(max-width:480px){.infection-calendar-day{min-height:34px;font-size:.9rem}.infection-calendar-grid{gap:3px}}
+
+/* Infection detail cards: shared with all sixteen pages */
+.infection-main > section:not(.infection-calendar),
+.flu-main > section:not(.infection-calendar) {
+  background: #fff;
+  border: 1px solid #dce8df;
+  border-radius: 20px;
+  padding: clamp(18px,3.2vw,28px);
+  margin: 22px 0;
+  box-shadow: 0 4px 15px rgba(41,81,61,.045);
+}
+.infection-main > section:not(.infection-calendar) > h2,
+.flu-main > section:not(.infection-calendar) > h2 {
+  color: #375a4b; margin: 0 0 .7em;
+  font-size: clamp(1.15rem,2.8vw,1.42rem);
+}
+.infection-main > section.infection-return,
+.flu-main > section.flu-return { background: #f4f7ed; }
+.infection-main > section.infection-pathogen,
+.flu-main > section.infection-pathogen { background: #f7fbf7; }
+.infection-main > section.infection-spread,
+.flu-main > section.infection-spread { background: #fffdf9; }
+.infection-route-buttons { display:flex; flex-wrap:wrap; gap:8px; margin:10px 0 16px; }
+.infection-route-button {
+  appearance:none; border:1px solid #a9ccc4; border-radius:999px;
+  padding:8px 15px; font:inherit; font-size:.94rem; font-weight:700;
+  background:#e6f4ee; color:#285d54; cursor:pointer;
+  transition:background .15s,box-shadow .15s;
+}
+.infection-route-button:hover { background:#d6ede4; }
+.infection-route-button:focus-visible { outline:3px solid #638db3; outline-offset:3px; }
+.infection-route-button[aria-pressed="true"] { border-color:#357b71; background:#cbe7dc; box-shadow:inset 0 0 0 1px #357b71; }
+.infection-route-explainer { border:1px solid #d7e3da; border-radius:12px; background:#fafcfb; padding:10px 14px; margin:10px 0 16px; }
+.infection-route-explainer summary { cursor:pointer; color:#365f54; font-weight:700; }
+.infection-route-explainer dl { margin:14px 0 0; }
+.infection-route-explainer dl > div { padding:8px 0; border-top:1px solid #e3e9e5; }
+.infection-route-explainer dt { font-weight:700; color:#28594f; }
+.infection-route-explainer dd { margin:3px 0 0; }
+.infection-route-explainer dl > div.is-selected { background:#eef7f2; border-radius:8px; padding:8px; }
+.infection-cleaning-steps { padding-left:1.5em; }
+.infection-cleaning-steps li { padding:5px 0 5px 4px; }
+.infection-cleaning-table { width:100%; border-collapse:collapse; margin:15px 0; }
+.infection-cleaning-table th,.infection-cleaning-table td { border:1px solid #d8e5dd; padding:9px; text-align:left; vertical-align:top; }
+.infection-cleaning-table th { background:#edf5ee; }
+.infection-cleaning-note { border-left:4px solid #bf855d; background:#fff8ef; padding:12px 14px; border-radius:0 10px 10px 0; }
+@media(max-width:600px){
+  .infection-cleaning-table { font-size:.88rem; }
+  .infection-cleaning-table th,.infection-cleaning-table td { padding:7px 5px; }
+  .infection-route-button { font-size:.88rem; }
+}
