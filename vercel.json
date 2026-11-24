@@ -10,5 +10,6 @@
       ]
     }
   ],
-  "buildCommand": "npm run build:qa-index"
+  "buildCommand": "npm run build:qa-index",
+  "outputDirectory": "."
 }
