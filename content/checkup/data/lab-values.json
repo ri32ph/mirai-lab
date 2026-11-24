@@ -1,0 +1,104 @@
+{
+  "status": "values_checked",
+  "publish": false,
+  "source_id": "REF-061",
+  "note": "2026-11-24 別紙5 p.125 原典画像と照合。公開保留。 v84で16行を別紙5の画像と再照合。HbA1cにNGSP表記を追加。 v141で全16表示行を再照合。",
+  "items": [
+    {
+      "name": "収縮期血圧",
+      "unit": "mmHg",
+      "guidance": "130以上",
+      "referral": "140以上"
+    },
+    {
+      "name": "拡張期血圧",
+      "unit": "mmHg",
+      "guidance": "85以上",
+      "referral": "90以上"
+    },
+    {
+      "name": "空腹時血糖",
+      "unit": "mg/dL",
+      "guidance": "100以上",
+      "referral": "126以上"
+    },
+    {
+      "name": "随時血糖",
+      "unit": "mg/dL",
+      "guidance": "100以上",
+      "referral": "126以上"
+    },
+    {
+      "name": "HbA1c（NGSP）",
+      "unit": "%",
+      "guidance": "5.6以上",
+      "referral": "6.5以上"
+    },
+    {
+      "name": "LDL-C",
+      "unit": "mg/dL",
+      "guidance": "120以上",
+      "referral": "140以上"
+    },
+    {
+      "name": "HDL-C",
+      "unit": "mg/dL",
+      "guidance": "40未満",
+      "referral": "設定なし"
+    },
+    {
+      "name": "non-HDL-C",
+      "unit": "mg/dL",
+      "guidance": "150以上",
+      "referral": "170以上"
+    },
+    {
+      "name": "空腹時中性脂肪",
+      "unit": "mg/dL",
+      "guidance": "150以上",
+      "referral": "300以上"
+    },
+    {
+      "name": "随時中性脂肪",
+      "unit": "mg/dL",
+      "guidance": "175以上",
+      "referral": "300以上"
+    },
+    {
+      "name": "AST",
+      "unit": "U/L",
+      "guidance": "31以上",
+      "referral": "51以上"
+    },
+    {
+      "name": "ALT",
+      "unit": "U/L",
+      "guidance": "31以上",
+      "referral": "51以上"
+    },
+    {
+      "name": "γ-GT",
+      "unit": "U/L",
+      "guidance": "51以上",
+      "referral": "101以上"
+    },
+    {
+      "name": "eGFR",
+      "unit": "mL/min/1.73m²",
+      "guidance": "60未満",
+      "referral": "45未満"
+    },
+    {
+      "name": "Hb 男性",
+      "unit": "g/dL",
+      "guidance": "13.0以下",
+      "referral": "12.0以下"
+    },
+    {
+      "name": "Hb 女性",
+      "unit": "g/dL",
+      "guidance": "12.0以下",
+      "referral": "11.0以下"
+    }
+  ]
+}
