@@ -1,0 +1,3348 @@
+{
+  "items": [
+    {
+      "id": "Q001",
+      "question": "自覚症状がなくても健康診断は必要ですか？",
+      "answer": "高血圧や糖尿病などは自覚症状がない時期にも進行する場合があります。年齢や健康状態に応じた健診を利用しましょう。",
+      "sections": [
+        "CHECKUP-01-01",
+        "CHECKUP-01-02"
+      ],
+      "reference_ids": [
+        "REF-001",
+        "REF-011",
+        "REF-232",
+        "REF-233",
+        "REF-288"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自覚症状がない時期にも進行する場合があります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q002",
+      "question": "健康診断とがん検診は何が違いますか？",
+      "answer": "健康診断は、病気の可能性や健康状態を把握し、過去の結果との比較や今後の健康管理にも役立てるものです。一方、がん検診は、対象となるがんを早期に発見し、そのがんで亡くなる人を減らすことを目的としています。検査の名称だけでなく、目的や内容を確認しましょう。",
+      "sections": [
+        "CHECKUP-01-03"
+      ],
+      "reference_ids": [
+        "REF-002",
+        "REF-003"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "健康状態を把握",
+          "kind": "bold"
+        },
+        {
+          "text": "目的や内容を確認",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q003",
+      "question": "健康診断と人間ドックは何が違いますか？",
+      "answer": "人間ドックはさまざまな検査を組み合わせた健康診断の一つです。施設やコースによって検査内容が異なります。",
+      "sections": [
+        "CHECKUP-01-04",
+        "CHECKUP-01-06"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-004"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "施設やコースによって検査内容が異なります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q004",
+      "question": "毎年、健康診断を受ける必要がありますか？",
+      "answer": "法令上の対象労働者の定期健康診断は原則として1年以内ごとに1回です。特定健診も年度ごとに実施されます。がん検診の受診間隔は種類によって異なります。",
+      "sections": [
+        "CHECKUP-01-04"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-005",
+        "REF-006",
+        "REF-234",
+        "REF-001"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "1年以内ごとに1回",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q005",
+      "question": "病院に定期的に通っていても健康診断は必要ですか？",
+      "answer": "通院中でも特定健診の対象となる場合があります。診療中の検査は病気や治療に応じて行うため、健診に必要な項目がすべてそろっているとは限りません。保険者によっては、本人の同意のもと、医師の総合判断を含め、特定健診の基本項目をすべて満たす診療の検査結果を特定健診の結果として活用できる場合があります。主治医と加入している健康保険の保険者に確認しましょう。",
+      "sections": [
+        "CHECKUP-01-04",
+        "CHECKUP-01-05"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-013",
+        "REF-286",
+        "REF-228"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "健診に必要な項目がすべてそろっているとは限りません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "本人の同意のもと",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q006",
+      "question": "健康診断ですべての病気がわかりますか？",
+      "answer": "すべての病気がわかるわけではありません。すべての検査値が基準範囲内でも、病気がないことを保証するものではありません。",
+      "sections": [
+        "CHECKUP-01-01",
+        "CHECKUP-01-05",
+        "CHECKUP-04-02"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-004",
+        "REF-230",
+        "REF-131"
+      ],
+      "aliases": [
+        {
+          "id": "Q101",
+          "question": "すべて基準範囲内なら健康ということですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "病気がないことを保証するものではありません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "すべての病気がわかるわけではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q007",
+      "question": "仕事をしていなくても健康診断を受けられますか？",
+      "answer": "はい。特定健診、後期高齢者健診、自治体独自の健診などがあります。後期高齢者健診は後期高齢者医療広域連合が市町村などと連携して実施しています。対象者や費用などは加入している健康保険や自治体に確認しましょう。",
+      "sections": [
+        "CHECKUP-01-04"
+      ],
+      "reference_ids": [
+        "REF-001",
+        "REF-006",
+        "REF-008"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "加入している健康保険や自治体に確認",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q008",
+      "question": "健康診断にはどのくらい費用がかかりますか？",
+      "answer": "費用は健診の制度や検査項目によって異なります。事業者に実施義務がある職場の法定健康診断の費用は、事業者が負担します。任意で追加する検査や人間ドックなどは同じ扱いとは限りません。受ける健診の費用や補助の有無を、勤務先や加入している健康保険、自治体などに確認しましょう。",
+      "sections": [
+        "CHECKUP-01-04"
+      ],
+      "reference_ids": [
+        "REF-009",
+        "REF-010",
+        "REF-132",
+        "REF-234",
+        "REF-287"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "事業者が負担します。",
+          "kind": "bold"
+        },
+        {
+          "text": "同じ扱いとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q009",
+      "question": "職場の健康診断を受けていれば、がん検診は受けなくてもよいですか？",
+      "answer": "職場の健診に必要ながん検診がすべて含まれているとは限りません。対象年齢や受診間隔、検査項目を確認しましょう。胸部X線検査を受けていても、肺がん検診として実施されたかどうかは勤務先などに確認しましょう。",
+      "sections": [
+        "CHECKUP-01-03",
+        "CHECKUP-01-04",
+        "CHECKUP-02-14"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-005",
+        "REF-234",
+        "REF-244"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "必要ながん検診がすべて含まれているとは限りません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "対象年齢や受診間隔、検査項目",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q010",
+      "question": "特定健診とは何ですか？",
+      "answer": "特定健診は、40～74歳の対象者に対して加入している健康保険の保険者が毎年度実施する健診です。内臓脂肪の蓄積に着目し、生活習慣病の予防を目的としています。結果に応じて、対象となる方には特定保健指導による健康管理の支援が行われます。年度途中の加入・脱退などで対象となるかは、加入先の保険者に確認しましょう。",
+      "sections": [
+        "CHECKUP-01-04",
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-001",
+        "REF-006",
+        "REF-013"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "40～74歳",
+          "kind": "bold"
+        },
+        {
+          "text": "生活習慣病の予防",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q011",
+      "question": "検査項目は多い方がよいですか？",
+      "answer": "検査項目が多ければ多いほどよいとは限りません。例えば、がん検診には早期発見による利益だけでなく、偽陽性（がんがないのに疑いありと判定されること）、偽陰性（がんがあるのに見逃されること）、過剰診断（検診で見つからなければ、生涯にわたって症状や死亡の原因にならなかったと考えられるがんを見つけること）や検査による負担もあります。年齢や健康状態、検査の利益と不利益を考慮して、必要な検査を選びましょう。過剰診断は偽陽性と異なり、実際に病変が見つかっている場合です。一般成人に複数の検査を提供する健康診断の研究では、全死亡を減らす効果はほとんどない、またはないと報告されていますが、個別に推奨されるがん検診や診療上必要な検査まで不要という意味ではありません。日本の特定健診制度そのものを評価した研究ではありません。検査で見つかった病変が過剰診断に当たるかどうかを、その時点で正確に見分けることは難しい場合があります。",
+      "sections": [
+        "CHECKUP-01-06"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-012"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査項目が多ければ多いほどよいとは限りません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "必要な検査を選びましょう。",
+          "kind": "green"
+        },
+        {
+          "text": "個別に推奨されるがん検診や診療上必要な検査まで不要という意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q012",
+      "question": "健康診断で異常がなければ、病院に行かなくてもよいですか？",
+      "answer": "気になる症状がある場合は健診結果にかかわらず医療機関に相談しましょう。治療中の方は自己判断で通院や服薬を中止しないでください。",
+      "sections": [
+        "CHECKUP-01-05",
+        "CHECKUP-04-09",
+        "CHECKUP-05-01"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-266",
+        "REF-267",
+        "REF-288",
+        "REF-289"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で通院や服薬を中止しないでください。",
+          "kind": "warning"
+        },
+        {
+          "text": "気になる症状がある場合は健診結果にかかわらず医療機関に相談しましょう。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q013",
+      "question": "BMIが正常なら健康ですか？",
+      "answer": "BMIは体重（kg）を身長（m）の2乗で割った体格の指標です。日本の成人の肥満度分類での普通体重はBMI18.5以上25未満とされています。ただし、筋肉量や体脂肪量、血圧や血糖などの状態はBMIだけでは判断できません。",
+      "sections": [
+        "CHECKUP-02-01"
+      ],
+      "reference_ids": [
+        "REF-014",
+        "REF-015",
+        "REF-235"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "BMIだけでは判断できません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q014",
+      "question": "腹囲は何のために測るのですか？",
+      "answer": "内臓脂肪の蓄積を推測する目安です。内臓脂肪量を直接測定しているわけではありません。",
+      "sections": [
+        "CHECKUP-02-01"
+      ],
+      "reference_ids": [
+        "REF-014",
+        "REF-015",
+        "REF-235"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "内臓脂肪の蓄積を推測する目安です。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q015",
+      "question": "体重が減っていればよいことですか？",
+      "answer": "体重が減ることが、必ずしも健康状態の改善を意味するわけではありません。体脂肪だけでなく筋肉が減っている場合や、病気が原因となっている場合もあります。意図せず体重が減り続ける場合は、次の健診を待たずに医療機関に相談しましょう。食欲が保たれている場合も同様です。",
+      "sections": [
+        "CHECKUP-02-01"
+      ],
+      "reference_ids": [
+        "REF-014",
+        "REF-111",
+        "REF-270"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "次の健診を待たずに医療機関に相談しましょう。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q016",
+      "question": "痩せていても生活習慣病になることはありますか？",
+      "answer": "あります。体格だけでなく体質、年齢、生活環境なども関係します。",
+      "sections": [
+        "CHECKUP-02-01"
+      ],
+      "reference_ids": [
+        "REF-015",
+        "REF-235"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "体格だけでなく体質、年齢、生活環境なども関係します。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q017",
+      "question": "上の血圧と下の血圧は何が違いますか？",
+      "answer": "上の血圧は心臓が収縮したときの高い血圧、下の血圧は心臓が拡張しているときの低い血圧です。",
+      "sections": [
+        "CHECKUP-02-02"
+      ],
+      "reference_ids": [
+        "REF-017"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "上の血圧は心臓が収縮したときの高い血圧、下の血圧は心臓が拡張しているときの低い血圧です。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q018",
+      "question": "健康診断のときだけ血圧が高くなるのはなぜですか？",
+      "answer": "緊張などで血圧が高くなる場合があります。診察室では高く家庭では高くない状態を白衣高血圧と呼び、その逆を仮面高血圧と呼びます。一度の測定だけでは判断できないため、家庭血圧も記録して医師に相談しましょう。",
+      "sections": [
+        "CHECKUP-02-02"
+      ],
+      "reference_ids": [
+        "REF-016",
+        "REF-017",
+        "REF-236"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "一度の測定だけでは判断できない",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q019",
+      "question": "家庭でも血圧を測った方がよいですか？",
+      "answer": "はい。家庭血圧は普段の血圧を知るために役立ちます。上腕式血圧計を使い、朝は起床後1時間以内で朝食・服薬前、夜は就寝前に測定します。排尿を済ませ、椅子に座って1～2分安静にしてから、原則として朝と夜にそれぞれ2回測定し、測定した値はすべて記録しましょう。2回測定した場合はその平均値を評価に用います。できるだけ毎日、週に5日以上測定し、記録を医師に見せましょう。",
+      "sections": [
+        "CHECKUP-02-02"
+      ],
+      "reference_ids": [
+        "REF-016",
+        "REF-017",
+        "REF-236"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "朝は起床後1時間以内で朝食・服薬前、夜は就寝前",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q020",
+      "question": "血糖値とHbA1cは何が違いますか？",
+      "answer": "血糖値は採血時点の血液中のブドウ糖濃度です。HbA1cはブドウ糖が結合したヘモグロビンの割合で、主に過去1～2か月の血糖状態を反映します。両者は異なる期間の血糖状態を知る手がかりです。",
+      "sections": [
+        "CHECKUP-02-03"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-019",
+        "REF-237"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "主に過去1～2か月",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q021",
+      "question": "前日だけ食事に気をつければHbA1cは下がりますか？",
+      "answer": "HbA1cは前日の食事だけで大きく変わるものではありません。健診のために普段の食事を極端に減らす必要はありません。ただし、検査に必要な絶食や飲食の制限は、健診施設の指示に従いましょう。",
+      "sections": [
+        "CHECKUP-02-03"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-019",
+        "REF-237",
+        "REF-015"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "HbA1cは前日の食事だけで大きく変わるものではありません。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q022",
+      "question": "血糖値とHbA1cの結果が一致しないことはありますか？",
+      "answer": "血糖状態の最近の変化や赤血球の寿命、出血、輸血、一部の貧血などが影響する場合があります。鉄欠乏性貧血では高めに、溶血性貧血や急な出血からの回復期では低めに出る場合があります。輸血後は一律に判断できません。",
+      "sections": [
+        "CHECKUP-02-03"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-019",
+        "REF-237",
+        "REF-279",
+        "REF-280"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "血糖状態の最近の変化や赤血球の寿命、出血、輸血、一部の貧血などが影響する場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q023",
+      "question": "LDLとHDLは何が違いますか？",
+      "answer": "LDLとHDLはリポ蛋白粒子の種類です。LDL-CとHDL-Cはそれぞれに含まれるコレステロールの血液中の濃度です。",
+      "sections": [
+        "CHECKUP-02-04"
+      ],
+      "reference_ids": [
+        "REF-020",
+        "REF-021",
+        "REF-238"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "LDLとHDLはリポ蛋白粒子の種類です。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q024",
+      "question": "HDLコレステロールは高いほどよいのですか？",
+      "answer": "高いほど健康によいとは限りません。日本の複数の追跡研究をまとめた解析では、非常に高いHDL-Cと動脈硬化性心血管疾患による死亡との関連が報告されています。ただし、観察研究であり、HDL-Cが高いこと自体が死亡の原因だと証明したものではありません。ほかの検査値や健康状態も合わせて評価します。",
+      "sections": [
+        "CHECKUP-02-04"
+      ],
+      "reference_ids": [
+        "REF-020",
+        "REF-093",
+        "REF-278",
+        "REF-304"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "高いほど健康によいとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q025",
+      "question": "中性脂肪は食事の影響を受けますか？",
+      "answer": "食事や飲酒の影響を受けます。空腹時と随時の採血条件を確認しましょう。特定健診の中性脂肪では、10時間以上の絶食後とそれ以外で保健指導判定値が異なります。",
+      "sections": [
+        "CHECKUP-02-04",
+        "CHECKUP-04-04"
+      ],
+      "reference_ids": [
+        "REF-015",
+        "REF-020",
+        "REF-062",
+        "REF-021",
+        "REF-061"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "食事や飲酒の影響を受けます。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q026",
+      "question": "コレステロールは体に悪いものですか？",
+      "answer": "細胞膜やホルモンなどに必要な物質です。ただしLDL-Cが高い状態などでは動脈硬化のリスクが高まります。",
+      "sections": [
+        "CHECKUP-02-04"
+      ],
+      "reference_ids": [
+        "REF-020",
+        "REF-021"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "細胞膜やホルモンなどに必要な物質です。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q027",
+      "question": "ASTとALTは何が違いますか？",
+      "answer": "ASTは肝臓や筋肉などに存在し、ALTは主に肝細胞の傷害を知るために利用されます。肝臓の働きそのものを直接測る検査ではありません。",
+      "sections": [
+        "CHECKUP-02-05"
+      ],
+      "reference_ids": [
+        "REF-022",
+        "REF-023"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "肝臓の働きそのものを直接測る検査ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q028",
+      "question": "お酒を飲まなくても肝臓の数値が高くなることはありますか？",
+      "answer": "あります。脂肪肝、ウイルス性肝炎、薬なども原因となります。日本肝臓学会の奈良宣言2023では、ALTが30 U/Lを超えた場合に受診を勧めています。これは肝疾患の早期発見を目的とした学会の受診推奨であり、特定健診の受診勧奨判定値とは区別して考えます。",
+      "sections": [
+        "CHECKUP-02-05"
+      ],
+      "reference_ids": [
+        "REF-022",
+        "REF-023"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "ALTが30 U/Lを超えた場合",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q029",
+      "question": "激しい運動でASTが高くなることはありますか？",
+      "answer": "筋肉への負担によってASTやALT、CKなどが上昇し、数日間影響する場合もあります。自己判断で原因を決めつけないようにしましょう。",
+      "sections": [
+        "CHECKUP-02-05",
+        "CHECKUP-03-03"
+      ],
+      "reference_ids": [
+        "REF-022",
+        "REF-028",
+        "REF-094",
+        "REF-251"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で原因を決めつけないようにしましょう。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q030",
+      "question": "クレアチニンとeGFRは何が違いますか？",
+      "answer": "クレアチニンは筋肉の代謝に関連する物質です。健診で一般的に用いるeGFRは、血液中のクレアチニン濃度、年齢、性別から腎臓のろ過能力を推算した値です。直接測定したろ過量ではありません。",
+      "sections": [
+        "CHECKUP-02-06"
+      ],
+      "reference_ids": [
+        "REF-024"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "腎臓のろ過能力を推算した値",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q031",
+      "question": "筋肉量は腎機能の検査値に影響しますか？",
+      "answer": "はい。筋肉量が少ないと、クレアチニンを用いたeGFRは実際のろ過能力より高く推算される場合があります。逆に筋肉量が多いと低く推算される場合があります。必要に応じてシスタチンCという別の検査値を用いた評価も行います。シスタチンCも甲状腺機能や炎症などの影響を受けるため、総合的に判断します。",
+      "sections": [
+        "CHECKUP-02-06"
+      ],
+      "reference_ids": [
+        "REF-024",
+        "REF-298",
+        "REF-305"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "実際のろ過能力より高く推算される場合",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q032",
+      "question": "eGFRは腎臓の働きをパーセントで表したものですか？",
+      "answer": "いいえ。健診で一般的なeGFRの単位はmL/min/1.73m²です。体表面積を1.73m²にそろえた場合の、1分間あたりの推算ろ過量を表します。60だから腎機能が60％残っているという意味ではありません。",
+      "sections": [
+        "CHECKUP-02-06"
+      ],
+      "reference_ids": [
+        "REF-024",
+        "REF-110"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "60だから腎機能が60％残っているという意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q033",
+      "question": "腎臓の数値は薬にも関係しますか？",
+      "answer": "腎臓の働きによって、薬の量や使用間隔を調整する必要がある場合があります。健診のeGFRは通常、体表面積1.73m²に補正した値です。薬によっては体格に合わせたeGFRやクレアチニンクリアランスという別の推算値を用います。薬ごとの基準や筋肉量なども考慮するため、健診結果だけをもとに、自己判断で薬の量を変えず、医師や薬剤師に相談しましょう。薬の量を決める際には、その薬で用いられている腎機能の評価方法を確認することも大切です。",
+      "sections": [
+        "CHECKUP-02-06",
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-024",
+        "REF-083",
+        "REF-084",
+        "REF-085",
+        "REF-110",
+        "REF-298"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "薬によっては体格に合わせたeGFRやクレアチニンクリアランスという別の推算値を用います。",
+          "kind": "yellow"
+        },
+        {
+          "text": "自己判断で薬の量を変えず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q034",
+      "question": "尿酸値が高いと必ず痛風になりますか？",
+      "answer": "血液中の尿酸値が7.0 mg/dLを超えると高尿酸血症と診断されます。必ず痛風になるわけではありませんが、痛風や尿路結石などにつながる場合があります。",
+      "sections": [
+        "CHECKUP-02-07"
+      ],
+      "reference_ids": [
+        "REF-025",
+        "REF-026"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "必ず痛風になるわけではありません",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q035",
+      "question": "プリン体の多い食品を控えるだけで尿酸値は下がりますか？",
+      "answer": "食事だけで十分に下がるとは限りません。尿酸は食事由来のプリン体だけでなく、体内の物質が分解されることでも作られます。尿酸の生成が増えたり、腎臓や腸からの排泄が減ったりすると、尿酸値は上がります。飲酒や体質、使用している薬なども関係します。",
+      "sections": [
+        "CHECKUP-02-07"
+      ],
+      "reference_ids": [
+        "REF-025",
+        "REF-026"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "食事だけで十分に下がるとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q036",
+      "question": "貧血とはどういう状態ですか？",
+      "answer": "貧血とは血液中のヘモグロビン濃度が低下した状態です。ヘモグロビンは赤血球に含まれ、酸素を全身に運ぶ役割があります。症状がない場合もあり、立ちくらみだけで貧血とは判断できません。",
+      "sections": [
+        "CHECKUP-02-08"
+      ],
+      "reference_ids": [
+        "REF-027",
+        "REF-268",
+        "REF-269"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "酸素を全身に運ぶ役割",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q037",
+      "question": "貧血があれば鉄のサプリメントを飲めばよいですか？",
+      "answer": "貧血の原因は鉄不足だけではありません。ビタミンB12や葉酸の不足、慢性炎症などでも起こります。鉄不足による貧血でも、過多月経や消化管出血が隠れている場合があります。自己判断で鉄を補うだけで済ませず、医療機関で原因を確認しましょう。鉄不足が疑われる場合は、体内に蓄えられている鉄の目安となるフェリチンなどを調べることがあります。フェリチンは炎症でも上昇するため、正常値や高値でも鉄不足を否定できない場合があります。ほかの検査結果と合わせて判断します。",
+      "sections": [
+        "CHECKUP-02-08"
+      ],
+      "reference_ids": [
+        "REF-027",
+        "REF-268",
+        "REF-269",
+        "REF-281"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で鉄を補うだけで済ませず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q038",
+      "question": "白血球が多いと病気ですか？",
+      "answer": "感染症、炎症、身体的ストレス、ステロイド薬などでも増える場合があります。ほかの検査結果も合わせて判断します。",
+      "sections": [
+        "CHECKUP-02-08"
+      ],
+      "reference_ids": [
+        "REF-022",
+        "REF-028",
+        "REF-098",
+        "REF-299"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "感染症、炎症、身体的ストレス、ステロイド薬などでも増える場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q039",
+      "question": "尿蛋白が陽性になるのはなぜですか？",
+      "answer": "腎臓の病気などで尿に蛋白が出る場合がありますが、激しい運動や発熱によって一時的に陽性となることもあります。陽性の原因は一つではありません。健診結果で再検査や受診を勧められた場合は、指示に従って確認しましょう。",
+      "sections": [
+        "CHECKUP-02-06",
+        "CHECKUP-02-09"
+      ],
+      "reference_ids": [
+        "REF-024",
+        "REF-028"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "一時的に陽性となることもあります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q040",
+      "question": "尿糖が陽性なら糖尿病ですか？",
+      "answer": "糖尿病とは限りません。血糖値や腎臓での再吸収、使用している薬なども関係します。SGLT2阻害薬を使用していると尿糖が陽性になることがあります。尿検査の際は使用している薬を伝えましょう。",
+      "sections": [
+        "CHECKUP-02-09"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-028",
+        "REF-030",
+        "REF-300"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "糖尿病とは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q041",
+      "question": "尿潜血が陽性になるのはなぜですか？",
+      "answer": "尿路からの出血や月経血の混入などが考えられます。試験紙は赤血球に含まれるヘモグロビンや筋肉に含まれるミオグロビンにも反応します。そのため、尿潜血陽性だけで尿に赤血球が混じっているとは断定できません。必要に応じて尿沈渣という検査で赤血球の有無などを確認します。",
+      "sections": [
+        "CHECKUP-02-09"
+      ],
+      "reference_ids": [
+        "REF-028",
+        "REF-029",
+        "REF-134",
+        "REF-240"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "尿潜血陽性だけで尿に赤血球が混じっているとは断定できません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q042",
+      "question": "薬によって尿糖が陽性になることはありますか？",
+      "answer": "あります。SGLT2阻害薬は腎臓でのブドウ糖の再吸収を抑え、尿への排泄を増やす薬です。この薬を使っている場合は尿糖陽性だけで血糖管理の悪化とは判断できません。薬によっては心不全や慢性腎臓病にも使用されます。健診時には使用している薬を伝えましょう。",
+      "sections": [
+        "CHECKUP-02-09",
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-030",
+        "REF-241"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "尿糖陽性だけで血糖管理の悪化とは判断できません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q043",
+      "question": "心電図が正常なら心臓の病気はありませんか？",
+      "answer": "いいえ。安静時心電図は短時間の心臓の電気活動を記録する検査です。検査時に症状がなく、心電図に変化が現れない場合もあります。胸や背中に急に強い痛みが出たとき、胸を圧迫されるような痛みが数分続くとき、急に息が苦しくなったときは、健診結果にかかわらず119番に通報してください。",
+      "sections": [
+        "CHECKUP-02-10",
+        "CHECKUP-05-03"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-036",
+        "REF-099",
+        "REF-112",
+        "REF-130",
+        "REF-204",
+        "REF-242"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査時に症状がなく、心電図に変化が現れない場合もあります。",
+          "kind": "bold"
+        },
+        {
+          "text": "119番に通報してください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q044",
+      "question": "心電図で不整脈はすべて見つかりますか？",
+      "answer": "短時間の安静時心電図では、検査中に起きていない不整脈を捉えられない場合があります。ホルター心電図では、例えば24時間にわたり日常生活中の心電図を記録します。動悸などの症状がある場合は医師に相談しましょう。",
+      "sections": [
+        "CHECKUP-02-10"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-036",
+        "REF-099",
+        "REF-112",
+        "REF-130",
+        "REF-242"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査中に起きていない不整脈を捉えられない場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q045",
+      "question": "胸部X線で肺の病気はすべてわかりますか？",
+      "answer": "いいえ。胸部X線では肺や心臓などの陰影を確認します。小さな病変や、心臓・横隔膜・骨と重なる病変は見つけにくい場合があります。咳が続く、血の混じった痰が出るなどの症状があれば、健診結果にかかわらず医療機関に相談しましょう。",
+      "sections": [
+        "CHECKUP-02-11"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-035",
+        "REF-036",
+        "REF-129",
+        "REF-243",
+        "REF-244",
+        "REF-301"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "小さな病変や、心臓・横隔膜・骨と重なる病変は見つけにくい場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q046",
+      "question": "視力がよければ目の病気はありませんか？",
+      "answer": "視力がよくても視野の異常などが存在する場合があります。",
+      "sections": [
+        "CHECKUP-02-12"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-031",
+        "REF-036",
+        "REF-136",
+        "REF-245",
+        "REF-294"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "視力がよくても視野の異常などが存在する場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q047",
+      "question": "眼圧が正常でも緑内障になることはありますか？",
+      "answer": "あります。眼圧が正常範囲内でも緑内障になる場合があり、正常眼圧緑内障と呼ばれます。眼圧だけでなく、視神経や視野などの検査を合わせて評価します。健診で緑内障の疑いを指摘された場合は眼科に相談し、経過観察を指示された場合は指定された時期に検査を受けましょう。",
+      "sections": [
+        "CHECKUP-02-12"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-031",
+        "REF-036",
+        "REF-136",
+        "REF-245",
+        "REF-294"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "眼圧が正常範囲内でも緑内障になる場合",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q048",
+      "question": "骨密度が高ければ骨折しませんか？",
+      "answer": "いいえ。骨折には骨密度だけでなく、骨の質、過去の骨折、年齢、転倒、病気や薬なども関係します。例えば2型糖尿病では、骨密度が比較的保たれていても骨折リスクが高い場合があります。同じ骨密度でも、2型糖尿病の有無によって骨折リスクが異なることがあります。",
+      "sections": [
+        "CHECKUP-02-13"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-036",
+        "REF-100",
+        "REF-277",
+        "REF-295",
+        "REF-306"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "骨密度が比較的保たれていても骨折リスクが高い場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q049",
+      "question": "腹部超音波ですべての内臓の病気がわかりますか？",
+      "answer": "腹部超音波検査は肝臓、胆のう、膵臓、腎臓などを画像で観察する検査です。すべての病気がわかるわけではありません。消化管内のガスや骨、体格などの影響で、臓器の一部を十分に観察できない場合があります。食後は胆のうが縮み、胃や腸のガスも観察を妨げることがあるため、食事については健診施設の指示に従いましょう。「描出困難」と記載された場合は、異常なしという意味ではありません。追加検査が必要か確認しましょう。",
+      "sections": [
+        "CHECKUP-02-13"
+      ],
+      "reference_ids": [
+        "REF-004",
+        "REF-036",
+        "REF-101",
+        "REF-113",
+        "REF-114",
+        "REF-247",
+        "REF-296",
+        "REF-302"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "異常なしという意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q050",
+      "question": "便潜血検査が陽性なら大腸がんですか？",
+      "answer": "便潜血検査で陽性になっても、がんと決まったわけではありません。ポリープなどが原因の場合もあります。2日法で片方だけ陽性でも精密検査が必要です。痔があっても自己判断で原因を決めつけず、精密検査を受けましょう。",
+      "sections": [
+        "CHECKUP-02-14",
+        "CHECKUP-05-02"
+      ],
+      "reference_ids": [
+        "REF-032"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "2日法で片方だけ陽性でも精密検査が必要です。",
+          "kind": "warning"
+        },
+        {
+          "text": "痔があっても自己判断で原因を決めつけず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q051",
+      "question": "血液検査だけでがんはわかりますか？",
+      "answer": "いいえ。一般的な血液検査や腫瘍マーカーだけですべてのがんを見つけることはできません。腫瘍マーカーは主に診断の補助や治療後の経過、治療効果の評価に用います。がんがなくても高値になることがあり、がんがあっても高値にならないことがあります。健診の追加項目として行う腫瘍マーカー検査は、国が推奨するがん検診には含まれません。",
+      "sections": [
+        "CHECKUP-02-14"
+      ],
+      "reference_ids": [
+        "REF-033",
+        "REF-034",
+        "REF-248"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "がんがなくても高値になることがあり、がんがあっても高値にならないことがあります。",
+          "kind": "yellow"
+        },
+        {
+          "text": "国が推奨するがん検診には含まれません。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q052",
+      "question": "がん検診は毎年受けるものですか？",
+      "answer": "対象年齢や推奨される受診間隔は、がんの種類や検査方法によって異なります。例えば、市町村の大腸がん検診は40歳以上を対象に年1回行われます。一度陰性でも、次回以降の検診が不要になるわけではありません。治療中の方は検診の再開時期を主治医に相談してください。",
+      "sections": [
+        "CHECKUP-02-14"
+      ],
+      "reference_ids": [
+        "REF-034",
+        "REF-035",
+        "REF-032"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "一度陰性でも、次回以降の検診が不要になるわけではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q053",
+      "question": "前日は何時まで食事をしてよいですか？",
+      "answer": "検査内容や受診時刻によって異なります。例えば、胃の検査や一部の血液検査では食事制限が必要です。すべての健診で同じ時刻までに食事を済ませる必要があるわけではありません。受診する健診機関の案内を確認しましょう。",
+      "sections": [
+        "CHECKUP-03-01",
+        "CHECKUP-03-02"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-250"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "受診する健診機関の案内を確認しましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q054",
+      "question": "当日の朝、水を飲んでもよいですか？",
+      "answer": "水を飲める時間や量は検査内容や健診機関によって異なります。水や白湯に限って指定された時刻まで飲める場合もあります。事前に案内を確認しましょう。",
+      "sections": [
+        "CHECKUP-03-02"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-210",
+        "REF-211",
+        "REF-212"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "水を飲める時間や量は検査内容や健診機関によって異なります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q055",
+      "question": "ブラックコーヒーや無糖のお茶なら飲んでもよいですか？",
+      "answer": "糖分がなくても制限される場合があります。水のみが認められる場合もあります。",
+      "sections": [
+        "CHECKUP-03-02"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-210",
+        "REF-211",
+        "REF-212"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "糖分がなくても制限される場合があります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q056",
+      "question": "ガムや飴も控えた方がよいですか？",
+      "answer": "はい。絶食を指示されている場合は、ガムや飴、のど飴も口にしないでください。シュガーレスやカロリーゼロの表示だけで摂取できると判断せず、健診機関の指示に従いましょう。水を飲める時間や量は健診機関の指示に従ってください。",
+      "sections": [
+        "CHECKUP-03-02"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-210",
+        "REF-211",
+        "REF-212",
+        "REF-221",
+        "REF-222",
+        "REF-223",
+        "REF-307",
+        "REF-313"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "ガムや飴、のど飴も口にしないでください。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q057",
+      "question": "当日の朝、間違って食事をしてしまったらどうすればよいですか？",
+      "answer": "指示された時間を過ぎて飲食した場合は、何をいつ飲食したかを健診機関に伝え、予定どおり検査を受けられるか確認しましょう。",
+      "sections": [
+        "CHECKUP-03-02"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-049",
+        "REF-212"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q058",
+      "question": "前日にお酒を飲んでしまったらどうすればよいですか？",
+      "answer": "飲酒した量や時刻を伝えましょう。中性脂肪などに影響する場合があります。",
+      "sections": [
+        "CHECKUP-03-03"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-250"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "飲酒した量や時刻を伝えましょう。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q059",
+      "question": "前日に運動してもよいですか？",
+      "answer": "激しい運動はAST、ALT、CKなどに影響し、数日前の運動が影響することもあります。運動直後には一時的に尿蛋白が増える場合もあります。健診施設の案内に従い、激しい運動をした場合はスタッフに伝えましょう。筋力トレーニングの研究では、ASTやALTの上昇が少なくとも7日続いた例があります。ただし、すべての方が1週間運動を控える必要があるという意味ではありません。異常値を運動だけのせいと自己判断しないでください。",
+      "sections": [
+        "CHECKUP-03-03",
+        "CHECKUP-02-05"
+      ],
+      "reference_ids": [
+        "REF-024",
+        "REF-094",
+        "REF-115",
+        "REF-251",
+        "REF-252",
+        "REF-250"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "激しい運動はAST、ALT、CKなどに影響し、数日前の運動が影響することもあります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q060",
+      "question": "健康診断の直前だけ食事に気をつけても意味がありますか？",
+      "answer": "直前の食事は一部の数値に影響しますが、普段の状態を知るための健診です。健診のために普段の食事を極端に減らす必要はありません。ただし、検査に必要な絶食や飲食の制限は、健診施設の指示に従いましょう。",
+      "sections": [
+        "CHECKUP-03-03",
+        "CHECKUP-02-03"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-020",
+        "REF-250",
+        "REF-015"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "直前の食事は一部の数値に影響しますが、普段の状態を知るための健診です。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q061",
+      "question": "寝不足は検査結果に影響しますか？",
+      "answer": "睡眠不足が続くと、血圧やインスリンの効き方に影響する場合があります。ただし、一晩の寝不足で検査値がどの程度変わるかは一律にはいえません。体調の変化は健診機関に伝え、異常値を寝不足だけのせいと自己判断しないでください。",
+      "sections": [
+        "CHECKUP-03-03"
+      ],
+      "reference_ids": [
+        "REF-078",
+        "REF-116",
+        "REF-117",
+        "REF-253",
+        "REF-250",
+        "REF-317",
+        "REF-318"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "一晩の寝不足で検査値がどの程度変わるかは一律にはいえません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q062",
+      "question": "健康診断の前にたばこを吸ってもよいですか？",
+      "answer": "喫煙は血圧や心拍数などに影響します。健診機関の指示に従いましょう。ニコチンによって血圧や心拍数が上昇することがあります。",
+      "sections": [
+        "CHECKUP-03-03"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-282",
+        "REF-316"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "喫煙は血圧や心拍数などに影響します。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q063",
+      "question": "いつも飲んでいる薬は当日も飲んでよいですか？",
+      "answer": "薬の種類や検査内容によって対応は異なります。健診日と検査内容を事前に主治医に伝え、前日・当日の使用方法と、休薬する場合の再開時期を確認しましょう。自己判断で中止しないでください。",
+      "sections": [
+        "CHECKUP-03-01",
+        "CHECKUP-03-04"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-208",
+        "REF-210"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q064",
+      "question": "血圧の薬は飲んでよいですか？",
+      "answer": "血圧のお薬は、健診当日も服用するよう案内されることがあります。ただし、お薬の種類や検査内容によって対応が異なります。利尿薬を使用している方や、水分摂取量について指示を受けている方も、事前に主治医や健診施設へ確認しましょう。",
+      "sections": [
+        "CHECKUP-03-04"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-086",
+        "REF-109",
+        "REF-313"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "事前に主治医",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q065",
+      "question": "血液を固まりにくくする薬を飲んでいても検査できますか？",
+      "answer": "内視鏡で観察するだけの場合は、抗血栓薬を原則として中止する必要はありません。ただし、組織を採取したり病変を切除したりする場合は、薬の種類や出血の危険性に応じて対応が異なります。薬を中止すると脳梗塞などの血栓症が起こる危険もあります。検査前に処方医と検査担当医へ相談し、自己判断で中止しないでください。",
+      "sections": [
+        "CHECKUP-03-04"
+      ],
+      "reference_ids": [
+        "REF-040",
+        "REF-042"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で中止しないでください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q066",
+      "question": "貼り薬や塗り薬は使用してもよいですか？",
+      "answer": "検査や製品によって異なります。MRIでは取り外しが必要な貼り薬もあります。製品名を伝えましょう。金属を含む貼り薬ではMRI検査中に熱傷が起こるおそれがあります。取り外しや再開の方法は医療者に確認しましょう。",
+      "sections": [
+        "CHECKUP-03-04",
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-051",
+        "REF-275",
+        "REF-276"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "製品名を伝え",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q067",
+      "question": "薬を飲んで数値が正常になっている場合も治療中と伝える必要がありますか？",
+      "answer": "はい。例えば特定健診では、血圧・血糖・脂質の治療薬を現在使用しているかを確認します。数値が正常でも、該当する薬を使用中なら「はい」と回答します。治療中の病気や薬の情報も、健診機関の質問に沿って伝えましょう。",
+      "sections": [
+        "CHECKUP-03-04",
+        "CHECKUP-04-09",
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-202"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "はい。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q068",
+      "question": "お薬手帳は持っていった方がよいですか？",
+      "answer": "はい。お薬手帳は健診時の薬の確認にも役立ちます。市販薬やサプリメントも記録しておきましょう。",
+      "sections": [
+        "CHECKUP-03-04",
+        "CHECKUP-03-12"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-208",
+        "REF-209",
+        "REF-311"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q069",
+      "question": "糖尿病の薬やインスリンはどうすればよいですか？",
+      "answer": "絶食時の対応は薬によって異なります。健診の案内に「糖尿病の薬を中止」と書いてあっても、インスリンを含むすべての薬を自己判断で中止しないでください。健診日と検査内容を主治医に伝え、使用量・時刻や再開方法を事前に確認しましょう。",
+      "sections": [
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-043",
+        "REF-044",
+        "REF-046",
+        "REF-109",
+        "REF-208",
+        "REF-210",
+        "REF-211"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q070",
+      "question": "食事をしない日はインスリンをすべて中止してよいですか？",
+      "answer": "食事をしない場合でも、体に必要なインスリンがあります。基礎インスリンは食事をしていない時間にも必要となるインスリンを補い、追加インスリンは主に食事に伴う血糖上昇に対応します。特に1型糖尿病の方では、基礎インスリンを自己判断で中止すると、重い高血糖や糖尿病性ケトアシドーシスを起こす危険があります。インスリンの種類によって対応が異なりますので、健診前に主治医へ相談し、前日・当日の使用量や使用時刻を確認してください。",
+      "sections": [
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-043",
+        "REF-108",
+        "REF-271"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "基礎インスリンを自己判断で中止すると",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q071",
+      "question": "週に1回使用する注射薬はどうすればよいですか？",
+      "answer": "週1回型インスリンとGLP-1関連薬は異なる種類の薬です。GLP-1関連薬には毎日使用する薬と週1回使用する薬などがあります。週1回使用する薬は注射日以外にも作用が続きます。週1回型インスリンのアウィクリは1週間を通じて作用し、注射日以外の絶食時にも低血糖に注意が必要です。低血糖が起きた場合は、回復後も再発することがあります。インスリンの不足にも注意が必要です。GLP-1関連薬は胃内容物の排出が遅れることがあり、全身麻酔や深い鎮静を伴う検査では、絶食の指示を守っていても誤嚥（胃の内容物などが気道に入ること）が起こる場合があるため、事前確認が必要です。薬名、最終使用日、次回使用予定日を伝え、使用方法を医師に確認しましょう。",
+      "sections": [
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-043",
+        "REF-045",
+        "REF-087",
+        "REF-088",
+        "REF-272",
+        "REF-273",
+        "REF-314"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "注射日以外にも作用が続きます。",
+          "kind": "yellow"
+        },
+        {
+          "text": "注射日以外の絶食時にも低血糖に注意",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q072",
+      "question": "糖尿病ではなくてもSGLT2阻害薬に注意が必要ですか？",
+      "answer": "はい。心不全や慢性腎臓病で使用している方も注意が必要です。日本人間ドック・予防医療学会の2025年5月の会告では、絶食を伴う人間ドック当日はSGLT2阻害薬を休薬し、検査を終えて食事をとった後に服用することを案内しています。ご自身の薬が該当するか、当日の服用・再開方法を事前に医師や薬剤師に確認しましょう。食事がとれない場合は再開前に相談してください。",
+      "sections": [
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-044"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "食事をとった後に服用",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q073",
+      "question": "健診中に低血糖になったらどうすればよいですか？",
+      "answer": "低血糖が疑われるときは、検査より安全を優先し、すぐにスタッフへ伝えてください。意識がはっきりして安全に飲み込める場合は、普段指示されているブドウ糖の摂取などの対応を行いましょう。意識がはっきりしない方には無理に飲食させず、すぐに救急対応を求めてください。",
+      "sections": [
+        "CHECKUP-03-05"
+      ],
+      "reference_ids": [
+        "REF-046"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "意識がはっきりしない方には無理に飲食させず、すぐに救急対応を求めてください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q074",
+      "question": "市販薬は検査結果に影響しますか？",
+      "answer": "成分によって体の状態や測定値に影響する場合があります。例えば甘草を含む漢方薬やグリチルリチン酸を含む薬では、偽アルドステロン症により血圧の上昇や血液中のカリウムの低下が起こる場合があります。単なる測定誤差ではありません。使用製品を医師や薬剤師、健診施設に伝えましょう。",
+      "sections": [
+        "CHECKUP-03-06"
+      ],
+      "reference_ids": [
+        "REF-048",
+        "REF-095",
+        "REF-097"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "単なる測定誤差ではありません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "使用製品を医師や薬剤師、健診施設に伝えましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q075",
+      "question": "サプリメントは検査結果に影響しますか？",
+      "answer": "あります。甘草では血圧の上昇や血液中のカリウムの低下が起こる場合があります。クレアチンは血清クレアチニンを上昇させ、クレアチニンを用いたeGFRが低めに算出される場合があります。ただし、腎機能の異常をすべてクレアチンの影響と判断することはできません。高用量のビオチンは一部の測定方法に干渉し、実際より高い値や低い値が出る場合があります。例えば、一部の甲状腺の検査では甲状腺ホルモンが見かけ上高く、TSH（甲状腺刺激ホルモン）が低く測定される場合があります。ビタミンCは一部の尿試験紙で、尿糖や尿潜血が実際より低く判定される原因になる場合があります。製品名や使用量を伝えましょう。",
+      "sections": [
+        "CHECKUP-03-06",
+        "CHECKUP-04-06"
+      ],
+      "reference_ids": [
+        "REF-047",
+        "REF-048",
+        "REF-095",
+        "REF-096",
+        "REF-097",
+        "REF-227",
+        "REF-103"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "腎機能の異常をすべてクレアチンの影響と判断することはできません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "実際より低く判定される",
+          "kind": "bold"
+        },
+        {
+          "text": "製品名や使用量を伝えましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q076",
+      "question": "健診前はサプリメントを中止した方がよいですか？",
+      "answer": "成分、量、検査方法によって異なります。一律に中止する必要があるとは限りません。治療目的で使用しているものは自己判断で中止せず、製品名や使用量を伝えて事前に医師や健診施設へ確認しましょう。",
+      "sections": [
+        "CHECKUP-03-06"
+      ],
+      "reference_ids": [
+        "REF-047",
+        "REF-048",
+        "REF-227"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で中止せず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q077",
+      "question": "尿が出ないときはどうすればよいですか？",
+      "answer": "尿が出ない場合は、まずスタッフに相談しましょう。検査の順番を変更できる場合もあります。飲水が他の検査に影響することがあるため、水を飲む前に確認してください。",
+      "sections": [
+        "CHECKUP-03-07"
+      ],
+      "reference_ids": [
+        "REF-039",
+        "REF-102"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "水を飲む前に確認してください。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q078",
+      "question": "中間尿とは何ですか？",
+      "answer": "中間尿とは、排尿の最初と最後を避け、途中の尿を採取する方法です。尿の出始めに混じりやすい雑菌などによる検査結果への影響を減らす目的があります。検査ごとの指示に従いましょう。",
+      "sections": [
+        "CHECKUP-03-07"
+      ],
+      "reference_ids": [
+        "REF-102"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "排尿の最初と最後を避け、途中の尿を採取する方法です。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q079",
+      "question": "便潜血検査の便は何回採取するのですか？",
+      "answer": "1日法と2日法があります。市町村の大腸がん検診に関する国の指針では、2027年4月1日から2日法を1日法に変更します。職場の検診や人間ドックなどでは2日法が用いられることもあります。2日法では原則として異なる日に採便し、指定された方法に従いましょう。",
+      "sections": [
+        "CHECKUP-03-07"
+      ],
+      "reference_ids": [
+        "REF-037",
+        "REF-049",
+        "REF-126",
+        "REF-215",
+        "REF-220"
+      ],
+      "aliases": [
+        {
+          "id": "Q079",
+          "question": "同じ日に2回採ってもよいですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "2027年4月1日から2日法を1日法に変更します。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q080",
+      "question": "採取した便はどのように保管すればよいですか？",
+      "answer": "採便後は高温を避け、健診機関の指示に従って保管し、早めに提出しましょう。市町村の大腸がん検診では、従来の2日法は初回検体を冷蔵保存し、2回目の採便日に回収するのが原則です。2027年4月1日からの1日法では採便当日の回収が原則となります。即日提出できない場合は、指定された保管方法を確認しましょう。",
+      "sections": [
+        "CHECKUP-03-07"
+      ],
+      "reference_ids": [
+        "REF-037",
+        "REF-049",
+        "REF-126",
+        "REF-215",
+        "REF-220"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "採便後は高温を避け、健診機関の指示に従って保管し、早めに提出しましょう。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q081",
+      "question": "便が1日分しか採れなかった場合はどうすればよいですか？",
+      "answer": "指定された回数の採便ができなかった場合は健診機関に相談してください。2日法で1日分しか採れなくても検査できる施設がありますが、後日提出の可否や期限は施設によって異なります。",
+      "sections": [
+        "CHECKUP-03-07"
+      ],
+      "reference_ids": [
+        "REF-037",
+        "REF-049",
+        "REF-215",
+        "REF-220",
+        "REF-312",
+        "REF-307"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q082",
+      "question": "生理中でも健康診断を受けられますか？",
+      "answer": "月経中でも受けられる検査があります。ただし、尿や便への月経血の混入で潜血検査が陽性になることがあります。尿検査・便検査・子宮頸がん検診などを後日に変更できる場合もありますが、施設によって対応は異なります。健診全体を延期する必要があるか、一部の検査だけ変更できるか、事前に確認しましょう。",
+      "sections": [
+        "CHECKUP-03-08"
+      ],
+      "reference_ids": [
+        "REF-039",
+        "REF-213",
+        "REF-214",
+        "REF-215",
+        "REF-219",
+        "REF-220",
+        "REF-312",
+        "REF-307"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "事前に確認",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q083",
+      "question": "風邪をひいているときは受けてもよいですか？",
+      "answer": "発熱、咳、嘔吐・下痢などがある場合は、感染の可能性もあるため、健診会場へ行く前に健診機関へ連絡しましょう。日程変更が必要な場合があります。体調不良について診察が必要なときは、健診の予定日まで待たずに医療機関に相談しましょう。",
+      "sections": [
+        "CHECKUP-03-08"
+      ],
+      "reference_ids": [
+        "REF-038",
+        "REF-039",
+        "REF-216",
+        "REF-214"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q084",
+      "question": "妊娠中・妊娠の可能性がある場合はどうすればよいですか？",
+      "answer": "妊娠中の方や妊娠の可能性がある方は、健診の申し込み時や検査前に伝えてください。健診では胸部X線・胃バリウム検査などの変更や延期が必要になる場合があります。受けられる項目だけ実施できるか、事前に確認しましょう。病気の診断や治療に必要なCT・MRIは、妊娠中でも必要性と安全性を考慮して実施する場合があります。特に造影MRIでは、診断上の利益がリスクを十分に上回るか、より安全な代わりの検査がないか、出産後まで待てるかなどを医師が検討します。",
+      "sections": [
+        "CHECKUP-03-08"
+      ],
+      "reference_ids": [
+        "REF-039",
+        "REF-089",
+        "REF-213",
+        "REF-215",
+        "REF-219",
+        "REF-319"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "健診の申し込み時や検査前に伝えてください。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q085",
+      "question": "授乳中でも健康診断を受けられますか？",
+      "answer": "授乳中でも受けられる健診項目は多くあります。通常のX線撮影やCT検査では、撮影後に放射線が体内に残るわけではないため、検査そのものを理由に授乳を中断する必要はありません。日本医学放射線学会は、ヨード造影剤やガドリニウム造影剤の使用後も、特別な理由がなければ授乳制限は不要としています。ただし、使用する薬剤の電子添文やお母さん・赤ちゃんの状態も踏まえて、授乳の継続について医師と相談してください。鎮静薬や放射性医薬品を使う検査は別に確認が必要です。",
+      "sections": [
+        "CHECKUP-03-08"
+      ],
+      "reference_ids": [
+        "REF-089",
+        "REF-090",
+        "REF-319",
+        "REF-320"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "特別な理由がなければ授乳制限は不要",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q086",
+      "question": "採血が怖いのですが、どうすればよいですか？",
+      "answer": "採血への不安が強い場合は、採血前にスタッフへ伝えましょう。横になった姿勢で採血を受けられる施設もあります。以前に気分が悪くなった経験があれば、それも伝えてください。",
+      "sections": [
+        "CHECKUP-03-09"
+      ],
+      "reference_ids": [
+        "REF-127",
+        "REF-128",
+        "REF-049",
+        "REF-254",
+        "REF-255"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "採血前にスタッフへ伝えましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q087",
+      "question": "採血で気分が悪くなったことがある場合はどうすればよいですか？",
+      "answer": "採血時や採血後の気分不良には、血管迷走神経反射が関係する場合があります。血圧や脈拍が低下し、めまいや失神が起こることがあります。以前の経験を受付時に伝え、横になって採血できるか相談しましょう。気分が悪くなったらすぐにスタッフに知らせてください。",
+      "sections": [
+        "CHECKUP-03-09"
+      ],
+      "reference_ids": [
+        "REF-107",
+        "REF-127",
+        "REF-128",
+        "REF-049",
+        "REF-254"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "気分が悪くなったらすぐにスタッフに知らせてください。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q088",
+      "question": "狭い場所が苦手でもMRI検査を受けられますか？",
+      "answer": "機器や対応方法によっては受けられる場合があります。不安があることを事前に伝えましょう。",
+      "sections": [
+        "CHECKUP-03-09",
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-051",
+        "REF-255",
+        "REF-310"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "機器や対応方法によっては受けられる場合があります。",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q089",
+      "question": "血糖測定センサーを装着したまま検査を受けられますか？",
+      "answer": "FreeStyleリブレ2は2026年7月の表示材料改訂により、一般X線撮影・CT検査では原則としてセンサーを外す必要がなくなりました。MRI検査では引き続き取り外しが必要で、検査後は新しいセンサーを装着します。製品性能の変更はなく、改訂前の説明書が同梱された製品が流通する場合もあります。他の機器にこの取り扱いを適用せず、製品名を検査担当者に伝えて確認しましょう。一方、Dexcom G7はMRIでは取り外しが必要です。CTではセンサーが撮影範囲外にあり、鉛エプロンで覆われている場合に装着したまま検査できると電子添文に記載されています。検査担当者に確認してください。",
+      "sections": [
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-052",
+        "REF-053",
+        "REF-274"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "原則としてセンサーを外す必要がなくなりました。",
+          "kind": "yellow"
+        },
+        {
+          "text": "MRI検査では引き続き取り外しが必要",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q090",
+      "question": "インスリンポンプを使用していても検査できますか？",
+      "answer": "インスリンポンプを装着したまま検査を受けられるかどうかは、製品や検査の種類によって異なります。例えば、メディセーフウィズスマートでは、X線・CT・MRI検査前にポンプ本体と留置セットを取り外すようメーカーが案内しています。取り外しが必要な場合はインスリンの供給が一時的に中断されます。検査中の血糖管理や取り外し・再装着の方法について、事前に主治医と検査担当者に確認してください。自己判断でインスリンの供給を中断しないでください。",
+      "sections": [
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-043",
+        "REF-051",
+        "REF-091",
+        "REF-106"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "事前に主治医",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q091",
+      "question": "ペースメーカーを使用していてもMRI検査を受けられますか？",
+      "answer": "ペースメーカーを使用していても、一定の条件を満たせばMRI検査を受けられる場合があります。条件付きMRI対応機器でも、機器ごとの撮影条件や施設の安全管理体制が必要です。予約時に使用していることを伝え、ペースメーカー手帳やMRI対応カードをお持ちの方は持参してください。カードがない場合も自己判断せず、医師に相談してください。",
+      "sections": [
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-051",
+        "REF-092",
+        "REF-225"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "機器ごとの撮影条件や施設の安全管理体制が必要です。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q092",
+      "question": "コンタクトレンズをつけたまま検査できますか？",
+      "answer": "眼圧検査や眼底検査では、コンタクトレンズの種類や検査方法により取り外しが必要な場合があります。眼圧検査で全員に取り外しを求める施設もあれば、ソフトレンズを装着したまま測定する施設もあります。眼鏡やレンズケース、必要に応じて予備のレンズを準備し、健診機関の案内に従いましょう。",
+      "sections": [
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-039",
+        "REF-051",
+        "REF-211",
+        "REF-226"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "取り外しが必要な場合があります。",
+          "kind": "bold"
+        },
+        {
+          "text": "健診機関の案内に従いましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q093",
+      "question": "MRI検査を受けるときに注意することはありますか？",
+      "answer": "MRI検査では強い磁場を使用します。体内の医療機器や金属、貼り薬、カイロ、金属を含む化粧品などについて、検査前に担当者へ伝えてください。取り外しや着替えが必要な場合があります。貼り薬の取り外しや再使用についても担当者の指示に従い、自己判断で治療を中断しないでください。一部の貼り薬は金属を含み、MRI検査中に熱傷を起こすおそれがあります。例えばニトロダームTTS25mgはMRI検査前に取り外す必要があります。検査前に薬の名前を伝え、取り外す時期と検査後の再開方法を確認しましょう。",
+      "sections": [
+        "CHECKUP-03-10"
+      ],
+      "reference_ids": [
+        "REF-051",
+        "REF-275",
+        "REF-276"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査前に担当者へ伝えてください。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q094",
+      "question": "バリウム検査の後は何に気をつければよいですか？",
+      "answer": "普段の便通が良い方も、指示された下剤を使用し、水分は健診施設の指示に従ってとりましょう。水分制限がある方は、バリウム検査を受けられない場合もあるため、予約時など検査前に主治医や健診施設に相談してください。排便状況も確認しましょう。指定された時間までにバリウム便が出ない場合は、検査を受けた医療機関に相談してください。排便困難が続く場合や、腹痛、お腹の張り、嘔吐などがある場合は、指定された時間まで待たず、すぐに医療機関を受診してください。",
+      "sections": [
+        "CHECKUP-03-11"
+      ],
+      "reference_ids": [
+        "REF-054",
+        "REF-055",
+        "REF-119",
+        "REF-217",
+        "REF-218",
+        "REF-220",
+        "REF-313"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q095",
+      "question": "バリウムを飲んだ後、便が出ないときはどうすればよいですか？",
+      "answer": "指定された時間までにバリウム便が出ない場合は、検査を受けた医療機関に相談してください。排便困難が続く場合や、腹痛、お腹の張り、嘔吐などがある場合は、指定された時間まで待たず、すぐに医療機関を受診してください。",
+      "sections": [
+        "CHECKUP-03-11"
+      ],
+      "reference_ids": [
+        "REF-054",
+        "REF-055",
+        "REF-119",
+        "REF-217",
+        "REF-218",
+        "REF-220"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": []
+    },
+    {
+      "id": "Q096",
+      "question": "検査のために中止した薬はいつから再開すればよいですか？",
+      "answer": "薬や検査によって異なります。再開時期を事前に確認し、自己判断で中止した分をまとめて使用しないでください。",
+      "sections": [
+        "CHECKUP-03-11"
+      ],
+      "reference_ids": [
+        "REF-040",
+        "REF-044",
+        "REF-315"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "中止した分をまとめて使用しないでください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q097",
+      "question": "胃内視鏡検査の後に車を運転してもよいですか？",
+      "answer": "鎮静薬を使用した場合は、検査が終わって目が覚めても薬の作用が残ることがあります。検査当日は自動車、バイク、自転車を運転しないでください。帰宅時の交通手段を事前に準備しておきましょう。",
+      "sections": [
+        "CHECKUP-03-11"
+      ],
+      "reference_ids": [
+        "REF-056"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査当日は自動車、バイク、自転車を運転しないでください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q098",
+      "question": "健康診断の結果はどこから見ればよいですか？",
+      "answer": "総合判定や医師のコメント、各検査値と判定、過去の結果、受診や再検査の時期を確認しましょう。判定記号の意味は健診機関の説明で確認し、受診が必要な場合は結果報告書を持参しましょう。",
+      "sections": [
+        "CHECKUP-04-01",
+        "CHECKUP-04-10",
+        "CHECKUP-01-07",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-011",
+        "REF-230",
+        "REF-257",
+        "REF-256",
+        "REF-323"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "受診や再検査の時期",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q099",
+      "question": "基準範囲とは何ですか？ 範囲から外れていたら病気ですか？",
+      "answer": "基準範囲は、一定の条件を満たす人の検査値の分布をもとに設定した範囲です。多くの血液検査では中央95％を用います。例えば、基準となる集団の検査値を低い順に並べたとき、両端の約2.5％ずつを除いた範囲です。この約5％は基準となる集団での割合であり、範囲外の方が病気である確率を示すものではありません。範囲外だから病気、範囲内だから健康とは限りません。",
+      "sections": [
+        "CHECKUP-04-02"
+      ],
+      "reference_ids": [
+        "REF-058",
+        "REF-059",
+        "REF-065",
+        "REF-131"
+      ],
+      "aliases": [
+        {
+          "id": "Q100",
+          "question": "基準範囲から少し外れているだけでも病気ですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "範囲外だから病気、範囲内だから健康とは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q102",
+      "question": "健診機関によって基準範囲が違うのはなぜですか？",
+      "answer": "施設ごとに測定方法や基準範囲の設定方法が異なる場合があります。日本臨床検査標準協議会（JCCLS）は、測定値の一致など一定の条件を満たす施設で利用できる共用基準範囲を示しています。すべての施設や検査項目で同じ範囲が使われているわけではありません。まずは結果報告書に記載された基準範囲を確認しましょう。",
+      "sections": [
+        "CHECKUP-04-02",
+        "CHECKUP-04-03"
+      ],
+      "reference_ids": [
+        "REF-058",
+        "REF-065",
+        "REF-131"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "共用基準範囲",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q103",
+      "question": "保健指導判定値とは何ですか？",
+      "answer": "健康管理や保健指導の必要性を検討する目安です。血圧や血糖、脂質などでは、病気の診断基準に達する前から将来の病気のリスクが高まる場合があります。そのため、保健指導判定値は、早い段階で健康状態を確認し、必要な健康管理を考えるための目安として設けられています。例えば空腹時血糖は100 mg/dL以上が保健指導判定値です。この値の設定時には、将来の糖尿病や心血管疾患の発症リスクに関する研究や国際的な基準が参考にされました。判定値に該当しても、糖尿病と診断されたわけではありません。例えばHbA1cでは5.6％以上です。ただし、この値だけで特定保健指導の対象になるとは限りません。基準範囲や診断基準とも異なります。以前に治療が必要ないと判断されても、それはその時点での評価です。翌年以降の指摘も、今回の結果に基づいて確認しましょう。",
+      "sections": [
+        "CHECKUP-04-03",
+        "CHECKUP-04-04"
+      ],
+      "reference_ids": [
+        "REF-060",
+        "REF-061",
+        "REF-062",
+        "REF-064",
+        "REF-011",
+        "REF-120"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "この値だけで特定保健指導の対象になるとは限りません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "早い段階で健康状態を確認し",
+          "kind": "green"
+        },
+        {
+          "text": "それはその時点での評価です。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q104",
+      "question": "受診勧奨判定値とは何ですか？",
+      "answer": "医療機関での評価や管理を検討する目安です。例えば特定健診ではLDL-C 140 mg/dL以上が該当します。判定値に該当しても、対応は一律ではありません。受診の時期や必要な対応は検査結果や体調などによって異なります。この値に達しなくても受診が必要な場合があります。",
+      "sections": [
+        "CHECKUP-04-03",
+        "CHECKUP-04-04"
+      ],
+      "reference_ids": [
+        "REF-023",
+        "REF-060",
+        "REF-061",
+        "REF-062",
+        "REF-064",
+        "REF-131"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "この値に達しなくても受診が必要な場合があります。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q105",
+      "question": "健診の判定値と診断基準・治療目標は同じですか？",
+      "answer": "目的が異なるため同じとは限りません。血圧や血糖、脂質などでは、病気の診断基準に達する前から将来の病気のリスクが高まる場合があります。そのため、保健指導判定値は、早い段階で健康状態を確認し、必要な健康管理を考えるための目安として設けられています。例えばHbA1c 5.8％はJCCLS共用基準範囲（4.9～6.0％）内ですが、特定健診の保健指導判定値（5.6％以上）に該当します。受診勧奨判定値と糖尿病型のHbA1cの基準はともに6.5％以上ですが、HbA1cだけで糖尿病の診断は確定できません。血糖値による確認が必要です。同じ日に血糖値とHbA1cがともに糖尿病型であれば、1回の検査で診断できる場合もあります。治療中は主治医と確認した目標を参考にしましょう。例えば高齢の糖尿病患者さんでは、使用する薬や低血糖の危険性、認知機能、日常生活の状況などを考慮して目標を設定し、重い低血糖を起こすおそれのある薬を使用する場合にはHbA1cの目標下限値も参考にします。数値を下げることだけが治療の目的ではありません。薬を自己判断で変更しないでください。",
+      "sections": [
+        "CHECKUP-04-03",
+        "CHECKUP-04-09",
+        "CHECKUP-05-05"
+      ],
+      "reference_ids": [
+        "REF-018",
+        "REF-061",
+        "REF-064",
+        "REF-066",
+        "REF-067",
+        "REF-068",
+        "REF-069",
+        "REF-059",
+        "REF-058",
+        "REF-011",
+        "REF-120",
+        "REF-135",
+        "REF-231",
+        "REF-131",
+        "REF-321"
+      ],
+      "aliases": [
+        {
+          "id": "Q117",
+          "question": "治療中でも健康診断の判定値を目標にするのですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "HbA1cだけで糖尿病の診断は確定できません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "早い段階で健康状態を確認し",
+          "kind": "green"
+        },
+        {
+          "text": "HbA1cの目標下限値も参考にします。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q106",
+      "question": "保健指導判定値に該当したら必ず特定保健指導を受けるのですか？",
+      "answer": "いいえ。保健指導判定値に該当しただけで、特定保健指導の対象になるとは限りません。腹囲やBMIの条件に加え、血圧・脂質・血糖のリスクを確認します。喫煙はこの3項目のうち1つ以上に該当するときだけ追加リスクとして数えます。年齢や服薬状況によっても支援区分や対象が異なります。対象外でも、必要な受診や健康管理を省略してよいという意味ではありません。例えばLDL-Cだけが高い場合は、その値だけで対象にはなりませんが、脂質異常についての相談や受診が必要なことがあります。高血圧・脂質異常症・糖尿病の治療薬を服用中の方は制度上の対象から除かれますが、医療機関での管理や連携による生活習慣支援は引き続き重要です。",
+      "sections": [
+        "CHECKUP-04-04",
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-060",
+        "REF-061",
+        "REF-081",
+        "REF-082",
+        "REF-203"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "対象になるとは限りません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "腹囲やBMI",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q107",
+      "question": "健康診断のA・B・C・D判定は全国共通ですか？",
+      "answer": "全国共通とは限りません。結果報告書に記載された判定の説明を確認しましょう。例えばB判定でも、軽度異常を示す施設と、1年後の経過観察を示す施設があります。",
+      "sections": [
+        "CHECKUP-04-05",
+        "CHECKUP-05-01"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-230",
+        "REF-256"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "全国共通とは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q108",
+      "question": "要経過観察とはどういう意味ですか？",
+      "answer": "今後の変化を確認する必要があるという意味です。放置してよいという意味ではありません。再検査の時期や方法を確認し、不明な場合は健診機関に問い合わせましょう。気になる症状がある場合は、次の健診まで待たずに医療機関に相談しましょう。",
+      "sections": [
+        "CHECKUP-04-05",
+        "CHECKUP-05-01"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-256",
+        "REF-230",
+        "REF-262"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "放置してよいという意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q109",
+      "question": "要再検査と要精密検査は何が違いますか？",
+      "answer": "健康診断では、再検査は状態を改めて確認するため、精密検査は異常の原因や病気の有無を詳しく調べるために行います。がん検診では、原則として精密検査が必要かどうかで判定します。検体の不備などで再検査を求められる場合もあるため、結果の意味や次に受ける検査が不明なときは検診機関に確認しましょう。がん検診で要経過観察と通知された場合も、どの検査の判定か、がんの疑いがあるのかを検診機関に確認しましょう。",
+      "sections": [
+        "CHECKUP-04-05",
+        "CHECKUP-05-02"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-003",
+        "REF-256",
+        "REF-262"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "原則として精密検査が必要かどうかで判定します。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q110",
+      "question": "要精密検査なら病気が確定したということですか？",
+      "answer": "いいえ。病気が確定したのではなく、詳しい検査が必要という判定です。がん検診で要精密検査となったら、症状がなくても精密検査を受けましょう。",
+      "sections": [
+        "CHECKUP-04-05",
+        "CHECKUP-05-02"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-003",
+        "REF-230"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "症状がなくても精密検査を受けましょう。",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q112",
+      "question": "昨年より数値が変化したのはなぜですか？",
+      "answer": "体の状態が変わっていなくても、検査値は変動することがあります。例えば、採血時刻や採血前の姿勢、運動などによる体の自然な変動や、検体の取り扱い、測定方法による違いがあります。病気や治療による変化も考えられます。数値の変化だけで原因を判断することはできません。前回と今回の検査条件や薬の変更なども伝えましょう。自然な変動の大きさは検査項目によって異なります。",
+      "sections": [
+        "CHECKUP-04-06",
+        "CHECKUP-04-07"
+      ],
+      "reference_ids": [
+        "REF-065",
+        "REF-103",
+        "REF-118",
+        "REF-322"
+      ],
+      "aliases": [
+        {
+          "id": "Q111",
+          "question": "食事や運動などで検査値が変わることはありますか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "体の状態が変わっていなくても",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q113",
+      "question": "基準範囲内でも年々数値が変化している場合は注意が必要ですか？",
+      "answer": "はい。基準範囲内でも、以前のご自身の結果と比較することは大切です。集団をもとに設定した基準範囲と、同じ人の検査値の変動は異なります。ただし、自然な変動や測定上の変動もあるため、数値の変化だけで病気とは判断できません。変化が続く場合や気になる場合は、過去の結果を持って相談しましょう。基準範囲内という理由だけで変化を見過ごさず、検査項目ごとの変動の特徴も踏まえて相談しましょう。",
+      "sections": [
+        "CHECKUP-04-07",
+        "CHECKUP-05-09"
+      ],
+      "reference_ids": [
+        "REF-058",
+        "REF-063",
+        "REF-103",
+        "REF-118",
+        "REF-131",
+        "REF-263",
+        "REF-322"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "以前のご自身の結果と比較すること",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q114",
+      "question": "違う健診機関で受けた結果を比較してもよいですか？",
+      "answer": "異なる施設の結果も参考になります。比較するときは、検査項目名、単位、基準範囲、測定方法、採血条件などを確認しましょう。測定方法が標準化されている項目もありますが、すべての検査値が同じ条件で測られているとは限りません。判定記号だけでなく、報告書全体を持って相談しましょう。",
+      "sections": [
+        "CHECKUP-04-07",
+        "CHECKUP-05-09"
+      ],
+      "reference_ids": [
+        "REF-058",
+        "REF-059",
+        "REF-065",
+        "REF-103",
+        "REF-118",
+        "REF-131",
+        "REF-322"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査項目名、単位、基準範囲、測定方法、採血条件",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q115",
+      "question": "一つの検査値だけで病気がわかりますか？",
+      "answer": "一つの値だけでは判断できない場合が多くあります。ほかの検査や症状、経過、治療内容も合わせて評価します。例えば血糖値とHbA1cは反映する期間が異なり、eGFRと尿蛋白は腎臓の異なる側面を確認する検査です。",
+      "sections": [
+        "CHECKUP-04-08"
+      ],
+      "reference_ids": [
+        "REF-063",
+        "REF-237",
+        "REF-239",
+        "REF-257"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "ほかの検査や症状、経過、治療内容",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q116",
+      "question": "薬を飲んでいて異常なしなら、薬をやめてもよいですか？",
+      "answer": "自己判断で中止しないでください。薬の効果で数値が改善している場合もあります。例えば高血圧では、血圧の経過などを見て医師が減量や中止を判断する場合があります。薬の変更や通院間隔については主治医に相談し、医師の指示で薬を中止した後も必要な経過観察を続けましょう。健診の結果が良好であることだけで、薬が不要になったとは判断できません。",
+      "sections": [
+        "CHECKUP-04-09",
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-067",
+        "REF-068",
+        "REF-201",
+        "REF-266"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "自己判断で中止しないでください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q118",
+      "question": "自覚症状がなくても再検査は必要ですか？",
+      "answer": "自覚症状がないことだけで、再検査や精密検査が不要とは判断できません。再検査や精密検査を勧められたら、症状がないことを理由に次の健診まで延期せず、指示された時期に受けましょう。受診時期や予約方法がわからない場合は、健診機関に確認しましょう。",
+      "sections": [
+        "CHECKUP-05-01",
+        "CHECKUP-05-02",
+        "CHECKUP-01-07",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-003",
+        "REF-122",
+        "REF-011",
+        "REF-265",
+        "REF-262"
+      ],
+      "aliases": [
+        {
+          "id": "Q119",
+          "question": "次の健康診断まで様子を見てもよいですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "症状がないことを理由に次の健診まで延期せず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q120",
+      "question": "生活習慣を見直してから再検査を受けてもよいですか？",
+      "answer": "生活習慣の見直しと、必要な検査を受けることは別のことです。がん検診で要精密検査となった場合は、生活習慣の改善を待って自己判断で検査を延期しないでください。健康診断の再検査の時期は、結果に応じて健診機関や医師に確認しましょう。",
+      "sections": [
+        "CHECKUP-05-02",
+        "CHECKUP-05-05"
+      ],
+      "reference_ids": [
+        "REF-122",
+        "REF-003",
+        "REF-265"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "生活習慣の見直しと、必要な検査を受けることは別のことです。",
+          "kind": "yellow"
+        },
+        {
+          "text": "自己判断で検査を延期しないでください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q121",
+      "question": "便潜血検査をもう一度受ければ精密検査の代わりになりますか？",
+      "answer": "便潜血検査が陽性だった後に、もう一度便潜血検査をして陰性でも、精密検査の代わりにはなりません。大腸がんは常に出血しているとは限らないためです。通常は全大腸内視鏡検査を行います。全大腸内視鏡検査が難しい場合や適さない場合は、S状結腸鏡と注腸X線検査の併用、または大腸CT検査が代替手段となることがあります。どの方法が適切かは医師に相談しましょう。最近の内視鏡検査で異常がなかった方も、今回の結果を前回の担当医に伝え、精密検査について相談しましょう。",
+      "sections": [
+        "CHECKUP-05-02",
+        "CHECKUP-02-14"
+      ],
+      "reference_ids": [
+        "REF-032",
+        "REF-037",
+        "REF-057"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "精密検査の代わりにはなりません。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q122",
+      "question": "再検査はどこの医療機関で受ければよいですか？",
+      "answer": "まず結果報告書に受診先や診療科の案内がないか確認しましょう。指定がなければ、かかりつけ医や検査項目に対応する医療機関に相談できます。健診結果報告書を持参し、紹介状や画像データが必要か確認しましょう。受診先がわからない場合は健診施設に問い合わせたり、厚生労働省の医療情報ネット（ナビイ）で医療機関を探したりしましょう。予約が必要か、指摘された項目の再検査に対応できるかも確認しましょう。",
+      "sections": [
+        "CHECKUP-05-03"
+      ],
+      "reference_ids": [
+        "REF-070",
+        "REF-230",
+        "REF-109"
+      ],
+      "aliases": [
+        {
+          "id": "Q123",
+          "question": "健康診断を受けた病院で再検査を受けなければいけませんか？"
+        },
+        {
+          "id": "Q124",
+          "question": "かかりつけ医に健診結果を見せてもよいですか？"
+        }
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "健診結果報告書を持参",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q125",
+      "question": "健康診断で異常を指摘されたら、すぐに受診する必要がありますか？",
+      "answer": "受診時期は検査結果や体調によって異なります。報告書の受診指示を確認し、時期が不明なら健診施設へ問い合わせましょう。急に頭が激しく痛む、胸や背中に強い痛みが突然出る、胸の圧迫痛が数分続く、急に息が苦しくなる、片方の手足に突然力が入らない、急にうまく話せない、呼びかけに反応しないなどの場合は、健診結果を待たずに119番に通報してください。救急車を呼ぶべきか迷ったときは、地域の救急相談窓口（実施地域では#7119など）に相談できます。ただし、上記のような緊急性の高い症状があるときは、相談を待たず119番に通報してください。",
+      "sections": [
+        "CHECKUP-05-03",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-071",
+        "REF-204",
+        "REF-205"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "報告書の受診指示",
+          "kind": "green"
+        },
+        {
+          "text": "健診結果を待たずに119番に通報してください。",
+          "kind": "warning"
+        },
+        {
+          "text": "相談を待たず119番に通報してください。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q126",
+      "question": "特定保健指導とは何ですか？",
+      "answer": "特定保健指導は、特定健診の結果から対象となった方に、医師、保健師、管理栄養士などが生活習慣病の予防に向けた取り組みを支援する制度です。本人の生活に合わせて行動計画を考え、その取り組みを振り返ります。動機付け支援と積極的支援があります。生活の中で無理なく取り組めることを、支援者と一緒に考える機会です。",
+      "sections": [
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-081",
+        "REF-082"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "取り組みを支援する制度",
+          "kind": "yellow"
+        },
+        {
+          "text": "動機付け支援と積極的支援",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q127",
+      "question": "特定保健指導の対象になったら病気ということですか？",
+      "answer": "病気と診断されたという意味ではありません。対象条件に基づいて選定されます。対象となった場合は、将来の病気の予防に向けて健康状態を振り返る機会として活用しましょう。",
+      "sections": [
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-081",
+        "REF-082"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "病気と診断されたという意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q128",
+      "question": "動機付け支援と積極的支援は何が違いますか？",
+      "answer": "どちらも医師、保健師または管理栄養士との面接を通じて、ご自身の生活に合った行動計画を考えます。動機付け支援では自主的な取り組みを支えます。積極的支援では原則として一定期間の継続支援と途中の評価も行います。いずれも行動計画を立ててから3か月以上経過した時点で実績を評価します。65～74歳の方は、積極的支援に相当するリスクがあっても動機付け支援となります。",
+      "sections": [
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-081",
+        "REF-082",
+        "REF-203"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "ご自身の生活に合った行動計画",
+          "kind": "green"
+        },
+        {
+          "text": "3か月以上経過した時点",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q129",
+      "question": "治療中でも特定保健指導を受けられますか？",
+      "answer": "高血圧症、脂質異常症、糖尿病の治療薬を服用している方は、制度上の特定保健指導の対象から除外されます。医療機関で継続的な健康管理を受けることが想定されているためです。医療機関と連携した保健指導を受けられる場合もあります。対象外でも相談する必要がないという意味ではありません。健診結果を主治医に伝えましょう。",
+      "sections": [
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-006",
+        "REF-081",
+        "REF-082",
+        "REF-203"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "制度上の特定保健指導の対象から除外",
+          "kind": "bold"
+        },
+        {
+          "text": "相談する必要がないという意味ではありません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q130",
+      "question": "再検査を受けるときは何を持っていけばよいですか？",
+      "answer": "マイナ保険証または資格確認書を準備しましょう。今回と過去の健診結果、お薬手帳、紹介状（ある場合）も持参すると相談に役立ちます。受診先から指定された持ち物も確認してください。「資格情報のお知らせ」は資格確認書とは異なります。マイナ保険証で資格確認ができない場合は、紙の資格情報のお知らせとマイナンバーカードをセットで提示できます。マイナンバーカードとマイナポータルの資格情報画面を提示する方法もあります。初めて受診する医療機関で、これらの書類や画面がない場合は、受付で被保険者資格申立書について相談しましょう。",
+      "sections": [
+        "CHECKUP-05-04",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-104",
+        "REF-258",
+        "REF-262"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "今回と過去の健診結果、お薬手帳",
+          "kind": "bold"
+        },
+        {
+          "text": "資格確認書とは異なり",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q131",
+      "question": "再検査の費用には健康保険が使えますか？",
+      "answer": "健康診断の結果、病気が疑われ、医師が診療上必要と判断した再検査や精密検査は、通常、健康保険を使って受けることができます。一方、ご自身の希望で追加する検査や、健康診断の一環として予定されていた検査などは、健康保険の対象とならない場合があります。受診時には健診結果と、マイナ保険証または資格確認書を持参しましょう。費用について気になる場合は、受診先に確認してください。健診と同じ日に同じ施設で診療を受ける場合などは、診察料の扱いが異なることがあります。",
+      "sections": [
+        "CHECKUP-05-04"
+      ],
+      "reference_ids": [
+        "REF-072",
+        "REF-258"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "医師が診療上必要と判断した",
+          "kind": "bold"
+        }
+      ]
+    },
+    {
+      "id": "Q132",
+      "question": "要治療と書かれていたら必ず薬を飲むのですか？",
+      "answer": "必ず薬を使用するとは限りません。病気の種類や程度、健康状態などに応じて治療方法を検討します。受診することと、薬を使うことは同じではありません。治療の選択肢について医師と相談しましょう。治療の効果や不利益、生活への影響など、気になることを伝えて一緒に考えましょう。",
+      "sections": [
+        "CHECKUP-05-05"
+      ],
+      "reference_ids": [
+        "REF-068",
+        "REF-328"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "必ず薬を使用するとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q133",
+      "question": "薬を使わずに生活習慣の見直しだけで治療できますか？",
+      "answer": "病気の種類や程度によって異なります。必要な治療を自己判断で延期せず医師と相談しましょう。受診や精密検査を勧められた場合は、生活習慣を改善してから受診しようと先延ばしにせず、指示された時期に受診しましょう。受診と生活習慣の見直しは並行して進めることができます。",
+      "sections": [
+        "CHECKUP-05-05"
+      ],
+      "reference_ids": [
+        "REF-068",
+        "REF-328",
+        "REF-263",
+        "REF-265"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "必要な治療を自己判断で延期せず",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q134",
+      "question": "健康診断で異常があったら好きな食べ物をやめなければいけませんか？",
+      "answer": "すべてを禁止する必要があるとは限りません。量や頻度などを考えましょう。病気に応じた食事制限の指示は優先してください。食事制限の指示がある場合でも、楽しみ方について医師や管理栄養士に相談できます。",
+      "sections": [
+        "CHECKUP-05-07"
+      ],
+      "reference_ids": [
+        "REF-074",
+        "REF-329"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "すべてを禁止する必要があるとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q135",
+      "question": "運動する時間を作れない場合はどうすればよいですか？",
+      "answer": "運動の時間を別に設けることだけが身体活動ではありません。通勤や買い物で歩くこと、家事なども身体活動です。座りっぱなしの時間を減らすなど、体調や運動制限を踏まえて、今の生活の中で無理なくできることから考えましょう。持病や合併症によって運動の注意点が異なるため、必要に応じて医師に相談しましょう。",
+      "sections": [
+        "CHECKUP-05-07"
+      ],
+      "reference_ids": [
+        "REF-076",
+        "REF-077"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "家事なども身体活動です。",
+          "kind": "yellow"
+        },
+        {
+          "text": "無理なくできること",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q136",
+      "question": "生活習慣を変えても検査値が改善しないことはありますか？",
+      "answer": "あります。生活習慣病には遺伝的な要因や社会環境なども関係します。例えば食事中のコレステロールがLDLコレステロールに与える影響には個人差があります。遺伝的な理由でLDLコレステロールが高くなる病気もあり、食事療法に加えて薬による治療が必要な場合もあります。検査値が改善しないことだけで、ご自身の取り組みが無意味だったとは判断できません。必要な治療や今後の健康管理について医師や薬剤師に相談しましょう。続けにくい取り組みがあれば、生活に合う方法を一緒に考えてもらいましょう。受診を勧められた場合は、生活習慣の改善を待たずに受診しましょう。",
+      "sections": [
+        "CHECKUP-05-07"
+      ],
+      "reference_ids": [
+        "REF-123",
+        "REF-284",
+        "REF-325",
+        "REF-329",
+        "REF-263"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "遺伝的な要因や社会環境",
+          "kind": "yellow"
+        },
+        {
+          "text": "ご自身の取り組みが無意味だったとは判断できません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q137",
+      "question": "健康診断の結果は薬剤師に相談してもよいですか？",
+      "answer": "はい。健診結果は、薬の効果や副作用の可能性、腎臓の働きに応じた薬の量や使用間隔などを確認する際に役立ちます。今回と過去の健診結果、お薬手帳、市販薬やサプリメントの情報も持参しましょう。薬剤師は必要に応じて処方医に情報を提供し、薬の使用方法について提案することがあります。",
+      "sections": [
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-079",
+        "REF-110"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "今回と過去の健診結果、お薬手帳",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q138",
+      "question": "健康診断で異常が見つかったのは薬の副作用でしょうか？",
+      "answer": "薬が影響している可能性はありますが、検査値だけで副作用とは判断できません。薬を使い始めた時期や量が変わった時期、過去の検査結果、体調の変化なども確認する必要があります。健診結果だけで自己判断で薬を中止せず、医師や薬剤師に相談しましょう。副作用が疑われる症状がある場合は、次の健診を待たずに相談し、薬ごとに受けている緊急時の指示に従ってください。",
+      "sections": [
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-079",
+        "REF-125",
+        "REF-207"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査値だけで副作用とは判断できません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q139",
+      "question": "健康診断だけで薬の副作用は確認できますか？",
+      "answer": "いいえ。健診だけではすべての副作用を確認できません。例えばリウマトレックス（メトトレキサート）は治療開始前と治療中4週間ごとの検査、メルカゾール（チアマゾール）は開始・再開後少なくとも2か月間は原則2週間に1回、その後も白血球の種類ごとの内訳を含む定期的な血液検査が必要です。薬によって検査の内容や時期は異なります。年に一度の健診で異常がなくても、医師から指示された定期検査の代わりにはなりません。体調に変化があれば次の検査を待たず相談しましょう。",
+      "sections": [
+        "CHECKUP-05-08"
+      ],
+      "reference_ids": [
+        "REF-125",
+        "REF-206",
+        "REF-207"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "定期検査の代わりにはなりません。",
+          "kind": "warning"
+        }
+      ]
+    },
+    {
+      "id": "Q140",
+      "question": "健康診断の結果は保管しておいた方がよいですか？",
+      "answer": "過去の結果と比較でき、医療機関や薬局で相談する際にも役立ちます。紙の報告書や電子ファイルは、個人情報が他人に見られないように保管しましょう。",
+      "sections": [
+        "CHECKUP-05-09",
+        "CHECKUP-01-07",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-079",
+        "REF-105",
+        "REF-011",
+        "REF-263"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "過去の結果と比較",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q141",
+      "question": "健康診断の結果はスマートフォンで確認できますか？",
+      "answer": "40歳未満の事業者健診、40歳以上75歳未満の特定健診、75歳以上の後期高齢者健診、学校職員健診などは、保険者や医療機関が登録した場合にマイナポータルで確認できます。登録まで時間がかかることがあり、すべての検査結果が表示されるとは限りません。結果報告書も保管しましょう。40歳未満の事業者健診を受けた方や、40歳以上で登録時期の目安を過ぎても表示されない方は、加入している医療保険の窓口に登録状況を確認できます。40歳以上の方は、保険者ごとの登録時期の目安を公式FAQから確認できます。表示を待つために、必要な受診を延期しないでください。健診結果が閲覧できるようになった際の通知は、電子カルテ情報共有サービスを導入済みの医療機関で受診した場合に限られます。",
+      "sections": [
+        "CHECKUP-05-09"
+      ],
+      "reference_ids": [
+        "REF-080"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "すべての検査結果が表示されるとは限りません。",
+          "kind": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "Q142",
+      "question": "健康診断の結果は数値だけ記録しておけばよいですか？",
+      "answer": "検査日、単位、採血条件、判定、医師のコメントも大切です。報告書全体を保管しましょう。",
+      "sections": [
+        "CHECKUP-05-09",
+        "CHECKUP-05-10"
+      ],
+      "reference_ids": [
+        "REF-103",
+        "REF-105",
+        "REF-263"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "報告書全体を保管",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q143",
+      "question": "毎年同じ項目で保健指導を勧められます。以前は問題なかったので、気にしなくてもよいですか？",
+      "answer": "以前に問題がなかったことだけを理由に、その後の指摘を無視することはおすすめできません。治療が必要な病気が見つからなかったとしても、それはその時点での評価であり、将来の病気のリスクがないことを保証するものではありません。毎年の結果や過去からの変化を確認し、必要に応じて保健指導や医療機関での相談を利用しましょう。ただし、毎年必ず精密検査が必要という意味ではありません。医師から経過観察の方針を示されている場合は、その方針に沿って対応してください。前回の検査結果や医師から受けた説明も、相談時に持参すると役立ちます。",
+      "sections": [
+        "CHECKUP-04-03",
+        "CHECKUP-04-07",
+        "CHECKUP-05-06"
+      ],
+      "reference_ids": [
+        "REF-011",
+        "REF-060",
+        "REF-230",
+        "REF-256"
+      ],
+      "aliases": [
+        "毎年同じ指摘",
+        "以前は問題なかった",
+        "保健指導を受けても異常なし"
+      ],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "その後の指摘を無視することはおすすめできません。",
+          "kind": "yellow"
+        },
+        {
+          "text": "毎年の結果や過去からの変化を確認",
+          "kind": "green"
+        }
+      ]
+    },
+    {
+      "id": "Q150",
+      "question": "通院中に血液検査を受けていますが、特定健診も必要ですか？",
+      "answer": "治療中でも特定健診の対象になる場合があります。診療時の検査結果が特定健診に必要な項目を満たす場合は、保険者への情報提供によって受診したものと扱える制度もあります。検査項目や手続きについて、主治医や加入している医療保険の窓口に確認しましょう。通院しているだけで健診を受けたことになるわけではありません。",
+      "sections": [
+        "CHECKUP-04-09"
+      ],
+      "reference_ids": [
+        "REF-228",
+        "REF-229",
+        "REF-323"
+      ],
+      "aliases": [],
+      "status": "review_required",
+      "publish": false,
+      "emphasis": [
+        {
+          "text": "検査項目や手続き",
+          "kind": "green"
+        }
+      ]
+    }
+  ],
+  "aliases": {
+    "Q100": "Q099",
+    "Q101": "Q006",
+    "Q111": "Q112",
+    "Q117": "Q105",
+    "Q119": "Q118",
+    "Q123": "Q122",
+    "Q124": "Q122"
+  }
+}
