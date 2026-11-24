@@ -203,3 +203,32 @@
 
 /* 年代・対象別の5入口とは独立した、医療の共通メニュー */
 .medical-section{padding-top:16px}.medical-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}.medical-card{display:flex;flex-direction:column;min-width:0;padding:30px;border:1px solid #d8cbb4;border-radius:22px;background:#f5efdf}.medical-card:nth-child(2){background:#e7efe5;border-color:#c4d4c2}.medical-label{font-size:.8rem;color:#635b46}.medical-card h3{font-size:1.4rem;margin:12px 0}.medical-card p{font-size:.95rem;margin:0 0 24px}.medical-action{display:flex;justify-content:space-between;gap:16px;margin-top:auto;padding-top:16px;border-top:1px solid #74664f35;font-weight:700;font-size:.95rem}.medical-card:hover{border-color:#80564d;box-shadow:0 5px 18px #493c3b0d}.local-care-section{padding-top:0}.local-care-banner{display:flex;align-items:center;gap:26px;background:#edf2ea;border:1px solid #b5c9bb;border-radius:22px;padding:26px 32px;color:#304e49}.local-care-art{width:135px;height:100px;flex-shrink:0}.local-care-copy{display:flex;flex-direction:column;gap:8px;min-width:0}.local-care-label{font-size:.8rem}.local-care-copy strong{font-size:1.45rem;line-height:1.6}.local-care-copy>span:last-child{font-size:.9rem}.local-care-link{margin-left:auto;white-space:nowrap;font-weight:700}.local-care-link small{display:block;font-size:.72rem;font-weight:400}.local-care-banner:hover{border-color:#42675a;background:#e4eddf}body.large .medical-label,body.large .medical-card p,body.large .medical-action,body.large .local-care-copy>span,body.large .local-care-link small{font-size:1.1rem}body.large .medical-card h3,body.large .local-care-copy strong{font-size:1.65rem}@media(max-width:760px){.medical-grid{grid-template-columns:minmax(0,1fr)}.local-care-banner{flex-wrap:wrap;gap:16px;padding:24px}.local-care-art{width:90px;height:76px}.local-care-copy{flex:1 1 220px}.local-care-link{white-space:normal;margin-left:0;width:100%;border-top:1px solid #b5c9bb;padding-top:14px}.medical-card{padding:24px}}@media print{.medical-section,.local-care-section{padding:15px 0}.medical-card,.local-care-banner{break-inside:avoid;background:white;color:black}.medical-grid{grid-template-columns:1fr 1fr}.local-care-art{width:75px;height:65px}}
+
+/* トップ：困りごとから選べる入口 */
+.concerns-section{padding-top:60px;padding-bottom:30px}
+.concern-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:start}
+.concern-card{min-width:0;border:1px solid #dfcec3;border-radius:22px;background:#f8e9e1;overflow:hidden}
+.concern-card:nth-child(2){background:#eef1e2;border-color:#d0d8be}
+.concern-card:nth-child(3){background:#e7eff1;border-color:#c8d9dc}
+.concern-card:nth-child(4){background:#efebf4;border-color:#d8cfe2}
+.concern-card summary{display:flex;align-items:center;gap:16px;min-height:160px;padding:25px 26px;cursor:pointer;list-style:none}
+.concern-card summary::-webkit-details-marker{display:none}
+.concern-card summary:focus-visible{outline:3px solid #a35d43;outline-offset:-6px;border-radius:22px}
+.concern-number{align-self:flex-start;margin-top:5px;font-size:.75rem;letter-spacing:.1em;color:#70584d}
+.concern-card summary>span:nth-child(2){min-width:0;flex:1}
+.concern-card strong{display:block;font-size:1.2rem;line-height:1.7}
+.concern-description{display:block;font-size:.9rem;line-height:1.8;margin-top:8px}
+.concern-toggle{display:grid;place-items:center;flex-shrink:0;width:34px;height:34px;border:1px solid #493c3b50;border-radius:50%;background:#fffbf480}
+.concern-toggle::before{content:'＋';font-size:1.2rem}
+.concern-card[open] .concern-toggle::before{content:'−'}
+.concern-card summary:hover{background:#ffffff35}
+.concern-links{margin:0 26px 24px;padding-top:14px;border-top:1px solid #493c3b25}
+.concern-links p{margin:0 0 12px;font-size:.85rem}
+.concern-links a{display:flex;justify-content:space-between;gap:12px;align-items:center;min-height:48px;padding:12px 14px;margin-top:8px;background:#fffbf4e6;border:1px solid #493c3b18;border-radius:12px;font-size:.9rem;line-height:1.7;overflow-wrap:anywhere}
+.concern-links a:hover{text-decoration:underline;text-underline-offset:4px;background:#fff}
+.concern-links a[target]{display:block}.concern-external{display:block;font-size:.75rem;margin-top:4px}
+.concern-search{font-size:.9rem;text-align:center;margin:24px 0 0}.concern-search a{text-decoration:underline;text-underline-offset:5px;display:inline-block;padding:8px 0}
+body.large .concern-description,body.large .concern-links a,body.large .concern-links p,body.large .concern-search{font-size:1.125rem}
+body.large .concern-card strong{font-size:1.35rem}body.large .concern-external{font-size:1rem}
+@media(max-width:760px){.concerns-section{padding-top:42px}.concern-grid{grid-template-columns:minmax(0,1fr);gap:14px}.concern-card summary{min-height:140px;padding:22px 20px;gap:12px}.concern-card strong{font-size:1.1rem}.concern-links{margin:0 20px 20px}.concern-search{text-align:left}}
+@media print{.concern-grid{grid-template-columns:1fr 1fr}.concern-card{break-inside:avoid}.concern-toggle{display:none}}

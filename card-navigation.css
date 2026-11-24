@@ -1,0 +1,16 @@
+.card-navigation-status {
+  display: block;
+  position: fixed;
+  z-index: 1000;
+  right: 1rem;
+  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+  pointer-events: none;
+  width: fit-content;
+  margin-block: .35em;
+  padding: .2em .65em;
+  border-radius: .7em;
+  background: #e5f0e9;
+  color: #294d40;
+  font-size: .85em;
+  font-weight: 700;
+}

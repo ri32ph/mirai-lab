@@ -1,0 +1,97 @@
+/* トップ専用。既存のイラストと各記事の表示を保つ。 */
+.home{--cream:#fffaf0;--ink:#453f39;--line:#d6cbbc;background:var(--cream)}
+.home .eyebrow{font-size:.875rem;letter-spacing:.12em;color:#59694e}
+.home .brand-sub{font-size:.875rem;letter-spacing:.2em}
+.home .primary{border:1.5px solid var(--ink);border-radius:40px;background:#fffdf8;color:var(--ink);font-size:1rem;padding:14px 25px;transition:background .2s}
+.home .primary:hover{background:#f3e5bd}
+.home .primary>span{display:none}
+.home .section{padding-top:80px;padding-bottom:80px}
+.home .section-heading{gap:28px}
+.home .section-heading>p{font-size:1rem;color:#615c53}
+.home h2{font-size:clamp(1.5rem,2.7vw,2rem)}
+.home .hero{isolation:isolate;grid-template-columns:1fr;gap:0;max-width:1180px;padding:48px 48px 52px;min-height:700px;text-align:center}
+.home .hero::before{content:'';position:absolute;inset:0;z-index:-1;background:#f8efd9;border-radius:47% 53% 44% 56% / 34% 42% 58% 66%;transform:none}
+.home .hero-copy{display:contents}
+.home .hero .eyebrow{order:0;margin:0 0 12px}
+.home .hero h1{order:1;font-size:clamp(1.7rem,3vw,2.6rem);line-height:1.65;margin:0 auto;letter-spacing:.08em}
+.home .hero-image{order:2;width:min(100%,680px);max-width:none;margin:0 auto;aspect-ratio:6/5}
+.home .hero .message{order:3;margin:0 0 12px;font-size:1.125rem}
+.home .hero .intro{order:4;font-size:1rem;margin:0 auto 24px;max-width:650px;line-height:2}
+.home .hero .primary{order:5;justify-self:center}
+.home .hero-note{order:6;grid-column:auto;margin:22px 0 0;font-size:.875rem}
+.home .concerns-section{margin-top:40px}
+.home .concerns-section .section-heading{display:block;text-align:center;margin-bottom:36px}
+.home .concern-card{border:1.5px solid #7e7566;border-radius:25px;background:#f7e6d9}
+.home .concern-card:nth-child(2){background:#eef0d9;border-color:#7e7566}
+.home .concern-card:nth-child(3){background:#e5eef0;border-color:#7e7566}
+.home .concern-card:nth-child(4){background:#eee8f0;border-color:#7e7566}
+.home .concern-number{display:none}
+.home .concern-description,.home .concern-links a,.home .concern-search{font-size:1rem}
+.home .concern-links a>span[aria-hidden]{display:none}
+.home #labs{border-top:1px solid var(--line)}
+.home .lab-grid{grid-template-columns:repeat(6,minmax(0,1fr));gap:22px}
+.home .lab-card{border:1.5px solid #8e8577;border-radius:45% 45% 22px 22px / 32px 32px 22px 22px;min-height:355px;padding-top:32px;box-shadow:none}
+.home .lab-card .audience{font-size:.875rem;background:#fffaf0c9}
+.home .lab-card .catch{font-size:1rem}
+.home .lab-card .audience-art{height:175px}
+.home .card-arrow{font-size:0;border-color:#8e8577}
+.home .card-arrow::after{content:'見る';font-size:.875rem}
+.home .medical-card,.home .local-care-banner{border:1.5px solid #8e8577;border-radius:25px}
+.home .medical-action b{display:none}
+.home .topics{background:#eef0e1;border-radius:60px 60px 0 0}
+.home .topics>p:not(.eyebrow),.home .experience p,.home .about p{font-size:1rem}
+.home .result{background:#fffdf7;border:1px solid #aaa38f;border-radius:18px;font-size:1rem}
+.home .result small,.home .about small,.home footer small,.home footer p{font-size:.875rem}
+.home .experience-card-copy{border:1.5px solid #8e8577;background:#f9ede1;border-radius:25px}
+.home footer{background:#eeefdf;padding:48px 30px}
+.home :target{scroll-margin-top:30px}
+@media screen and (min-width:1101px){
+ .home{padding-left:260px}
+ .home>header{position:fixed;inset:30px auto auto 28px;z-index:5;width:210px;max-height:calc(100vh - 60px);overflow-y:auto;margin:0;padding:27px 22px;display:flex;flex-direction:column;align-items:stretch;gap:25px;border:1.5px solid var(--ink);border-radius:22px;background:#fffefa}
+ .home>header .brand{font-size:1.55rem;letter-spacing:.05em;white-space:normal}
+ .home>header .sprout-mark{display:block;margin:0 0 14px;width:35px;height:40px}
+ .home>header nav{display:flex;flex-direction:column;align-items:stretch;gap:10px;margin:0;width:100%;font-size:.9rem}
+ .home>header nav a{padding:6px 0;border-bottom:1px solid #e4ddcf;line-height:1.8}
+ .home>header .font-button{margin:0;background:#f8f3e7;border-color:#b7ad9c;border-radius:25px;font-size:.875rem;padding:8px}
+ .home .hero{padding-top:48px}
+}
+@media screen and (max-width:1100px){
+ .home>header{padding:22px 28px;gap:18px;border-bottom:1px solid var(--line)}
+ .home>header nav{font-size:.875rem;gap:10px 22px;order:3;width:100%;margin:0}
+ .home>header .font-button{font-size:.875rem;margin-left:auto}
+}
+@media screen and (max-width:760px){
+ .home .hero{display:flex;flex-direction:column;align-items:stretch;padding:38px 24px 40px;min-height:0}
+ .home .hero h1{font-size:clamp(1.5rem,5.7vw,2rem);letter-spacing:.025em}
+ .home .hero-image{width:100%;max-width:520px;margin:10px auto 0}
+ .home .hero .intro br{display:none}
+ .home .hero .primary{align-self:center}
+ .home .hero::before{inset:15px 0;border-radius:48% 52% 32% 68% / 15% 22% 78% 85%;transform:none}
+ .home .section{padding:52px 24px}
+ .home .section-heading{display:block}
+ .home .concern-grid{grid-template-columns:1fr}
+ .home .lab-grid{grid-template-columns:1fr 1fr}
+ .home .lab-card,.home .lab-card:nth-child(4),.home .lab-card:last-child{grid-column:auto;padding:28px 22px 165px;min-height:355px}
+ .home .lab-card:last-child{grid-column:1 / -1}
+ .home .lab-card .audience-art,.home .lab-card:nth-child(4) .audience-art,.home .lab-card:last-child .audience-art{height:175px;width:65%}
+ .home .topics{border-radius:32px 32px 0 0}
+}
+@media screen and (max-width:480px){
+ .home>header{padding:18px 20px}
+ .home>header .brand{font-size:1.3rem}
+ .home>header .sprout-mark{width:26px;margin-right:5px}
+ .home>header .font-button{padding:6px 8px;font-size:.875rem}
+ .home .lab-grid{grid-template-columns:1fr}
+ .home .lab-card:last-child{grid-column:auto}
+ .home .hero .eyebrow{font-size:.875rem;letter-spacing:.04em}
+}
+@media print{.home{padding-left:0}.home .hero::before{display:none}.home .hero{min-height:0;display:block}.home .hero-image{max-width:350px}}
+
+.home .hero h1 br{display:block}
+
+/* 列数とカードの占有幅を同じ規則で指定し、旧スタイルとの競合を防ぐ。 */
+@media screen and (min-width:761px){
+ .home .lab-card{grid-column:span 2;padding:32px 24px 180px;min-height:390px}
+ .home .lab-card:nth-child(4),.home .lab-card:nth-child(5){grid-column:span 3;padding:32px 24px 180px;min-height:365px}
+ .home .lab-card .audience-art,.home .lab-card:nth-child(4) .audience-art,.home .lab-card:nth-child(5) .audience-art{width:65%;height:175px}
+}
