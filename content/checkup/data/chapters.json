@@ -628,7 +628,21 @@
             ]
           ]
         },
-        "reviewed": "2026-11-25"
+        "reviewed": "2026-11-25",
+        "related_guides": [
+          {
+            "title": "体重とは何を表す数字？",
+            "url": "../../indicators/article.html?id=IND-001"
+          },
+          {
+            "title": "BMIで分かること・分からないこと",
+            "url": "../../indicators/article.html?id=IND-002"
+          },
+          {
+            "title": "体脂肪率とは？",
+            "url": "../../indicators/article.html?id=IND-004"
+          }
+        ]
       },
       {
         "id": "CHECKUP-02-02",
@@ -3516,7 +3530,13 @@
             "alt": "基準範囲内で上下する例と、基準範囲内で一定方向に変化する例を比較した模式図。"
           }
         ],
-        "reviewed": "2026-11-25"
+        "reviewed": "2026-11-25",
+        "related_guides": [
+          {
+            "title": "体重の変化を割合で見る",
+            "url": "../../indicators/article.html?id=IND-003"
+          }
+        ]
       },
       {
         "id": "CHECKUP-04-08",

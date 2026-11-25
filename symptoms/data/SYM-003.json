@@ -91,6 +91,14 @@
     {
       "title": "健診結果の見方",
       "url": "../content/adults/checkup.html"
+    },
+    {
+      "title": "体重とは何を表す数字？",
+      "url": "../indicators/article.html?id=IND-001"
+    },
+    {
+      "title": "体重の変化を割合で見る",
+      "url": "../indicators/article.html?id=IND-003"
     }
   ]
 }

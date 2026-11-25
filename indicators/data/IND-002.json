@@ -1,0 +1,63 @@
+{
+  "id": "IND-002",
+  "title": "BMIで分かること・分からないこと",
+  "description": "身長と体重から求める体格の指標です。",
+  "sections": [
+    {
+      "title": "BMIとは？",
+      "text": "BMIは体重（kg）を身長（m）の2乗で割った値です。同じ60kgでも身長150cmなら26.7、170cmなら20.8となります。",
+      "tool": "bmi"
+    },
+    {
+      "title": "同じBMIでも体の中身は違います",
+      "text": "BMIは筋肉量や脂肪量を直接測るものではありません。筋肉が多い場合にも高くなり、普通体重でも筋肉量が少ない場合があります。",
+      "figure": "same"
+    },
+    {
+      "title": "分類と目標は異なります",
+      "text": "日本の成人の肥満度分類では18.5未満が低体重、18.5以上25未満が普通体重、25以上が肥満です。肥満と肥満症は異なります。食事摂取基準（2025年版）の目標BMIは、18～49歳18.5～24.9、50～64歳20.0～24.9、65歳以上21.5～24.9です。例えば70歳でBMI19は普通体重ですが、目標BMIの範囲より低くなります。これらは個人の治療目標ではありません。子どもや妊娠中の方には成人の分類をそのまま用いません。"
+    },
+    {
+      "title": "BMI22を目指す必要はありますか？",
+      "text": "BMI22に相当する体重を標準体重と呼ぶことがありますが、全員が目指す数字ではありません。年齢、病気、栄養状態なども考慮します。"
+    },
+    {
+      "title": "BMIが下がったら健康になった？",
+      "text": "普通体重に近づいたとしても、減量の成功とは限りません。意図しない体重減少が続く場合は医療機関に相談しましょう。BMIは人の価値や見た目を評価する数字ではありません。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "日本肥満学会：肥満と肥満症",
+      "url": "https://www.jasso.or.jp/contents/wod/index.html"
+    },
+    {
+      "title": "厚生労働省：日本人の食事摂取基準（2025年版）",
+      "url": "https://www.mhlw.go.jp/stf/newpage_44138.html"
+    },
+    {
+      "title": "体組成評価の総説（2021）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8399582/"
+    },
+    {
+      "title": "NHS：意図しない体重減少",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    },
+    {
+      "title": "厚生労働省：食事摂取基準2025 エネルギー（目標BMI）",
+      "url": "https://www.mhlw.go.jp/content/10904750/001316461.pdf#page=6"
+    }
+  ],
+  "links": [
+    {
+      "title": "体重・BMI・腹囲の健診結果を読む",
+      "url": "../content/adults/checkup-weight.html"
+    },
+    {
+      "title": "最近、服がゆるくなっていませんか？",
+      "url": "../symptoms/article.html?id=SYM-001"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}
