@@ -17,7 +17,7 @@ for(const [field,urls] of Object.entries(sources)){
   bytes+=Buffer.byteLength(html);articles++;
   context.sourceDocument=new DOMParser().parseFromString(html,'text/html');
   context.sourceUrl=url;context.sourceField=field;
-  if(field==='symptoms'){context.symptomArticle=JSON.parse(html);vm.runInContext('extractSymptom(symptomArticle)',context);}else vm.runInContext('extract(sourceDocument,sourceUrl,sourceField)',context);
+  if(field==='indicators'){context.indicatorArticle=JSON.parse(html);vm.runInContext('extractIndicator(indicatorArticle)',context);}else if(field==='symptoms'){context.symptomArticle=JSON.parse(html);vm.runInContext('extractSymptom(symptomArticle)',context);}else vm.runInContext('extract(sourceDocument,sourceUrl,sourceField)',context);
  }
 }
 const items=vm.runInContext(`items.sort((a,b)=>a.field.localeCompare(b.field)||a.url.localeCompare(b.url)||a.id.localeCompare(b.id));items`,context);

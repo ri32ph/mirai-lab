@@ -1,0 +1,68 @@
+{
+  "id": "IND-006",
+  "title": "体重と体の中身の変化",
+  "description": "複数の指標を組み合わせて考えましょう。",
+  "sections": [
+    {
+      "title": "事例1：同じ5kgの減少",
+      "text": "65kg（脂肪20kg・除脂肪45kg）から、Aさんは脂肪16kg・除脂肪44kgに、Bさんは脂肪19kg・除脂肪41kgに変化しました。どちらも60kgですが内訳は違います。",
+      "figure": "cases"
+    },
+    {
+      "title": "事例2：体重は同じでも",
+      "text": "体重60kgのまま、筋肉が減り脂肪が増えることもあります。歩行や階段が以前より大変になった場合は原因を確認しましょう。",
+      "figure": "same"
+    },
+    {
+      "title": "事例3：BMIが普通体重になった",
+      "text": "身長160cm、68kgから63kgへ変化した場合、BMIは26.6から24.6、減少率は約7.4％です。減らそうとしていないのに減った場合は成功と決めつけず医療機関に相談しましょう。"
+    },
+    {
+      "title": "事例4：急な体重増加",
+      "text": "数日で60kgから62kgに増え、靴がきつくなった場合、水分がたまっている可能性もあります。新たな息切れや急なむくみの悪化を伴う場合は当日中に受診し、強い息苦しさや胸痛などがあれば119番してください。"
+    },
+    {
+      "title": "事例5：年齢のせい？",
+      "text": "食事を残すことが増え、体重が減り、疲れやすくなった場合、加齢だけで説明できるとは限りません。原因の確認と必要な支援につなげましょう。"
+    },
+    {
+      "title": "事例6：予定より早く減った",
+      "text": "80kgから半年で77kgを目標にしていた方が2か月で74kgになった場合、予定より減り方が速くなっています。取り組みの変化や食欲・体調を確認し、理由が分からない減少が続く場合は相談しましょう。この数値は安全性の基準ではありません。"
+    },
+    {
+      "title": "数字は手がかりです",
+      "text": "体重、BMI、体脂肪率、筋肉量・筋力、生活での動き、食事や体調を合わせて見ましょう。すべて毎日測る必要はありません。事例は説明用の仮想例です。",
+      "tool": "quiz"
+    }
+  ],
+  "sources": [
+    {
+      "title": "体組成評価の総説（2021）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8399582/"
+    },
+    {
+      "title": "NHS：意図しない体重減少",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    },
+    {
+      "title": "MSDマニュアル：意図しない体重減少",
+      "url": "https://www.msdmanuals.com/professional/special-subjects/nonspecific-symptoms/involuntary-weight-loss"
+    }
+  ],
+  "links": [
+    {
+      "title": "最近、服がゆるくなっていませんか？",
+      "url": "../symptoms/article.html?id=SYM-001"
+    },
+    {
+      "title": "数日間で急に体重が増えた",
+      "url": "../symptoms/article.html?id=SYM-003"
+    },
+    {
+      "title": "体重・BMI・腹囲の健診結果を読む",
+      "url": "../content/adults/checkup-weight.html"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

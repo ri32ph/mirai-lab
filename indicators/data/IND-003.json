@@ -1,0 +1,55 @@
+{
+  "id": "IND-003",
+  "title": "体重の変化を割合で見る",
+  "description": "変化の大きさ、期間、理由を整理しましょう。",
+  "sections": [
+    {
+      "title": "同じ2kgでも意味は異なります",
+      "text": "40kgから38kgへの減少は5％、80kgから78kgへの減少は2.5％です。",
+      "figure": "percent"
+    },
+    {
+      "title": "変化率を計算する",
+      "text": "体重変化率（％）＝（現在の体重－以前の体重）÷以前の体重×100。減少はマイナスで表示します。",
+      "tool": "weight"
+    },
+    {
+      "title": "変化した期間にも注目",
+      "text": "数日間で減った場合と半年かけて減った場合では背景が異なります。短期間の変化には水分量も関係します。"
+    },
+    {
+      "title": "5％は受診の境界線ではありません",
+      "text": "6か月間で意図せず体重が5％を超えて減ることなどが医学的に注意する目安です。60kgの5％は3kgです。減少が続くなら5％や6か月を待たず相談しましょう。"
+    },
+    {
+      "title": "ダイエット中でも減り方に注意",
+      "text": "予定より大幅に早く目標に達した、取り組みを変えていないのに途中から減り方が速くなった、減量をやめても減り続ける、予定した量も食べられない、疲れやすさや強いのどの渇きがあるなどの変化に注意しましょう。一律の減りすぎの数値は設定しません。理由が分からない減少が続く場合は医療機関に相談しましょう。"
+    },
+    {
+      "title": "記録しておきたいこと",
+      "text": "測定日、食事量、食欲、活動量、体調、薬の変更を記録すると役立ちます。記録がなくても相談できます。"
+    }
+  ],
+  "sources": [
+    {
+      "title": "MSDマニュアル：意図しない体重減少",
+      "url": "https://www.msdmanuals.com/professional/special-subjects/nonspecific-symptoms/involuntary-weight-loss"
+    },
+    {
+      "title": "NHS：意図しない体重減少",
+      "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    }
+  ],
+  "links": [
+    {
+      "title": "最近、服がゆるくなっていませんか？",
+      "url": "../symptoms/article.html?id=SYM-001"
+    },
+    {
+      "title": "数日間で急に体重が増えた",
+      "url": "../symptoms/article.html?id=SYM-003"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

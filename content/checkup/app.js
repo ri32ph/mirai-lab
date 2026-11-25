@@ -248,6 +248,7 @@ function nextReadingBlock(parent,s){
  for(const id of nextReading[short]||[]){const target=sectionMap.get('CHECKUP-'+id);if(!target||!viewable(target))continue;const li=h('li');const link=a(target.title,url('chapter.html',{chapter:target.chapter.id},target.id));li.append(link);list.append(li)}
  const group=short.match(/^02-0[1-9]$/)?short.slice(3):null;
  if(viewable(values)&&(group||short==='04-04')){const li=h('li');const link=a(group?'この検査項目の判定値・基準範囲を見る':'検査値・判定値の一覧を見る',url('values.html',group?{item:group}:{}));li.append(link);list.append(li)}
+ for(const item of s.related_guides||[]){const li=h('li');li.append(a(item.title,item.url));list.append(li);}
  if(list.childElementCount){nav.append(h('h3','あわせて読みたい'),list);parent.append(nav)}
 }
 if(page==='home'){
