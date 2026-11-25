@@ -396,3 +396,8 @@ body[data-page=chapter] .chapter-panels>.editorial-section{padding:clamp(20px,3v
 @media(max-width:900px){.chapter-reader{display:block}.chapter-panels{max-height:none;overflow:visible;scrollbar-gutter:auto;overscroll-behavior:auto}body[data-page=chapter] .chapter-reader .chapter-toc{position:static;max-height:250px;margin:0 0 18px}.people-groups{gap:10px}.people-group{padding:12px}}
 @media(max-width:520px){.people-groups{grid-template-columns:1fr}.people-icons{max-width:260px}.chapter-reader{margin:16px 0}.chapter-toc [role=tab]{min-height:44px}.term-toggle{padding-block:3px}}
 @media print{.chapter-reader{display:block}.chapter-reader .chapter-toc{display:none!important}.chapter-panels{overflow:visible;max-height:none}.chapter-panels>[role=tabpanel][hidden]{display:block!important}.chapter-panels>.editorial-section{break-before:page}.term-definition[hidden]{display:block!important}.term-toggle{border:0;color:inherit}.people-group{break-inside:avoid}.person-icon{print-color-adjust:exact;-webkit-print-color-adjust:exact}}
+
+/* Publication copy and complete answers in printed search results. */
+.public-information{font-size:.9rem;color:var(--muted);line-height:1.8;margin:16px 0 24px}
+.faq-print-item{display:none}
+@media print{.faq-controls,.value-controls{display:none!important}.faq-results>.faq-item{display:none!important}.faq-results>.faq-print-item{display:block;break-inside:avoid;padding:16px 0;border-bottom:1px solid #aaa}.faq-print-item h2{font-size:1.1em;break-after:avoid}.faq-print-item p{margin:10px 0}}

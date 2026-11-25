@@ -4,630 +4,700 @@
     "title": "特定健診・特定保健指導",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000161103.html",
     "related_raw": "Q001・Q007・Q010",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-002",
     "title": "健診と検診",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-04-006.html",
     "related_raw": "Q002",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-003",
     "title": "がん検診について",
     "url": "https://ganjoho.jp/public/pre_scr/screening/about_scr01.html",
     "related_raw": "Q002・Q003・Q004・Q006・Q009・Q011・Q012・Q118",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 原典本文直接照合（v62対象記述のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-004",
     "title": "人間ドック検査項目",
     "url": "https://www.ningen-dock.jp/public_inspection/",
     "related_raw": "Q003・Q006・Q043・Q044・Q045・Q046・Q047・Q048・Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-005",
     "title": "労働安全衛生規則",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=74003000&dataType=0",
     "related_raw": "Q004・Q009",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-006",
     "title": "特定健診・保健指導実施基準",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82aa9603&dataType=0",
     "related_raw": "Q004・Q005・Q007・Q010・Q106・Q126・Q127・Q128・Q129",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-007",
     "title": "奈良市特定健診Q&A",
     "url": "https://www.city.nara.lg.jp/site/kokuminkenkouhoken/223404.html",
     "related_raw": "Q005",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-008",
     "title": "後期高齢者医療制度事業",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00td0023&dataType=1&pageNo=1",
     "related_raw": "Q007",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-009",
     "title": "働くときの基礎知識",
     "url": "https://www.startup-roudou.mhlw.go.jp/study/jigyonushi_kajuroudou.html",
     "related_raw": "Q008",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-010",
     "title": "協会けんぽ健診",
     "url": "https://www.kyoukaikenpo.or.jp/health_promotion/health_checkups/insured/001/",
     "related_raw": "Q008",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-011",
     "title": "健診の基礎知識",
     "url": "https://kennet.mhlw.go.jp/slp/about/3action/public/examination",
     "related_raw": "Q001・Q143",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-012",
     "title": "Cochrane一般健診レビュー",
     "url": "https://www.cochrane.org/evidence/CD009009_general-health-checks-reducing-illness-and-mortality",
     "related_raw": "Q011",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-013",
     "title": "高齢者の医療の確保に関する法律",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82115000&dataType=0",
     "related_raw": "Q005・Q010",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-014",
     "title": "肥満と肥満症",
     "url": "https://www.jasso.or.jp/contents/wod/index.html",
     "related_raw": "Q013・Q014・Q015",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-015",
     "title": "特定健診検査項目",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-04-005",
     "related_raw": "Q013・Q014・Q016・Q025",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-016",
     "title": "家庭血圧",
     "url": "https://www.jpnsh.jp/pub_katei.html",
     "related_raw": "Q018・Q019",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-017",
     "title": "高血圧",
     "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/hypertension-2",
     "related_raw": "Q017・Q018・Q019",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-018",
     "title": "糖尿病診療GL2024第1章",
     "url": "https://www.jds.or.jp/uploads/files/publications/gl2024/01.pdf",
     "related_raw": "Q020・Q021・Q022・Q040・Q060・Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 PDF原典画像・該当箇所確認（他の関連記述は未照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-019",
     "title": "糖尿病の検査",
     "url": "https://jaclap.org/guests/guests-3094/",
     "related_raw": "Q020・Q021・Q022",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-020",
     "title": "脂質異常症Q&A",
     "url": "https://www.j-athero.org/jp/publications/si_qanda/",
     "related_raw": "Q023・Q024・Q025・Q026・Q060",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-021",
     "title": "脂質異常症",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-05-004.html",
     "related_raw": "Q023・Q026",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-022",
     "title": "人間ドック血液検査",
     "url": "https://www.ningen-dock.jp/inspection_blood/",
     "related_raw": "Q027・Q028・Q029・Q038",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-023",
     "title": "奈良宣言",
     "url": "https://www.jsh.or.jp/medical/nara_sengen/ippan.html",
     "related_raw": "Q027・Q028・Q104",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-024",
     "title": "CKD診療GL2023",
     "url": "https://cdn.jsn.or.jp/medic/guideline/pdf/guide/001-294.pdf",
     "related_raw": "Q030・Q031・Q032・Q033・Q039・Q059",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v80 PDF本文・ページ画像確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-025",
     "title": "高尿酸血症",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-05-007.html",
     "related_raw": "Q034・Q035",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-026",
     "title": "尿酸とは",
     "url": "https://www.tufu.or.jp/gout/gout2/59",
     "related_raw": "Q034・Q035",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-027",
     "title": "貧血の検査",
     "url": "https://jaclap.org/guests/guests-3038/",
     "related_raw": "Q036・Q037",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-028",
     "title": "検査項目の詳細",
     "url": "https://www.jrcla.or.jp/clinical/clinical-relationship/clinical-detail/",
     "related_raw": "Q029・Q038・Q039・Q040・Q041",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-029",
     "title": "尿潜血",
     "url": "https://www.kchnet.or.jp/for_medicalstaff/LI/item/LI_DETAIL_311600.html",
     "related_raw": "Q041",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-030",
     "title": "フォシーガ医薬品情報",
     "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3969019F1027_2",
     "related_raw": "Q040・Q042",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-031",
     "title": "緑内障",
     "url": "https://www.nichigan.or.jp/public/disease/name.html?pdid=35",
     "related_raw": "Q046・Q047",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-032",
     "title": "大腸がん検診",
     "url": "https://ganjoho.jp/public/pre_scr/screening/colon.html",
     "related_raw": "Q050・Q121",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 原典本文直接照合（v62対象記述のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-033",
     "title": "腫瘍マーカー",
     "url": "https://ganjoho.jp/public/dia_tre/inspection/marker.html",
     "related_raw": "Q051",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-034",
     "title": "厚労省がん検診",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000059490.html",
     "related_raw": "Q051・Q052",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認（部分照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-035",
     "title": "各種がん検診",
     "url": "https://ganjoho.jp/public/pre_scr/screening/index.html",
     "related_raw": "Q045・Q052",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-036",
     "title": "人間ドック検査表の見方候補",
     "url": "https://www.ningen-dock.jp/public_method/",
     "related_raw": "Q043・Q044・Q045・Q046・Q047・Q048・Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-037",
     "title": "がん検診指針新旧対照表",
     "url": "https://www.mhlw.go.jp/content/10900000/001757421.pdf",
     "related_raw": "Q079・Q080・Q081・Q121",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v131 2026-11-24 原典PDF本文・画像確認（通知適用日、新旧対照表2–3頁の採便回数・回収条件）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-038",
     "title": "日本予防医学協会受診案内",
     "url": "https://www.jpm1960.org/jushinsya/annai.html",
     "related_raw": "Q053・Q054・Q055・Q056・Q057・Q058・Q062・Q063・Q064・Q067・Q068・Q083",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-039",
     "title": "神奈川県予防医学協会注意事項",
     "url": "https://www.yobouigaku-kanagawa.or.jp/jushin/flow/inspection-notes/",
     "related_raw": "Q053・Q054・Q055・Q058・Q062・Q063・Q064・Q077・Q082・Q083・Q084・Q092",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-040",
     "title": "抗血栓薬と内視鏡",
     "url": "https://www.jges.net/citizen/faq/general_09",
     "related_raw": "Q065・Q096",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-042",
     "title": "抗血栓薬休薬ガイドラインの現状と将来",
     "url": "https://www.jstage.jst.go.jp/article/gee/66/3/66_229/_html/-char/ja",
     "related_raw": "Q065",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 掲載先確認・本文詳細照合待ち",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-043",
     "title": "1型糖尿病治療",
     "url": "https://dmic.jihs.go.jp/general/about-dm/050/020/02.html",
     "related_raw": "Q069・Q070・Q071・Q090",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-044",
     "title": "SGLT2阻害薬会告",
     "url": "https://www.ningen-dock.jp/sglt2/",
     "related_raw": "Q069・Q072・Q096",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v67 2025年5月会告HTML本文直接再照合。非糖尿病のCKD・心不全、当日休薬・食事後服用。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-045",
     "title": "セマグルチド電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/620023_2499418G4027_1_07",
     "related_raw": "Q071",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-046",
     "title": "低血糖",
     "url": "https://dmic.jihs.go.jp/general/about-dm/040/050/05.html",
     "related_raw": "Q069・Q073",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-047",
     "title": "ビオチン注意喚起",
     "url": "https://www.pmda.go.jp/files/000236680.pdf",
     "related_raw": "Q075・Q076",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 PDF本文・ページ画像確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-048",
     "title": "ビオチン臨床検査薬協会",
     "url": "https://www.pmda.go.jp/files/000236194.pdf",
     "related_raw": "Q074・Q075・Q076",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-049",
     "title": "東京蒲田医療センター健診Q&A",
     "url": "https://kamata.jcho.go.jp/kenkan/news-topix/よくあるご質問/",
     "related_raw": "Q057・Q079・Q080・Q081",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-051",
     "title": "MRI検査",
     "url": "https://www.h.ims.u-tokyo.ac.jp/gairai/kensa/kensa_detail/kensa-mri",
     "related_raw": "Q066・Q088・Q090・Q091・Q092・Q093",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認（全関連記述の照合は未完了）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-052",
     "title": "リブレ2通知",
     "url": "https://www.jart.jp/news/info/20260807",
     "related_raw": "Q089",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 HTML本文確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-053",
     "title": "リブレ2表示材料改訂",
     "url": "https://d222mehzxmz2vh.cloudfront.net/hcp/news/pdf/pdf-260731-01.pdf",
     "related_raw": "Q089",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 PDF本文・ページ画像確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-054",
     "title": "硫酸バリウム安全性情報",
     "url": "https://www.pmda.go.jp/safety/info-services/drugs/calling-attention/safety-info/0052.html",
     "related_raw": "Q094・Q095",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-055",
     "title": "胃部X線検査",
     "url": "https://www.osaka-ganjun.jp/medical/examination/gastric/x-ray.html",
     "related_raw": "Q094・Q095",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-056",
     "title": "内視鏡鎮静薬",
     "url": "https://www.jges.net/citizen/faq/general_06",
     "related_raw": "Q097",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-057",
     "title": "大腸がん精密検査学会見解",
     "url": "https://jsgcs.or.jp/importants/archives/51",
     "related_raw": "Q121",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認（部分照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-058",
     "title": "JCCLS共用基準範囲手引",
     "url": "https://www.jccls.org/news/kijyunhani/",
     "related_raw": "Q099・Q102・Q113・Q114",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 再確認：JCCLS掲載ページ確認。数値は今回未再照合。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-059",
     "title": "JCCLS共用基準範囲PDF",
     "url": "https://www.jccls.org/wp-content/uploads/2020/02/2020013103.pdf",
     "related_raw": "Q099・Q114",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 PDF原典画像・該当箇所確認（他の関連記述は未照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-060",
     "title": "標準的健診・保健指導プログラム",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html",
     "related_raw": "Q103・Q104・Q106・Q143",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "掲載ページ確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-061",
     "title": "別紙5判定値",
     "url": "https://www.mhlw.go.jp/content/10900000/001081583.pdf",
     "related_raw": "Q103・Q104・Q105・Q106",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v139 令和6年度版別紙5（p.125）原典画像、血糖フィードバック本文確認。LDL-C、空腹時血糖、HbA1c、ALTの判定値を照合。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-062",
     "title": "特定健診採血条件",
     "url": "https://www.mhlw.go.jp/content/10900000/001081569.pdf",
     "related_raw": "Q025・Q103・Q104",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当本文確認（全関連記述の照合は未完了）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-063",
     "title": "人間ドック判定区分表",
     "url": "https://www.ningen-dock.jp/ningendock/wp-content/uploads/2025/12/51d4b2ca7691e89fba8342860c6a5c67-3.pdf",
     "related_raw": "Q098・Q107・Q108・Q109・Q110・Q113・Q115",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 PDF原典画像・該当箇所確認（他の関連記述は未照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-064",
     "title": "血糖判定区分改定",
     "url": "https://www.ningen-dock.jp/10606/",
     "related_raw": "Q103・Q104・Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 再確認：会告掲載ページ確認。判定表の数値は今回未再照合。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-065",
     "title": "医学検査 基準値",
     "url": "https://www.jstage.jst.go.jp/article/jamt/74/J-STAGE-1/74_24J1-4/_html/-char/ja",
     "related_raw": "Q099・Q102・Q112・Q114",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v142 対象記述の原典直接照合（REF-103は論文p.143画像、その他はHTML本文）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-066",
     "title": "高血圧GL2025発刊",
     "url": "https://www.jpnsh.jp/topics/827.html",
     "related_raw": "Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-067",
     "title": "高血圧10のファクト",
     "url": "https://www.jpnsh.jp/10_facts.html",
     "related_raw": "Q105・Q116",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-068",
     "title": "糖尿病の治療",
     "url": "https://dmic.jihs.go.jp/general/about-dm/040/010/01.html",
     "related_raw": "Q105・Q116",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML再取得、糖尿病治療の方法・目標",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-069",
     "title": "高齢者糖尿病目標",
     "url": "https://www.jds.or.jp/modules/important/index.php?content_id=66",
     "related_raw": "Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-070",
     "title": "医療情報ネットの使い方",
     "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/nabii.html",
     "related_raw": "Q122",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-071",
     "title": "迷わず119へ",
     "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/urgency.html",
     "related_raw": "Q125",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-072",
-    "title": "令和8年度診療報酬改定資料",
-    "url": "https://www.mhlw.go.jp/content/12400000/001666312.pdf#page=25",
+    "title": "厚生労働省｜令和8年度診療報酬改定の概要：外来医療の機能分化・強化等（p.25）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001681336.pdf#page=25",
     "related_raw": "Q131",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-073",
@@ -643,9 +713,10 @@
     "title": "食事バランスガイド",
     "url": "https://www.maff.go.jp/j/balance_guide/",
     "related_raw": "Q134",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v150 公式ページ確認（一般的食事バランスの資料。疾患別食事療法の根拠とは区別）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-075",
@@ -661,403 +732,448 @@
     "title": "身体活動ガイド成人",
     "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-002",
     "related_raw": "Q135",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML本文：生活活動、個人差、座位時間",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-077",
     "title": "慢性疾患と身体活動",
     "url": "https://kennet.mhlw.go.jp/information/information/exercise/s-00-007",
     "related_raw": "Q135",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML本文：慢性疾患の状態と合併症、事前相談",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-078",
     "title": "睡眠対策",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html",
     "related_raw": "Q061",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-079",
     "title": "薬局業務資料",
     "url": "https://www.mhlw.go.jp/content/12404000/001165881.pdf#page=6",
     "related_raw": "Q137・Q138・Q139・Q140",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 p.6画像確認：臨床検査値、体調、併用薬、腎機能を踏まえた薬学的分析・医療機関への問合せ",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-080",
     "title": "マイナポータル健診FAQ",
     "url": "https://faq.myna.go.jp/faq/show/9137?site_domain=default",
     "related_raw": "Q141",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v152 公式FAQ本文（2026-03-26更新）再確認：登録対象、照会条件、通知対象の制限",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-081",
     "title": "厚労省告示第7号（脂質）",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82aa9622&dataType=0&pageNo=1",
     "related_raw": "Q106・Q126・Q127・Q128・Q129",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 掲載先確認・本文詳細照合待ち",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-082",
     "title": "厚労省告示第8号（血糖）",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=82aa9623&dataType=0&pageNo=1",
     "related_raw": "Q106・Q126・Q127・Q128・Q129",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 掲載先確認・本文詳細照合待ち",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-083",
     "title": "CKD診療ガイド2024",
     "url": "https://cdn.jsn.or.jp/medic/guideline/pdf/guide/1-178_v3.pdf",
     "related_raw": "Q033",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-084",
     "title": "CKD診療GL2023第11章",
     "url": "https://jsn.or.jp/data/gl2023_ckd_ch11.pdf",
     "related_raw": "Q033",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-085",
     "title": "腎機能低下時薬剤投与量",
     "url": "https://jsnp.org/dosage_recommendations/",
     "related_raw": "Q033",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-086",
     "title": "みなと赤十字病院健診FAQ",
     "url": "https://www.yokohama.jrc.or.jp/dock/faq/index.html",
     "related_raw": "Q064",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-087",
     "title": "アウィクリ適正使用資料",
     "url": "https://www.pmda.go.jp/RMP/www/620023/95247c4f-db79-4e53-b457-157a56dffe2e/620023_24924A7G1022_01_003RMPm.pdf",
     "related_raw": "Q071",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-088",
     "title": "マンジャロ電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/530471_2499422G1024_1_11",
     "related_raw": "Q071",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-089",
     "title": "妊娠・授乳と画像検査",
     "url": "https://jrs-gl.radiology.jp/articles/2982/",
     "related_raw": "Q084・Q085",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認（全関連記述の照合は未完了）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-090",
     "title": "造影剤使用後の授乳",
     "url": "https://www.radiology.jp/member_info/news_member/20190627_01.html",
     "related_raw": "Q085",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認（全関連記述の照合は未完了）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-091",
     "title": "糖尿病医療機器適正化",
     "url": "https://www.nittokyo.or.jp/modules/doctor/index.php?content_id=38",
     "related_raw": "Q090",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-092",
     "title": "MRI対応心臓植込み機器指針",
     "url": "https://www.radiology.jp/guideline/20240112_01.html",
     "related_raw": "Q091",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 HTML本文確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-093",
     "title": "EPOCH-JAPAN HDL研究",
     "url": "https://pubmed.ncbi.nlm.nih.gov/29506864/",
     "related_raw": "Q024",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-094",
     "title": "運動と検査値 Pettersson",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2291230/",
     "related_raw": "Q029・Q059",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-095",
     "title": "偽アルドステロン症",
     "url": "https://www.j-endo.jp/modules/patient/index.php?content_id=36",
     "related_raw": "Q074・Q075",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v134 日本内分泌学会本文（2026-09-08更新）確認：高血圧・低K血症",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-096",
     "title": "クレアチンと腎機能レビュー",
     "url": "https://doi.org/10.1186/s12882-025-04558-6",
     "related_raw": "Q075",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v137 出版社HTML全文の結果・考察・限界を直接照合。数値単位の転記は行わない。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-097",
     "title": "ビタミンCと尿試験紙",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6816989/",
     "related_raw": "Q074・Q075",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v134 PMC公開原著本文 Methods・Discussion確認：尿糖・ヘモグロビンの偽陰性",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-098",
     "title": "白血球数",
     "url": "https://www.ncgg.go.jp/hospital/navi/70.html",
     "related_raw": "Q038",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-099",
     "title": "不整脈",
     "url": "https://www.ncvc.go.jp/hospital/section/cvm/arrhythmia/treatment-20/",
     "related_raw": "Q043・Q044",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-100",
     "title": "骨粗鬆症",
     "url": "https://www.ncgg.go.jp/hospital/iryokankei/letter/125.html",
     "related_raw": "Q048",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-101",
     "title": "腹部超音波検診マニュアル",
     "url": "https://www.jstage.jst.go.jp/article/jsgcs/60/1/60_60.123/_article/-char/ja",
     "related_raw": "Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-102",
     "title": "尿検査Q&A",
     "url": "https://www.jpm1960.org/jushinsya/qanda/urinalysis.html",
     "related_raw": "Q078",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v136 本文直接照合：採尿困難、中間尿、月経時の尿検査",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-103",
     "title": "臨床検査項目の生理的変動",
     "url": "https://www.jstage.jst.go.jp/article/jamt/64/2/64_14-89/_article/-char/ja/",
     "related_raw": "Q112・Q113・Q114・Q142",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v142 対象記述の原典直接照合（REF-103は論文p.143画像、その他はHTML本文）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-104",
     "title": "厚生労働省｜資格確認方法について",
     "url": "https://www.mhlw.go.jp/stf/newpage_50657.html",
     "related_raw": "Q130",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 掲載内容を部分確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-105",
     "title": "厚生労働省｜特定健康診査及び特定保健指導の基本的な指針",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00005780",
     "related_raw": "Q140・Q142",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 掲載内容を部分確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-106",
     "title": "テルモ：メディセーフウィズスマート 製品FAQ",
     "url": "https://mds.terumo.co.jp/user/medisafewith.html",
     "related_raw": "Q090",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 HTML本文確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-107",
     "title": "市村ら：病院採血室における採血に伴う気分不良の発生状況（医学検査 2025;74:226–231）",
     "url": "https://www.jstage.jst.go.jp/article/jamt/74/1/74_24-66/_html/-char/ja",
     "related_raw": "Q087",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当記述確認。全関連記述の照合は未完了。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-108",
     "title": "日本糖尿病学会・糖尿病合併症について",
     "url": "https://www.jds.or.jp/modules/citizen/index.php?content_id=3",
     "related_raw": "Q070",
-    "status": "review_required",
-    "publish": false
+    "status": "review_complete",
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-109",
     "title": "日本予防医学協会・健康診断全般Q&A",
     "url": "https://www.jpm1960.org/jushinsya/qanda/faq.html",
     "related_raw": "Q064・Q069",
-    "status": "review_required",
-    "publish": false
+    "status": "review_complete",
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-110",
     "title": "日本腎臓病薬物療法学会・薬物投与量設定に使用する腎機能推算式",
     "url": "https://www.jsnp.org/egfr/",
     "related_raw": "Q033",
-    "status": "review_required",
-    "publish": false,
-    "previous_status": "v153 公式HTML再取得、v151の腎機能推算式照合履歴を保持"
+    "status": "review_complete",
+    "publish": true,
+    "previous_status": "v153 公式HTML再取得、v151の腎機能推算式照合履歴を保持",
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-111",
     "title": "意図しない体重減少（専門家版）",
     "url": "https://www.msdmanuals.com/ja-jp/professional/24-%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AE%E3%83%88%E3%83%94%E3%83%83%E3%82%AF/%E9%9D%9E%E7%89%B9%E7%95%B0%E7%9A%84%E7%97%87%E7%8A%B6/%E6%84%8F%E5%9B%B3%E3%81%97%E3%81%AA%E3%81%84%E4%BD%93%E9%87%8D%E6%B8%9B%E5%B0%91",
     "related_raw": "Q015",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "本文該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-112",
     "title": "臨床検査部・心電図検査",
     "url": "https://www.nmct.ntt-east.co.jp/divisions/inspection/",
     "related_raw": "Q043・Q044",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "本文該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-113",
     "title": "腹部超音波検査",
     "url": "https://www.jsum.or.jp/citizen/kensa/kensa_hukubu/",
     "related_raw": "Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "本文該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-114",
     "title": "上腹部超音波検査",
     "url": "https://www.hitachi-medical.or.jp/medical-checkup",
     "related_raw": "Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "本文該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-115",
     "title": "Continuous versus intermittent exercise effects on urinary excretion of albumin and total protein",
     "url": "https://pubmed.ncbi.nlm.nih.gov/12413038/",
     "related_raw": "Q059",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "抄録確認・全文未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-116",
     "title": "Effects of sleep manipulation on markers of insulin sensitivity: A systematic review and meta-analysis of randomized controlled trials",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35189549/",
     "related_raw": "Q061",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "検索結果確認・全文未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-117",
     "title": "Effects of experimental sleep restriction on ambulatory and sleep blood pressure in healthy young adults",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363516/",
     "related_raw": "Q061",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "検索結果確認・全文未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-118",
     "title": "Variation in Laboratory Reports: Causes other than Laboratory Error",
     "url": "https://www.jnma.com.np/jnma/index.php/jnma/article/view/6022",
     "related_raw": "Q112・Q113・Q114",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v143 掲載誌PDF本文pp.222–223テキスト照合、画像取得403。Viewpoint（原著研究ではない）。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-119",
     "title": "硫酸バリウム散97.5%「ホリイ」電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/710068_7212037B1020_1_04",
     "related_raw": "Q094・Q095",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-120",
     "title": "「メタボリックシンドローム予備群」検討のためのワーキンググループ報告（2007年2月）",
     "url": "https://www.mhlw.go.jp/shingi/2007/02/s0219-4e.html",
     "related_raw": "Q103・Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v139 2007年2月WG報告本文を再確認。空腹時血糖100 mg/dLの設定根拠。引用元原著の再確認は未実施。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-121",
@@ -1073,18 +1189,20 @@
     "title": "国立がん研究センター｜胃がん検診について",
     "url": "https://ganjoho.jp/public/pre_scr/screening/stomach.html",
     "related_raw": "Q118・Q120",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-123",
     "title": "厚生労働省｜脂質異常症",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-05-004.html",
     "related_raw": "Q136・CHECKUP-05-07",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML再取得、食事性コレステロールへの反応の個人差はv149確認履歴と合わせて確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-124",
@@ -1099,70 +1217,78 @@
     "title": "リウマトレックスカプセル2mg 電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/672212_3999016M1021_3_06",
     "related_raw": "Q138・Q139",
-    "status": "review_required",
-    "publish": false,
-    "previous_status": "v65 2026年3月第4版 1.4、8.3、8.6、8.7の原典本文・画像確認（該当記述のみ）"
+    "status": "review_complete",
+    "publish": true,
+    "previous_status": "v65 2026年3月第4版 1.4、8.3、8.6、8.7の原典本文・画像確認（該当記述のみ）",
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-126",
     "title": "がん検診実施指針の一部改正通知（健生発1007第5号）",
     "url": "https://www.mhlw.go.jp/content/10900000/001757419.pdf",
     "related_raw": "Q079・Q080",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v131 2026-11-24 原典PDF本文・画像確認（通知適用日、新旧対照表2–3頁の採便回数・回収条件）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-127",
     "title": "順天堂大学医学部附属順天堂医院・採血・採尿",
     "url": "https://hosp.juntendo.ac.jp/clinic/support/rinsyo_kensabu/saiketsu.html",
     "related_raw": "Q086・Q087",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-128",
     "title": "松本市医師会検査健診センター・各検査項目の留意事項",
-    "url": "https://www.matsu-kensin.jp/detail/attention.html",
+    "url": "https://matsu-kensin.jp/detail/attention.html",
     "related_raw": "Q086・Q087",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-129",
     "title": "肺がんについて（診断方法）",
     "url": "https://www.ncc.go.jp/jp/ncce/clinic/thoracic_surgery/060/010/index.html",
     "related_raw": "Q045",
-    "status": "review_required",
-    "publish": false
+    "status": "review_complete",
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-130",
     "title": "生理機能検査室",
     "url": "https://osakaminami.hosp.go.jp/support/202/002/index.html",
     "related_raw": "Q043・Q044",
-    "status": "review_required",
-    "publish": false
+    "status": "review_complete",
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-131",
     "title": "日本における主要な臨床検査項目の共用基準範囲―解説と利用の手引き―（2022年10月1日版）",
     "url": "https://www.jccls.org/wp-content/uploads/2022/10/kijyunhani20221031.pdf",
     "related_raw": "Q102・Q113・Q114",
-    "status": "review_required",
-    "publish": false,
-    "previous_status": "v139 2022年版PDF p.3,6,7,20,21の本文・画像を確認。中央95％、基準範囲と臨床判断値の違い、LDL-C・HbA1cの共用基準範囲を照合。"
+    "status": "review_complete",
+    "publish": true,
+    "previous_status": "v139 2022年版PDF p.3,6,7,20,21の本文・画像を確認。中央95％、基準範囲と臨床判断値の違い、LDL-C・HbA1cの共用基準範囲を照合。",
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-132",
     "title": "厚生労働省・確かめよう労働条件（過重労働の防止）",
     "url": "https://www.check-roudou.mhlw.go.jp/study/roudousya_kajuroudou.html",
     "related_raw": "Q008",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "新規",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-133",
@@ -1178,558 +1304,620 @@
     "title": "尿沈渣の検査について",
     "url": "https://jaclap.org/guests/common_no408/",
     "related_raw": "Q041",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "新規",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-135",
     "title": "高齢者糖尿病診療ガイドライン2023 第VI章",
     "url": "https://www.jds.or.jp/uploads/files/publications/elderly_gl_2023/13.pdf",
     "related_raw": "Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "新規",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-136",
     "title": "日本緑内障学会 一般のみなさまへ Q&A",
     "url": "https://www.ryokunaisho.jp/general/qa.php",
     "related_raw": "Q046・Q047",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "未再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-137",
     "title": "第94回がん対策推進協議会議事録",
     "url": "https://www.mhlw.go.jp/stf/newpage_73748.html",
     "related_raw": "CHECKUP-02-14",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "新規",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-201",
     "title": "日本高血圧協会 D1 降圧薬は一生飲み続けますか？",
     "url": "https://www.ketsuatsu.net/faq/310/",
     "related_raw": "Q116",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML本文：医師による減量・中止、経過観察",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-202",
     "title": "厚生労働省 標準的な健診・保健指導プログラム（令和6年度版）標準的な質問票・解説（pp.77–80）",
     "url": "https://www.mhlw.go.jp/content/10900000/001081581.pdf",
     "related_raw": "Q067",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v61該当箇所直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-203",
     "title": "厚生労働省 標準的な健診・保健指導プログラム（令和6年度版）第2編第3章 保健指導対象者の選定と階層化（pp.56–59）",
     "url": "https://www.mhlw.go.jp/content/10900000/001081570.pdf",
     "related_raw": "Q106・Q128・Q129・CHECKUP-05-06",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v141 pp.57–58 原典画像再照合。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-204",
     "title": "総務省消防庁 救急車利用マニュアル（成人版の症状例、冊子p.3）",
     "url": "https://www.fdma.go.jp/publication/portal/items/portal002_japanese121.pdf",
     "related_raw": "CHECKUP-02-10・CHECKUP-05-03・Q043・Q125",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v64 冊子p.3本文・画像直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-205",
     "title": "総務省消防庁 救急安心センター事業（#7119）",
     "url": "https://www.fdma.go.jp/mission/enrichment/appropriate/appropriate007.html",
     "related_raw": "CHECKUP-05-03・Q125",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v64 相談窓口の役割確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-206",
     "title": "メルカゾール錠2.5mg・5mg 電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/bookSearch/01/14987123161906",
     "related_raw": "CHECKUP-05-08・Q139",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v65 原典本文・画像確認 2025年6月第3版 1.1、1.2、8.2 p.1",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-207",
     "title": "PMDAからの医薬品適正使用のお願い No.5 チアマゾール",
     "url": "https://www.pmda.go.jp/files/000276310.pdf",
     "related_raw": "CHECKUP-05-08・Q139",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v152 2025年7月更新資料p.1本文・ページ画像確認：血液検査・白血球分画・症状時の直ちに受診",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-208",
     "title": "日本人間ドック・予防医療学会 人間ドックQ&A",
     "url": "https://www.ningen-dock.jp/public_faq/",
     "related_raw": "CHECKUP-03-01・03-02・03-04・03-05（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v67 HTML本文確認：受診前の注意（Q13、服薬・飲食）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-209",
     "title": "高崎総合医療センター 薬剤部 お薬手帳について",
     "url": "https://takasaki.hosp.go.jp/bumon/b_yakuzai_c_3.html",
     "related_raw": "CHECKUP-03-01・03-02・03-04・03-05（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v67 HTML本文確認：健診での活用、市販薬・サプリメントの記録",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-210",
     "title": "JCHO徳山中央病院 健診の注意事項",
     "url": "https://tokuyama.jcho.go.jp/kenkan/course/【注意事項】/",
     "related_raw": "CHECKUP-03-01・03-02・03-04・03-05（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v67 HTML本文確認：服薬・飲水の施設別指示",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-211",
     "title": "国立国府台医療センター 注意事項",
     "url": "https://kohnodai.jihs.go.jp/dock_reservation/notice/",
     "related_raw": "CHECKUP-03-01・03-02・03-04・03-05（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 HTML本文確認（該当箇所のみ）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-212",
     "title": "JCHO可児とうのう病院 よくあるご質問",
     "url": "https://kani.jcho.go.jp/kenkan/introduction/よくあるご質問/",
     "related_raw": "CHECKUP-03-01・03-02・03-04・03-05（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v67 HTML本文確認：飲水条件・飲食時の申告",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-213",
     "title": "JCHO可児とうのう病院 受診の際のご注意",
     "url": "https://kani.jcho.go.jp/kenkan/introduction/受診の際のご注意/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：女性の方：月経時の後日検査、妊娠の申告",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-214",
     "title": "東京大学保健センター 各健康診断の検査項目と受診上の注意点",
     "url": "https://www.hc.u-tokyo.ac.jp/test-items-and-points/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：尿検査・便検査：月経時の採尿条件と便検査の制限",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-215",
     "title": "JCHO四日市羽津医療センター よくあるご質問",
     "url": "https://yokkaichi.jcho.go.jp/kenkan/introduction/よくあるご質問/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：Q5・Q9・Q10：1日分の採便、妊娠・月経時の検査変更",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-216",
     "title": "JCHO相模野病院 2026年度健康診断案内",
     "url": "https://sagamino.jcho.go.jp/kenkan/news-topix/2026年度　健康診断　ご予約開始のご案内/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：感染症拡大予防：症状による日程変更",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-217",
     "title": "バリブライトP 電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/200343_7212020B1033_2_03",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：2022年8月第1版 p.1 8.1.1–8.1.4：下剤、水分、排便確認、持続する排便困難・腹痛時の直ちの受診",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-218",
     "title": "国立国際医療センター X線透視検査",
     "url": "https://www.hosp.jihs.go.jp/housyasen/060/023/20151204235902.html",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：検査後の注意：下剤、水分、腹部膨満・腹痛",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-219",
     "title": "JCHO埼玉メディカルセンター よくあるご質問",
     "url": "https://saitama.jcho.go.jp/kenkan/news-topix/よくあるご質問-qa/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：月経時の尿潜血、妊娠時の検査調整、1日分採便",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-220",
     "title": "JCHO東京蒲田医療センター よくあるご質問",
     "url": "https://kamata.jcho.go.jp/kenkan/news-topix/よくあるご質問/",
     "related_raw": "CHECKUP-03-07・03-08・03-11（該当記述のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68 原典確認：Q4・Q8・Q11：月経による検査への影響、排便相談、採便日・後日提出の施設条件",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-221",
     "title": "厚生労働省 特定健康診査及び特定保健指導の実施通知",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tc3000&dataType=1&pageNo=1",
     "related_raw": "CHECKUP-03-02・Q056（REF-224は本文のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68修正版 公式HTML確認：午前の特定健診前10時間以上は水以外の飲食物を摂取しない",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-222",
     "title": "ふくおか公衆衛生推進機構 巡回健診",
     "url": "https://www.fphpo.or.jp/health/patrol.html",
     "related_raw": "CHECKUP-03-02・Q056（REF-224は本文のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68修正版 公式HTML確認：ガム・飴を含む飲食制限",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-223",
     "title": "豊橋市民病院 人間ドックについて",
     "url": "https://www.municipal-hospital.toyohashi.aichi.jp/guide/medical_checkup/thorough/",
     "related_raw": "CHECKUP-03-02・Q056（REF-224は本文のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68修正版 公式HTML確認：PET-CTにおけるシュガーレスガム等の制限（検査固有の根拠）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-224",
     "title": "北野病院 臨床検査部 患者様へ",
     "url": "https://www.kitano-hp.or.jp/section/kensa/for-patients",
     "related_raw": "CHECKUP-03-02・Q056（REF-224は本文のみ）",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v68修正版 公式HTML確認：絶食検査前でも低血糖対処を優先",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-225",
     "title": "ペースメーカ・ICD使用者のMRI検査",
     "url": "https://www.jadia.or.jp/caution/mri.html",
     "related_raw": "CHECKUP-03-10・Q091",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-226",
     "title": "野村病院 健診FAQ",
     "url": "https://www.nomura.or.jp/preventive/faq.html",
     "related_raw": "CHECKUP-03-10・Q092",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-227",
     "title": "ビタミンQ&A",
     "url": "https://www.vitamin-society.jp/qa/",
     "related_raw": "CHECKUP-03-06・Q075・Q076",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v69 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-228",
     "title": "倉敷市 国保特定健診・診療情報提供",
     "url": "https://www.city.kurashiki.okayama.jp/kurashi/hoken/1004520/1010962.html",
     "related_raw": "CHECKUP-04-09・Q150",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v70 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-229",
     "title": "下呂市 特定健診Q&A",
     "url": "https://www.city.gero.lg.jp/soshiki/4/255.html",
     "related_raw": "CHECKUP-04-09・Q150",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v144 自治体公式Q&Aの通院中の項目を確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-230",
     "title": "福山市医師会健診センター 結果票の見方",
     "url": "https://www.kenshin.fmed.jp/flow/results.html",
     "related_raw": "CHECKUP-04-09・CHECKUP-05-03・Q012・Q122",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v70 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-231",
     "title": "糖尿病情報センター 高齢者と糖尿病",
     "url": "https://dmic.jihs.go.jp/general/about-dm/080/070/01.html",
     "related_raw": "CHECKUP-04-09・Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v70 原典HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-232",
     "title": "厚生労働省 血圧",
     "url": "https://kennet.mhlw.go.jp/slp/event/disease/pressure/index.html",
     "related_raw": "第1章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v71 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-233",
     "title": "糖尿病情報センター 糖尿病とは",
     "url": "https://dmic.jihs.go.jp/general/about-dm/010/010/01.html",
     "related_raw": "第1章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v71 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-234",
     "title": "職場のあんぜんサイト 定期健康診断",
     "url": "https://anzeninfo.mhlw.go.jp/yougo/yougo51_1.html",
     "related_raw": "第1章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v71 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-235",
     "title": "厚生労働省 肥満と健康",
     "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-001",
     "related_raw": "第2章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v72 公式HTML 表1・腹囲・BMIの限界",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-236",
     "title": "日本高血圧学会 家庭で血圧を測定しましょう（PDF）",
     "url": "https://www.jpnsh.jp/data/selfmonitoring.pdf",
     "related_raw": "第2章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v72 p.1 本文とページ画像",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-237",
     "title": "糖尿病情報センター 糖尿病と関連する検査",
     "url": "https://dmic.jihs.go.jp/general/about-dm/030/010/02.html",
     "related_raw": "第2章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v142 対象記述の原典直接照合（REF-103は論文p.143画像、その他はHTML本文）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-238",
     "title": "厚生労働省 LDLコレステロール",
     "url": "https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/ym-072",
     "related_raw": "第2章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v72 公式検索結果・リポ蛋白の説明（本文未照合）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-239",
     "title": "日本腎臓学会 急性腎障害と慢性腎臓病",
     "url": "https://en.jsn.or.jp/general/kidneydisease/symptoms04.php",
     "related_raw": "02-06",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v142 対象記述の原典直接照合（REF-103は論文p.143画像、その他はHTML本文）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-240",
     "title": "日本臨床検査専門医会 尿検査でわかること",
     "url": "https://jaclap.org/guests/guests-2932/",
     "related_raw": "02-09・Q041",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v73 該当箇所直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-241",
     "title": "フォシーガ錠 患者向け資材 服用にあたって",
     "url": "https://www.pmda.go.jp/RMP/www/670227/8584b150-0d8a-4443-910e-a5e8509fcdd1/670227_3969019F1027_08_001RMPm.pdf",
     "related_raw": "02-09・Q042",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "2026-11-24 v73 該当箇所直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-242",
     "title": "国立循環器病研究センター ホルター心電図",
     "url": "https://www.ncvc.go.jp/hospital/section/treatment/laboratorymedicine/physiofunction/detail03/",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-243",
     "title": "国立がん研究センター東病院 肺がんについて",
     "url": "https://pod.ncc.go.jp/jp/ncce/clinic/thoracic_surgery/060/010/index.html",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-244",
     "title": "国立がん研究センター 肺がん検診について",
     "url": "https://ganjoho.jp/public/pre_scr/screening/lung.html",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-245",
     "title": "日本眼科医会 よくわかる緑内障",
     "url": "https://www.gankaikai.or.jp/health/49/index.html",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-246",
     "title": "日本耳鼻咽喉科頭頸部外科学会 難聴",
     "url": "https://www.jibika.or.jp/modules/disease/index.php?content_id=15",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式検索結果のみ",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-247",
     "title": "朝日大学病院 人間ドックQ&A",
     "url": "https://www.hosp.asahi-u.ac.jp/kenshincenter/",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-248",
     "title": "国立がん研究センター 腫瘍マーカー検査とは",
     "url": "https://ganjoho.jp/public/dia_tre/inspection/marker.html",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-249",
     "title": "国立がん研究センター 肺がん検診（医療関係者向け）",
     "url": "https://ganjoho.jp/med_pro/cancer_control/screening/screening_lung.html",
     "related_raw": "第2章後半",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v74 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-250",
     "title": "ふくおか公衆衛生推進機構 巡回健診・受診上の注意事項",
     "url": "https://www.fphpo.or.jp/health/patrol.html",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 公式HTML本文",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-251",
     "title": "Pettersson et al. Muscular exercise can cause highly pathological liver function tests in healthy men. Br J Clin Pharmacol. 2008",
     "url": "https://doi.org/10.1111/j.1365-2125.2007.03001.x",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 論文HTML本文（方法・考察）；PDF未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-252",
     "title": "京都大学医学部附属病院検査部 蛋白定量（随時尿）",
     "url": "https://clinical-lab.kuhp.kyoto-u.ac.jp/reference/item/0477.html",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 公式検索抜粋",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-253",
     "title": "Effects of sleep manipulation on markers of insulin sensitivity: systematic review and meta-analysis",
     "url": "https://pubmed.ncbi.nlm.nih.gov/35189549/",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 公開抄録検索抜粋",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-254",
     "title": "国立国際医療センター 外来採血室",
     "url": "https://www.hosp.jihs.go.jp/clin/050/010/index.html",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 公式HTML本文",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-255",
     "title": "BASEGATE横浜関内クリニック よくあるご質問",
     "url": "https://www.wellbeing-yokohama.jp/faq/",
     "related_raw": "第3章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v75 公式HTML本文（施設例）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-256",
     "title": "岡山済生会予防医学健診センター 二次検査",
     "url": "https://okayamasaiseikai.or.jp/sector/i/center_checkup/inspection/",
     "related_raw": "第4章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v76 公式HTML本文確認（施設例）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-257",
     "title": "がん研有明病院 健診報告書に関するよくあるご質問",
     "url": "https://www.jfcr.or.jp/hospital/examination/dock/faq/",
     "related_raw": "第4章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v76 公式HTML本文確認（施設例）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-258",
     "title": "厚生労働省 資格確認方法について",
     "url": "https://www.mhlw.go.jp/stf/newpage_50657.html",
     "related_raw": "第5章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v77 資格情報のお知らせとマイナンバーカードの併用",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-259",
@@ -1751,8 +1939,8 @@
   },
   {
     "id": "REF-261",
-    "title": "厚生労働省 令和8年度診療報酬改定 外来医療の機能分化・強化等 p.25",
-    "url": "https://www.mhlw.go.jp/content/12400000/001666312.pdf#page=25",
+    "title": "厚生労働省｜令和8年度診療報酬改定の概要：外来医療の機能分化・強化等（p.25）",
+    "url": "https://www.mhlw.go.jp/content/12400000/001681336.pdf#page=25",
     "related_raw": "第5章",
     "status": "review_required",
     "previous_status": "v147 旧URLは404、REF-072と同じ資料のp.25画像確認。重複のため関連付けをREF-072へ統合",
@@ -1763,18 +1951,20 @@
     "title": "日本予防医学協会 健診全般Q&A",
     "url": "https://www.jpm1960.org/jushinsya/qanda/faq.html",
     "related_raw": "第5章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v77 健診後04・05・08・11",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-263",
     "title": "厚生労働省 健診の基礎知識",
     "url": "https://kennet.mhlw.go.jp/slp/about/3action/public/examination",
     "related_raw": "第5章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML再取得、v152の要検査・要治療の確認履歴を保持",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-264",
@@ -1790,180 +1980,200 @@
     "title": "国立がん研究センター がん検診について",
     "url": "https://ganjoho.jp/public/pre_scr/screening/about_scr01.html",
     "related_raw": "第5章",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v77 要精密検査の場合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-266",
     "title": "PMDA 医療用医薬品使用時の注意 Q9",
     "url": "https://www.pmda.go.jp/safety/consultation-for-patients/on-drugs/qa/0001.html",
     "related_raw": "v79 服薬・通院継続",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v79 公式HTML確認（REF-267は検索抜粋）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-267",
     "title": "糖尿病情報センター 働く世代と糖尿病",
     "url": "https://dmic.jihs.go.jp/general/about-dm/080/040/01.html",
     "related_raw": "v79 服薬・通院継続",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v79 公式HTML確認（REF-267は検索抜粋）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-268",
     "title": "慶應義塾大学病院 鉄欠乏性貧血・その他の造血因子不足による貧血",
     "url": "https://kompas.hosp.keio.ac.jp/disease/000022/",
     "related_raw": "v80",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v80 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-269",
     "title": "国立病院機構金沢医療センター 臨床検査科",
     "url": "https://kanazawa.hosp.go.jp/section/rinkensa/rinkensa.html",
     "related_raw": "v80",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v80 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-270",
     "title": "入江病院 急に痩せた（体重減少）",
     "url": "https://irie.or.jp/medical_care/symptoms/weight_loss",
     "related_raw": "v80",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v80 公式HTML該当箇所確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-271",
     "title": "糖尿病情報センター 1型糖尿病の治療について",
     "url": "https://dmic.jihs.go.jp/general/about-dm/050/020/02.html",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 公式HTML 基礎・追加分泌",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-272",
     "title": "アウィクリ注 投与ガイド 第3版",
     "url": "https://www.pmda.go.jp/RMP/www/620023/95247c4f-db79-4e53-b457-157a56dffe2e/620023_24924A7G1022_01_003RMPm.pdf",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 PDF本文・画像 pp.18–19 低血糖",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-273",
     "title": "セマグルチド電子添文",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/620023_2499418G4027_1_07",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 PDF本文・画像 9.1.5 誤嚥",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-274",
     "title": "Dexcom G7 CGMシステム 電子添文 2025年12月第3版",
     "url": "https://www.pmda.go.jp/PmdaSearch/kikiDetail/ResultDataSetPDF/471981_30500BZI00035000_B_01_03",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 PDF本文・画像 p.1 禁忌・禁止",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-275",
     "title": "ニトロダームTTS25mg 電子添文 2024年7月第2版",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/480866_2171701S2037_2_06",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 PDF本文・画像 14.3.1 MRI前除去；v135 PMDA PDF p.2 画像 14.3.1(3) 再照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-276",
     "title": "PMDA MRI装置に係る使用上の注意の改訂指示等",
     "url": "https://www.pmda.go.jp/safety/info-services/devices/0013.html",
     "related_raw": "v81",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v81 公式HTML 導電性貼付剤の局所加熱",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-277",
     "title": "Schwartz et al. BMD and FRAX in older adults with type 2 diabetes (JAMA 2011)",
     "url": "https://doi.org/10.1001/jama.2011.715",
     "related_raw": "v82",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v82 出版社HTML本文・Table 1・結論",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-278",
     "title": "EPOCH-JAPAN研究成果報告書（厚生労働科学研究）",
     "url": "https://mhlw-grants.niph.go.jp/system/files/2019/192031/201909001B_upload/201909001B0008.pdf",
     "related_raw": "v82",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v82 PDF本文 冊子39頁付近、原著全文は未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-279",
     "title": "NGSP: Factors that Interfere with HbA1c Test Results",
     "url": "https://ngsp.org/factors.asp",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "HTML本文 48–51行",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-280",
     "title": "NIDDK: The A1C Test & Diabetes",
     "url": "https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "公式検索抜粋（輸血）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-281",
     "title": "WHO guideline on use of ferritin concentrations (2020)",
     "url": "https://iris.who.int/bitstream/handle/10665/331505/9789240000124-eng.pdf?sequence=1",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "PDFテキスト 推奨1.2・4.2、画像取得不可",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-282",
     "title": "厚生労働省 喫煙と循環器疾患",
     "url": "https://kennet.mhlw.go.jp/information/information/tobacco/t-03-002.html",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "公式HTML本文",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-283",
     "title": "国立がん研究センター中央病院 胆道がん",
     "url": "https://www.ncc.go.jp/jp/ncch/clinic/hepatobiliary_surgery/025/010/070/index.html",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "公式検索抜粋・HTML本文",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-284",
     "title": "冠動脈疾患予防のためのLDLコレステロール低下療法における食事療法の重要性",
     "url": "https://www.jstage.jst.go.jp/article/jsnfs/78/3/78_151/_article/-char/ja",
     "related_raw": "v83",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 PDF本文再取得、p.153（PDF 3ページ目）画像確認：食事療法。個人差の直接根拠はREF-123",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-285",
@@ -1979,342 +2189,380 @@
     "title": "厚生労働省 特定健康診査・特定保健指導の円滑な実施に向けた手引き（第4.3版、2026年3月）3-2-2、37頁",
     "url": "https://www.mhlw.go.jp/content/12400000/001496685.pdf#page=42",
     "related_raw": "CHECKUP-01-04・Q005",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v119 原典PDF本文・ページ画像確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-287",
     "title": "厚生労働省 労働安全衛生法および同法施行令の施行について（昭和47年9月18日基発第602号）",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00tb2043&dataType=1&pageNo=1",
     "related_raw": "CHECKUP-01-04・Q008",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v119 公式検索抜粋確認、本文再照合残",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-288",
     "title": "糖尿病情報センター 家族や大切な方が糖尿病といわれたら",
     "url": "https://dmic.jihs.go.jp/general/about-dm/080/080/01.html",
     "related_raw": "CHECKUP-01-01・CHECKUP-01-05・Q001・Q012",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v120 該当本文直接確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-289",
     "title": "PMDA 医薬品または医療機器を使われている方へ",
     "url": "https://www.info.pmda.go.jp/fsearchnew/jsp/attention.jsp",
     "related_raw": "CHECKUP-01-05・Q012",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v120 該当本文直接確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-290",
     "title": "厚生労働省 たんぱく尿",
     "url": "https://kennet.mhlw.go.jp/information/information/dictionary/metabolic/ym-070",
     "related_raw": "CHECKUP-02-09",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v126該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-291",
     "title": "日本腎臓学会 検尿異常への対処",
     "url": "https://en.jsn.or.jp/medic/academicinfo/sbook/15.php",
     "related_raw": "CHECKUP-02-09",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v126該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-292",
     "title": "国立循環器病研究センター 安静時心電図検査",
     "url": "https://www.ncvc.go.jp/hospital/section/treatment/laboratorymedicine/physiofunction/detail01-2/",
     "related_raw": "CHECKUP-02-10",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v126該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-293",
     "title": "国立がん研究センター 肺がん 検査",
     "url": "https://ganjoho.jp/public/cancer/lung/diagnosis.html",
     "related_raw": "CHECKUP-02-11",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v126該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-294",
     "title": "日本眼科医会 緑内障ってどんな病気？",
     "url": "https://www.gankaikai.or.jp/info/detail/glaucoma.html",
     "related_raw": "CHECKUP-02-12・Q046・Q047",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v127 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-295",
     "title": "国立長寿医療研究センター 日常診療で見逃さない骨粗鬆症",
     "url": "https://www.ncgg.go.jp/hospital/iryokankei/letter/125.html",
     "related_raw": "CHECKUP-02-13・Q048",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v127 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-296",
     "title": "東海病院 健診・人間ドック よくある質問（腹部超音波）",
     "url": "https://toukaihosp.kkr.or.jp/dock/faq.html?tgl=faq05",
     "related_raw": "CHECKUP-02-13・Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v127 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-297",
     "title": "国立がん研究センター中央病院 胆道がん（診断）",
     "url": "https://www.ncc.go.jp/jp/ncch/clinic/hepatobiliary_surgery/025/010/070/index.html",
     "related_raw": "CHECKUP-02-05・",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-298",
     "title": "日本腎臓学会 CKD診療ガイド2024 第12章 薬物療法の注意",
     "url": "https://cdn.jsn.or.jp/data/gl2024_ckd_ch12.pdf",
     "related_raw": "CHECKUP-02-06・Q031・Q033",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-299",
     "title": "国立長寿医療研究センター 白血球数が多いと言われたら",
     "url": "https://www.ncgg.go.jp/hospital/navi/70.html",
     "related_raw": "CHECKUP-02-08・Q038",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-300",
     "title": "PMDA フォシーガ電子添文 第7版 第12項",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/670227_3969019F1027_2_17",
     "related_raw": "CHECKUP-02-09・Q040",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-301",
     "title": "国立がん研究センター東病院 肺がんについて（診断方法）",
     "url": "https://www.ncc.go.jp/jp/ncce/clinic/thoracic_surgery/060/010/index.html",
     "related_raw": "CHECKUP-02-11・Q045",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-302",
     "title": "東京大学医学部附属病院 消化器内科 腹部超音波検査",
     "url": "https://gastro.m.u-tokyo.ac.jp/department/diseases/detail/id=148",
     "related_raw": "CHECKUP-02-13・Q049",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-303",
     "title": "厚生労働省 e-ヘルスネット 脂質異常症",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-05-004.html",
     "related_raw": "CHECKUP-02-04・",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v128 該当本文照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-304",
     "title": "厚生労働科学研究報告書：EPOCH-JAPAN 超高値HDL-C（38–39頁）",
     "url": "https://mhlw-grants.niph.go.jp/system/files/2019/192031/201909001B_upload/201909001B0008.pdf",
     "related_raw": "CHECKUP-02-04・Q024",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v129 研究報告書本文の方法・結果・結論照合。PDF画像取得失敗、原著全文未確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-305",
     "title": "Cystatin C is a disease-associated protein subject to multiple regulation",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7165929/",
     "related_raw": "CHECKUP-02-06・Q031",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v129 総説本文：甲状腺機能、CRP等の非GFR要因",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-306",
     "title": "Schwartz et al. JAMA 2011 著者原稿全文",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3287389/",
     "related_raw": "CHECKUP-02-13・Q048",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v129 著者原稿の結果・考察・限界を照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-307",
     "title": "松下記念病院予防医療センター 健診Q&A",
     "url": "https://kenpo.jpn.panasonic.com/kinen/dock-kenshin/about/index.html",
     "related_raw": "03-02 Q056",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v133 該当本文直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-308",
     "title": "糖尿病情報センター 低血糖",
     "url": "https://dmic.jihs.go.jp/general/about-dm/040/050/05.html",
     "related_raw": "03-02",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v133 該当本文直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-309",
     "title": "消防庁 応急手当WEB講習 低血糖",
     "url": "https://www.fdma.go.jp/relocation/kyukyukikaku/oukyu/05kobetsu/05/05_05_05.html",
     "related_raw": "03-02",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v133 該当本文直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-310",
     "title": "横浜掖済会病院 CT・MRI検査依頼について",
     "url": "https://www.yokohama-ekisaikai.com/info_forneighborhood_ctmri.html",
     "related_raw": "03-09 Q088",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v133 該当本文直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-311",
     "title": "日本薬学会 お薬手帳",
     "url": "https://www.pharm.or.jp/words/word00246.html",
     "related_raw": "03-12 Q068",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v133 該当本文直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-312",
     "title": "友愛会健康管理センター 受診時の注意事項",
     "url": "https://mcc.yuuai.or.jp/guidance/attention/",
     "related_raw": "03-07 Q081 03-08 Q082",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v135 該当本文直接照合（施設個別の例）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-313",
     "title": "明治安田新宿健診センター ご受診される方へ",
     "url": "https://www.my-kenshin.jp/contraindications/",
     "related_raw": "03-11 Q094",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v135 該当本文直接照合（施設個別の例）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-314",
     "title": "アウィクリ注 電子添文（2026年11月掲載）",
     "url": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/620023_2492424G1022_1_06",
     "related_raw": "Q071",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v137 HTML本文7.8–7.10、8.4、11.1.1直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-315",
     "title": "東京都薬剤師会：医薬品の用法・用量について",
     "url": "https://www.toyaku.or.jp/health/tobehealthy/faq10.html",
     "related_raw": "Q096",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v137 飲み忘れ時の倍量回避の該当Q&Aのみ直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-316",
     "title": "厚生労働省：喫煙と循環器疾患",
     "url": "https://kennet.mhlw.go.jp/information/information/tobacco/t-03-002.html",
     "related_raw": "Q062",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v137 ニコチンの心拍数・血圧への作用を直接照合",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-317",
     "title": "Covassin et al. 睡眠制限と24時間血圧（Hypertension 2021）",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8363516/",
     "related_raw": "03-03・Q061",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v138 本文・方法・結果・考察確認。20人、9日間の睡眠制限。単回健診値へ外挿しない。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-318",
     "title": "Buxton et al. 睡眠制限とインスリン感受性（Diabetes 2010）",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2927933/",
     "related_raw": "03-03・Q061",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v138 全文確認。健康男性20人、7夜の制限、継続対照群なし。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-319",
     "title": "日本医学放射線学会 画像診断ガイドライン：妊娠・授乳とCT・MRI・造影剤",
     "url": "https://jrs-gl.radiology.jp/articles/2982/",
     "related_raw": "03-08・Q084・Q085",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v138 解説本文直接確認。造影剤の授乳継続は個別判断。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-320",
     "title": "済生会兵庫県病院 放射線技術科Q&A",
     "url": "https://saiseikai.info/department/radiology-technician/faq/",
     "related_raw": "03-08・Q085",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v138 授乳とX線の該当本文確認。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-321",
     "title": "高齢者糖尿病診療ガイドライン2023 VI 血糖コントロール目標・治療方針",
     "url": "https://www.jds.or.jp/uploads/files/publications/elderly_gl_2023/13.pdf",
     "related_raw": "04-03・Q105",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v140 p.95 原典画像確認。",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-322",
     "title": "Sandberg et al. Biological variation: recent development and future challenges (2023)",
     "url": "https://www.eflm.eu/upload/publications/2034-2022-ClinChemLabMed-Sandberg-et-al.pdf.pdf",
     "related_raw": "Q112・Q113・Q114",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v143 総説本文・冒頭PDF画像照合（pp.741–750）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-323",
     "title": "厚生労働省 e-ヘルスネット 特定健康診査の検査項目（2024年12月3日更新）",
     "url": "https://kennet.mhlw.go.jp/information/information/metabolic/m-04-005.html",
     "related_raw": "Q098・Q150",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v144 本文照合（結果通知と受診、治療中の健診）",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-324",
@@ -2330,18 +2578,20 @@
     "title": "厚生労働省 健康日本21（第三次）の基本方針（令和5年告示第207号）",
     "url": "https://www.mhlw.go.jp/web/t_doc?dataId=00012990&dataType=0",
     "related_raw": "05-07・Q136",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v149 社会環境・健康格差の方針確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-326",
     "title": "厚生労働省 睡眠対策",
     "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html",
     "related_raw": "05-07",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v149 睡眠ガイドの公式案内確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-327",
@@ -2357,17 +2607,19 @@
     "title": "AHRQ The SHARE Approach",
     "url": "https://www.ahrq.gov/sdm/share-approach/index.html",
     "related_raw": "05-05・Q132",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v153 公式HTML本文：利益・不利益・リスク、患者の価値観",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   },
   {
     "id": "REF-329",
     "title": "厚生労働省 脂質異常症の食事",
     "url": "https://kennet.mhlw.go.jp/information/information/food/e-02-012",
     "related_raw": "05-07・Q136",
-    "status": "review_required",
+    "status": "review_complete",
     "previous_status": "v152 公式HTML本文確認",
-    "publish": false
+    "publish": true,
+    "reviewed": "2026-11-25"
   }
 ]

@@ -89,7 +89,7 @@
   "site_links": [
     {
       "title": "健診結果を確認する",
-      "url": "../content/checkup/index.html?review=1"
+      "url": "../content/checkup/index.html"
     }
   ]
 }

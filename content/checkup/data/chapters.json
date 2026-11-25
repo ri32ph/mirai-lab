@@ -26,8 +26,8 @@
           "REF-131",
           "REF-230"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [],
           [
@@ -54,7 +54,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-02",
@@ -73,8 +74,8 @@
           "REF-002",
           "REF-234"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -101,7 +102,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-03",
@@ -122,8 +124,8 @@
           "REF-234",
           "REF-244"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "健康診断とがん検診",
@@ -177,7 +179,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-04",
@@ -215,8 +218,8 @@
           "REF-228",
           "REF-287"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [],
           [
@@ -279,7 +282,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-05",
@@ -308,8 +312,8 @@
           "REF-131",
           "REF-230"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -350,7 +354,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-06",
@@ -373,8 +378,8 @@
           "REF-012",
           "REF-234"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "100人の絵で見る、検査結果と病気の有無",
@@ -482,7 +487,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-01-07",
@@ -505,8 +511,8 @@
           "REF-230",
           "REF-256"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -535,7 +541,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       }
     ]
   },
@@ -564,8 +571,8 @@
           "REF-235",
           "REF-270"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "体格を知る指標",
@@ -620,7 +627,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-02",
@@ -641,8 +649,8 @@
           "REF-017",
           "REF-236"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "家庭血圧と診察室血圧（未治療の場合）",
@@ -716,7 +724,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-03",
@@ -741,8 +750,8 @@
           "REF-280",
           "REF-015"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "type": "illustration",
@@ -789,7 +798,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-04",
@@ -816,8 +826,8 @@
           "REF-303",
           "REF-304"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "脂質検査の意味",
@@ -876,7 +886,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-05",
@@ -903,8 +914,8 @@
           "REF-283",
           "REF-297"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -953,7 +964,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-06",
@@ -982,8 +994,8 @@
           "REF-298",
           "REF-305"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "type": "illustration",
@@ -1054,7 +1066,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-07",
@@ -1072,8 +1085,8 @@
           "REF-025",
           "REF-026"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1120,7 +1133,8 @@
             "afterGroup": 0,
             "alt": "食品と体内のプリン体から尿酸が生成され、腎臓と腸から排泄されます。"
           }
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-08",
@@ -1145,8 +1159,8 @@
           "REF-281",
           "REF-299"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "貧血の原因は一つではありません",
@@ -1205,7 +1219,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-09",
@@ -1235,8 +1250,8 @@
           "REF-291",
           "REF-300"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "type": "illustration",
@@ -1295,7 +1310,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-10",
@@ -1319,8 +1335,8 @@
           "REF-242",
           "REF-292"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1357,7 +1373,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-11",
@@ -1379,8 +1396,8 @@
           "REF-293",
           "REF-301"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1405,7 +1422,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-12",
@@ -1428,8 +1446,8 @@
           "REF-246",
           "REF-294"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1466,7 +1484,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-13",
@@ -1494,8 +1513,8 @@
           "REF-302",
           "REF-306"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1532,7 +1551,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-02-14",
@@ -1564,8 +1584,8 @@
           "REF-244",
           "REF-249"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "emphasis": [
           [
             {
@@ -1622,7 +1642,8 @@
               ]
             ]
           ]
-        }
+        },
+        "reviewed": "2026-11-25"
       }
     ]
   },
@@ -1649,8 +1670,8 @@
           "REF-210",
           "REF-250"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -1682,7 +1703,8 @@
             }
           ],
           []
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-02",
@@ -1716,8 +1738,8 @@
           "REF-309",
           "REF-313"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "飲食制限の目的",
@@ -1777,7 +1799,8 @@
             }
           ],
           []
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-03",
@@ -1819,8 +1842,8 @@
           "REF-317",
           "REF-318"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -1875,7 +1898,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-04",
@@ -1909,8 +1933,8 @@
           "REF-311",
           "REF-313"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "抗血栓薬の取り扱い",
@@ -1967,7 +1991,8 @@
             }
           ],
           []
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-05",
@@ -2002,8 +2027,8 @@
           "REF-273",
           "REF-314"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "type": "illustration",
@@ -2078,7 +2103,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-06",
@@ -2101,8 +2127,8 @@
           "REF-097",
           "REF-227"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "type": "illustration",
@@ -2161,7 +2187,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-07",
@@ -2192,8 +2219,8 @@
           "REF-312",
           "REF-307"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "採便方法",
@@ -2274,7 +2301,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-08",
@@ -2308,8 +2336,8 @@
           "REF-319",
           "REF-320"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -2370,7 +2398,8 @@
               "kind": "green"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-09",
@@ -2395,8 +2424,8 @@
           "REF-255",
           "REF-310"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "血管迷走神経反射の例",
@@ -2455,7 +2484,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-10",
@@ -2493,8 +2523,8 @@
           "REF-275",
           "REF-276"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -2578,7 +2608,8 @@
               "kind": "green"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-11",
@@ -2609,8 +2640,8 @@
           "REF-313",
           "REF-315"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -2666,7 +2697,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-03-12",
@@ -2685,8 +2717,8 @@
           "REF-307",
           "REF-311"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -2723,7 +2755,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       }
     ]
   },
@@ -2750,8 +2783,8 @@
           "REF-256",
           "REF-323"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -2788,7 +2821,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-02",
@@ -2812,8 +2846,8 @@
           "REF-131",
           "REF-230"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "中央95％を基準範囲とする場合",
@@ -2859,7 +2893,8 @@
               "kind": "yellow"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-03",
@@ -2900,8 +2935,8 @@
           "REF-131",
           "REF-321"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "基準の目的",
@@ -3047,7 +3082,8 @@
               "kind": "yellow"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-04",
@@ -3081,8 +3117,8 @@
           "REF-203",
           "REF-059"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "ALT 38 U/Lの男性の例",
@@ -3169,7 +3205,8 @@
               "kind": "green"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-05",
@@ -3192,8 +3229,8 @@
           "REF-230",
           "REF-256"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3252,7 +3289,8 @@
             "afterGroup": 1,
             "alt": "再検査は状態を改めて確認し、精密検査は原因や病気を詳しく調べます。"
           }
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-06",
@@ -3278,8 +3316,8 @@
           "REF-118",
           "REF-322"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "検査値が異なる理由",
@@ -3358,7 +3396,8 @@
               "kind": "yellow"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-07",
@@ -3389,8 +3428,8 @@
           "REF-256",
           "REF-322"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3476,7 +3515,8 @@
             "afterGroup": 0,
             "alt": "基準範囲内で上下する例と、基準範囲内で一定方向に変化する例を比較した模式図。"
           }
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-08",
@@ -3496,8 +3536,8 @@
           "REF-230",
           "REF-257"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3538,7 +3578,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-09",
@@ -3581,8 +3622,8 @@
           "REF-323",
           "REF-321"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3643,7 +3684,8 @@
               "kind": "green"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-04-10",
@@ -3663,8 +3705,8 @@
           "REF-256",
           "REF-323"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3701,7 +3743,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       }
     ]
   },
@@ -3733,8 +3776,8 @@
           "REF-266",
           "REF-267"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3783,7 +3826,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-02",
@@ -3810,8 +3854,8 @@
           "REF-063",
           "REF-262"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "便潜血陽性の後",
@@ -3886,7 +3930,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-03",
@@ -3915,8 +3960,8 @@
           "REF-109",
           "REF-003"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -3965,7 +4010,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-04",
@@ -3985,8 +4031,8 @@
           "REF-258",
           "REF-262"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -4023,7 +4069,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-05",
@@ -4047,8 +4094,8 @@
           "REF-263",
           "REF-265"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -4085,7 +4132,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-06",
@@ -4120,8 +4168,8 @@
           "REF-011",
           "REF-203"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "特定保健指導の選定（概要）",
@@ -4233,7 +4281,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-07",
@@ -4261,8 +4310,8 @@
           "REF-263",
           "REF-265"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -4325,7 +4374,8 @@
             "afterGroup": 2,
             "alt": "健康状態には遺伝、食生活、身体活動、生活環境、病気や薬、年齢が関係します。"
           }
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-08",
@@ -4356,8 +4406,8 @@
           "REF-206",
           "REF-207"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "figures": [
           {
             "title": "薬剤師に相談するとき",
@@ -4473,7 +4523,8 @@
               "kind": "warning"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-09",
@@ -4502,8 +4553,8 @@
           "REF-118",
           "REF-263"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -4540,7 +4591,8 @@
               "kind": "yellow"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       },
       {
         "id": "CHECKUP-05-10",
@@ -4569,8 +4621,8 @@
           "REF-206",
           "REF-263"
         ],
-        "status": "review_required",
-        "publish": false,
+        "status": "review_complete",
+        "publish": true,
         "display": {
           "leadIndex": 0,
           "groups": [
@@ -4595,7 +4647,8 @@
               "kind": "bold"
             }
           ]
-        ]
+        ],
+        "reviewed": "2026-11-25"
       }
     ]
   }
