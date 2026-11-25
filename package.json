@@ -7,7 +7,8 @@
     "check:articles": "python3 scripts/check-articles.py",
     "check:render": "node scripts/check-render.mjs",
     "build:qa-index": "node scripts/build-qa-index.mjs",
-    "build": "npm run build:qa-index"
+    "build": "npm run build:qa-index",
+    "check:symptoms": "node scripts/check-symptoms.mjs"
   },
   "devDependencies": {
     "linkedom": "^0.18.15",
