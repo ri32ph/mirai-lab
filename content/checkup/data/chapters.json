@@ -377,27 +377,40 @@
         "publish": false,
         "figures": [
           {
-            "title": "検査結果と実際の状態",
-            "type": "table",
-            "items": [
-              [
-                "検査結果",
-                "病気がある",
-                "病気がない"
-              ],
-              [
-                "陽性",
-                "真陽性（正しく陽性）",
-                "偽陽性（病気がないのに陽性）"
-              ],
-              [
-                "陰性",
-                "偽陰性（病気があるのに陰性）",
-                "真陰性（正しく陰性）"
-              ]
-            ],
+            "title": "100人の絵で見る、検査結果と病気の有無",
+            "type": "people",
             "note": "陽性だけで病気が確定するわけではなく、陰性でも病気がないとは限りません。",
-            "afterGroup": 0
+            "afterGroup": 0,
+            "groups": [
+              {
+                "kind": "true-positive",
+                "title": "陽性・病気がある",
+                "count": 8,
+                "explanation": "検査で病気の手がかりを捉えた人",
+                "term": "用語では「真陽性」"
+              },
+              {
+                "kind": "false-positive",
+                "title": "陽性・病気はない",
+                "count": 9,
+                "explanation": "病気はないのに、陽性となった人",
+                "term": "用語では「偽陽性」"
+              },
+              {
+                "kind": "false-negative",
+                "title": "陰性・病気がある",
+                "count": 2,
+                "explanation": "病気はあるのに、陰性となった人",
+                "term": "用語では「偽陰性」"
+              },
+              {
+                "kind": "true-negative",
+                "title": "陰性・病気はない",
+                "count": 81,
+                "explanation": "病気がなく、陰性となった人",
+                "term": "用語では「真陰性」"
+              }
+            ]
           }
         ],
         "emphasis": [
