@@ -1,47 +1,60 @@
 (() => {
-  const cardSelector = [
-    'a.card',
-    'a.ad-card',
-    'a.cm-link',
-    'a.fa-card',
-    'a.h-article-card',
-    'a.h-entry-card',
-    'a.ky-card',
-    'a.medical-card',
-    'a.oa-card',
-    'a.v-card',
-    'a.tile',
-    'a.lab-card',
-  ].join(', ');
-  let pending;
+  let overlay, timer;
+  const content = document.querySelector('[data-loading-content]');
+  let waitingForContent = Boolean(content && content.dataset.contentReady !== 'true');
 
   function reset() {
-    if (!pending) return;
-    clearTimeout(pending.timer);
-    pending.label.remove();
-    pending = undefined;
+    clearTimeout(timer);
+    overlay?.remove();
+    overlay = undefined;
+  }
+
+  function show() {
+    reset();
+    overlay = document.createElement('div');
+    overlay.className = 'page-loading';
+    const panel = document.createElement('div');
+    panel.className = 'page-loading-panel';
+    const spinner = document.createElement('span');
+    spinner.className = 'page-loading-spinner';
+    spinner.setAttribute('aria-hidden', 'true');
+    const status = document.createElement('p');
+    status.setAttribute('role', 'status');
+    status.textContent = '読み込み中…';
+    const note = document.createElement('p');
+    note.className = 'page-loading-note';
+    note.textContent = 'ページを開いています。';
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.textContent = '表示を閉じる';
+    close.addEventListener('click', reset);
+    panel.append(spinner, status, note, close);
+    overlay.append(panel);
+    document.body.append(overlay);
+    // Never leave the page covered if navigation or application startup fails.
+    timer = setTimeout(reset, 10000);
   }
 
   document.addEventListener('click', event => {
     if (event.defaultPrevented || event.button !== 0 || event.metaKey ||
         event.ctrlKey || event.shiftKey || event.altKey) return;
-
-    const card = event.target.closest(cardSelector);
-    if (!card || card.hasAttribute('download') ||
-        (card.target && card.target !== '_self')) return;
-
-    const destination = new URL(card.href);
-    if (destination.protocol !== location.protocol || destination.host !== location.host ||
+    const anchor = event.target.closest('a[href]');
+    if (!anchor || anchor.hasAttribute('download') ||
+        (anchor.target && anchor.target !== '_self')) return;
+    const destination = new URL(anchor.href);
+    if (!['http:', 'https:'].includes(destination.protocol) ||
+        destination.origin !== location.origin ||
         (destination.pathname === location.pathname && destination.search === location.search)) return;
-
-    reset();
-    const label = document.createElement('span');
-    label.className = 'card-navigation-status';
-    label.setAttribute('role', 'status');
-    document.body.append(label);
-    label.textContent = '開いています…';
-    pending = { label, timer: setTimeout(reset, 10000) };
+    show();
   });
 
-  window.addEventListener('pageshow', reset);
+  window.addEventListener('mirai:content-ready', () => {
+    waitingForContent = false;
+    content?.setAttribute('aria-busy', 'false');
+    reset();
+  });
+  window.addEventListener('pageshow', event => {
+    if (event.persisted || !waitingForContent) reset();
+  });
+  if (waitingForContent) show();
 })();
