@@ -1,0 +1,120 @@
+{
+  "id": "IND-015",
+  "title": "睡眠時間と睡眠の質",
+  "description": "眠った時間と休養感、睡眠測定の限界を知りましょう。",
+  "keywords": "睡眠 不眠 睡眠時間 床上時間 睡眠効率 睡眠休養感 スマートウォッチ いびき 日中の眠気",
+  "sections": [
+    {
+      "title": "睡眠時間と床上時間は違います",
+      "text": "床上時間は夜に寝床に入ってから朝に寝床を出るまでの時間です。睡眠時間はそのうち実際に眠っていた時間です。例えば23時に寝床に入り7時に起き、寝つくまで30分、夜中に30分起きていて、朝は目覚めてすぐ寝床を出た場合、床上時間は8時間、睡眠時間は約7時間です。昼寝は別に記録すると生活全体の睡眠を振り返りやすくなります。",
+      "source_refs": [
+        1,
+        3
+      ],
+      "figure": "sleepTime"
+    },
+    {
+      "title": "必要な睡眠時間には個人差があります",
+      "text": "厚生労働省の睡眠ガイド2023では、小学生9～12時間、中学生・高校生8～10時間を参考に睡眠を確保することを勧めています。成人は6時間以上を目安に必要な睡眠を確保します。高齢者は床上時間が8時間以上にならないことを目安に必要な睡眠を確保します。高齢者の睡眠を8時間未満に制限する意味ではありません。年齢だけで機械的に区切らず、健康状態や生活に合わせて考えましょう。",
+      "source_refs": [
+        1,
+        2
+      ],
+      "figure": "sleepGoals"
+    },
+    {
+      "title": "睡眠休養感にも目を向けましょう",
+      "text": "睡眠休養感とは、睡眠によって休養が取れたと感じることです。朝のすっきり感や日中の眠気、集中しにくさ、生活への支障も振り返ってみましょう。十分に眠ったつもりでも休養感が低い場合があります。反対に休養感があっても睡眠不足がないとは限りません。時間と体調の両方が大切です。",
+      "source_refs": [
+        1,
+        2
+      ],
+      "figure": "sleepRest"
+    },
+    {
+      "title": "睡眠効率とは何でしょうか？",
+      "text": "睡眠効率は、床上時間のうち眠っていた時間の割合として計算することがあります。床上8時間で睡眠7時間なら87.5％です。研究や機器によって計算方法が異なることがあります。睡眠効率だけで睡眠の質や病気を判断することはできません。効率を上げるために自己判断で睡眠時間を削らないでください。",
+      "source_refs": [
+        3,
+        4
+      ],
+      "figure": "sleepEfficiency",
+      "tool": "sleep"
+    },
+    {
+      "title": "スマートウォッチの数字は推定値です",
+      "text": "一般的なウェアラブル機器は体の動きや脈拍などから睡眠時間や睡眠段階を推定します。静かに起きている時間を睡眠と判定することなどがあり、深い睡眠やレム睡眠の表示も医療機関の脳波などを用いた検査と同じではありません。機器ごとに精度や定義が異なります。睡眠スコアだけで病気を診断したり否定したりせず、数字に振り回されないようにしましょう。",
+      "source_refs": [
+        5,
+        6
+      ],
+      "figure": "sleepWearable"
+    },
+    {
+      "title": "無理のない範囲で睡眠を振り返りましょう",
+      "text": "寝床に入った時刻、起きた時刻、眠れたと思う時間、昼寝、朝の休養感、日中の眠気などを分かる範囲で記録しましょう。朝の光、日中の活動、寝室の環境、夕方以降のカフェインや飲酒なども振り返る手がかりです。夜中に時計を確認し続けたり、毎日の数値を完全に記録したりする必要はありません。",
+      "source_refs": [
+        1,
+        3
+      ]
+    },
+    {
+      "title": "睡眠の不調が続くときは",
+      "text": "十分な睡眠の機会があるのに眠れない、強い日中の眠気が続く、大きないびきや睡眠中の呼吸停止を指摘された、休養感が低く生活に支障がある場合は医療機関に相談しましょう。眠気が強いときは運転を避けてください。薬の影響が気になるときは医師や薬剤師に相談し、自己判断で薬を中止・増量しないでください。",
+      "source_refs": [
+        1,
+        5
+      ],
+      "related": {
+        "title": "少し動くだけで疲れるようになった",
+        "url": "../symptoms/article.html?id=SYM-008"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "厚生労働省：睡眠対策・睡眠ガイド2023",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/suimin/index.html"
+    },
+    {
+      "title": "厚生労働省：高齢者の睡眠",
+      "url": "https://kennet.mhlw.go.jp/information/information/heart/k-02-004"
+    },
+    {
+      "title": "Carney et al. Consensus Sleep Diary (2012)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3250369/"
+    },
+    {
+      "title": "Measuring Sleep Efficiency: What Should the Denominator Be?",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4751425/"
+    },
+    {
+      "title": "AASM Consumer Sleep Technology Position Statement (2018)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5940440/"
+    },
+    {
+      "title": "AASM update on consumer and clinical sleep technologies (2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8636367/"
+    }
+  ],
+  "links": [
+    {
+      "title": "大人の睡眠・休養",
+      "url": "../content/adults/sleep-rest.html"
+    },
+    {
+      "title": "高齢者の睡眠・休養",
+      "url": "../content/older-adults/sleep-rest.html"
+    },
+    {
+      "title": "子ども・若者の睡眠",
+      "url": "../content/kids-youth/sleep.html"
+    },
+    {
+      "title": "少し動くだけで疲れるようになった",
+      "url": "../symptoms/article.html?id=SYM-008"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "IND-013",
+  "title": "歩行速度とは何を表す数字？",
+  "description": "歩く速さの意味と、普段の歩き方の変化について知りましょう。",
+  "keywords": "歩行速度 通常歩行 最大歩行 歩く速さ 歩行能力 フレイル サルコペニア 身体機能",
+  "sections": [
+    {
+      "title": "歩行速度は距離を時間で割った数字です",
+      "text": "歩行速度は一定の距離を歩くのにかかった時間から求めます。例えば5mを5秒で歩くと秒速1m、時速3.6kmです。5mを10秒で歩くと秒速0.5mです。歩く速さと、一日に歩く歩数は別の指標です。",
+      "source_refs": [
+        2,
+        4
+      ],
+      "figure": "gaitFormula",
+      "tool": "gait"
+    },
+    {
+      "title": "普段の速度と最大歩行速度は異なります",
+      "text": "通常歩行速度は普段の無理のない速さ、最大歩行速度は安全に可能な範囲で速く歩く能力を評価します。測定時の指示によって数値は変わります。速く歩くことを自宅で試す必要はありません。",
+      "source_refs": [
+        2,
+        5
+      ],
+      "figure": "gaitTypes"
+    },
+    {
+      "title": "測定方法によって結果が変わります",
+      "text": "測定区間の距離、助走の有無、計時の開始位置、靴、杖などの使用条件によって結果は変わります。例えばSPPBでは4mなどの区間を普段の速さで歩きます。ほかの方法では助走区間を設ける場合があります。比較には同じ方法を用い、普段必要な歩行補助具を外さないようにしましょう。転倒の心配がある方や体調が悪い方は自分で測定せず、専門職に相談してください。",
+      "source_refs": [
+        2,
+        4,
+        5
+      ],
+      "figure": "gaitCourse"
+    },
+    {
+      "title": "筋力だけで決まる数字ではありません",
+      "text": "歩く速さには筋力だけでなく、関節の痛みや動き、バランス、神経の働き、心臓や肺の働きなども関係します。高齢者の研究では歩行速度と将来の要介護発生との関連が報告されていますが、歩行速度だけで将来を予測したり病気を診断したりすることはできません。",
+      "source_refs": [
+        1,
+        5
+      ],
+      "figure": "gaitFactors"
+    },
+    {
+      "title": "臨床での評価と日常の目安は別です",
+      "text": "AWGS 2025では歩行速度などの身体機能をサルコペニアの診断項目ではなく、身体機能の評価や経過を確認する指標として位置づけています。測定方法や年齢、評価目的が異なる数値をそのまま比較しないようにしましょう。",
+      "source_refs": [
+        3
+      ]
+    },
+    {
+      "title": "暮らしの中で以前との違いに気づく",
+      "text": "買い物までの道のりに時間がかかる、途中で休むことが増えた、家族と歩くと遅れやすくなったなどの変化も大切です。無理に速く歩く必要はありません。理由が分からない変化が続く場合は医療機関に相談しましょう。突然片側の手足に力が入らない、言葉が出にくいなどの症状がある場合は119番してください。",
+      "source_refs": [
+        1,
+        5,
+        6
+      ],
+      "emphasis": [
+        "無理に速く歩く必要はありません。"
+      ],
+      "related": {
+        "title": "以前より歩くのが遅くなった",
+        "url": "../symptoms/article.html?id=SYM-016"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "国立長寿医療研究センター：歩行速度と要介護との関連性",
+      "url": "https://www.ncgg.go.jp/ri/advice/52.html"
+    },
+    {
+      "title": "2025年 身体機能測定のDelphiコンセンサス",
+      "url": "https://doi.org/10.4235/agmr.25.0070"
+    },
+    {
+      "title": "AWGS 2025 解説論文",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13163934/"
+    },
+    {
+      "title": "SPPB：身体機能の評価（Harvard affiliated Hebrew SeniorLife）",
+      "url": "https://efrailty.hsl.harvard.edu/ToolSPPB.html"
+    },
+    {
+      "title": "健康長寿ネット：高齢者の歩行能力と病気の関連",
+      "url": "https://www.tyojyu.or.jp/NET/kenkou-tyoju/undou-kiso/hokou.html"
+    },
+    {
+      "title": "厚生労働省：こんな時は迷わず119へ",
+      "url": "https://kakarikata.mhlw.go.jp/kakaritsuke/urgency.html"
+    }
+  ],
+  "links": [
+    {
+      "title": "筋肉量と筋力は何が違う？",
+      "url": "article.html?id=IND-005"
+    },
+    {
+      "title": "握力とは何を表す数字？",
+      "url": "article.html?id=IND-012"
+    },
+    {
+      "title": "以前より歩くのが遅くなった",
+      "url": "../symptoms/article.html?id=SYM-016"
+    },
+    {
+      "title": "転倒を防ぐための工夫",
+      "url": "../content/older-adults/fall-prevention.html"
+    },
+    {
+      "title": "いつもの階段がつらくなった",
+      "url": "../symptoms/article.html?id=SYM-004"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}
