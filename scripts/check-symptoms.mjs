@@ -38,7 +38,7 @@ for(const entry of index){
 }
 for(const file of ['index.html','article.html','guide.html','memo.html']){
   const doc=new DOMParser().parseFromString(read('symptoms/'+file),'text/html');
-  assert(doc.querySelector('meta[name="robots"]').content.includes('noindex'));
+  assert(!doc.querySelector('meta[name="robots"]')?.content.includes('noindex'));
   for(const node of doc.querySelectorAll('a[href],script[src],link[href]')){
     const target=new URL(node.getAttribute('href')||node.getAttribute('src'),'https://local/symptoms/'+file);
     if(target.origin==='https://local')assert(fs.existsSync(path.join(root,target.pathname)),file+': '+target.pathname);
