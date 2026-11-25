@@ -1,16 +1,10 @@
-.card-navigation-status {
-  display: block;
-  position: fixed;
-  z-index: 1000;
-  right: 1rem;
-  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
-  pointer-events: none;
-  width: fit-content;
-  margin-block: .35em;
-  padding: .2em .65em;
-  border-radius: .7em;
-  background: #e5f0e9;
-  color: #294d40;
-  font-size: .85em;
-  font-weight: 700;
-}
+.page-loading{position:fixed;inset:0;z-index:10000;display:grid;place-items:center;padding:24px;background:rgba(244,248,243,.96);color:#344e3b}
+.page-loading-panel{box-sizing:border-box;width:min(100%,340px);padding:32px 24px;text-align:center;background:#fff;border:1px solid #cddbcf;border-radius:20px;box-shadow:0 12px 40px #294d4014}
+.page-loading-panel p[role=status]{font-size:1.25rem;font-weight:400;margin:16px 0 8px}
+.page-loading-note{font-size:1rem;margin:0 0 16px;line-height:1.6}
+.page-loading-panel button{min-height:44px;padding:8px 16px;border:1px solid #b9cdbd;border-radius:8px;background:#fff;color:#34573d;font:inherit;cursor:pointer}
+.page-loading-spinner{display:inline-block;box-sizing:border-box;width:40px;height:40px;border:4px solid #e1ebe2;border-top-color:#48664e;border-radius:50%;animation:page-loading-spin .9s linear infinite}
+.page-loading-panel button:focus-visible{outline:3px solid #725e18;outline-offset:3px}
+@keyframes page-loading-spin{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){.page-loading-spinner{animation:none;border-top-color:#48664e}}
+@media print{.page-loading{display:none!important}}

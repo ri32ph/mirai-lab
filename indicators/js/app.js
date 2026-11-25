@@ -2,7 +2,7 @@ import {calculateBMI,calculateBodyComposition,calculateWeightChange,formatSigned
 const app=document.querySelector('#app');
 const el=(tag,text,cls)=>{const n=document.createElement(tag);if(text!=null)n.textContent=text;if(cls)n.className=cls;return n;};
 const link=(title,url)=>{const a=el('a',title);a.href=url;return a;};
-async function get(path){const r=await fetch(path);if(!r.ok)throw Error('データを読み込めませんでした。');return r.json();}
+async function get(path){const controller=new AbortController();const timer=setTimeout(()=>controller.abort(),15000);try{const r=await fetch(path,{signal:controller.signal});if(!r.ok)throw Error('データを読み込めませんでした。');return await r.json();}finally{clearTimeout(timer)}}
 function field(box,title,type='number',options=[]){const label=el('label',title);const input=el(type==='select'?'select':'input');if(type==='select'){for(const text of options)input.append(el('option',text));}else{input.type='number';input.step='any';input.min='0';input.inputMode='decimal';}label.append(input);box.append(label);return input;}
 function calculator(kind){
  const box=el('div',null,'tool');box.append(el('h3',kind==='bmi'?'BMIを計算する':kind==='fat'?'体脂肪量・除脂肪量の計算例':'体重の変化を計算する'));
@@ -36,4 +36,4 @@ async function main(){const list=await get('data/articles-index.json');app.repla
  const symptomLinks=article.links.filter(x=>x.url.startsWith('../symptoms/'));if(symptomLinks.length)art.append(symptomBridge(symptomLinks));const related=el('section');related.append(el('h2','関連記事'));links(related,article.links.filter(x=>!x.url.startsWith('../symptoms/')));links(related,list.filter(x=>x.id!==id).map(x=>({title:x.title,url:'article.html?id='+x.id})));art.append(related);const refs=el('section');refs.append(el('h2','参考資料'));links(refs,article.sources);art.append(refs);app.append(art);
 }
 const fontButton=document.querySelector('#font');fontButton.addEventListener('click',()=>{const large=document.documentElement.classList.toggle('large-text');fontButton.setAttribute('aria-pressed',String(large));fontButton.textContent=large?'標準の文字に戻す':'文字を大きく A＋';});
-main().catch(error=>{app.replaceChildren(el('section',null,'panel'));const panel=app.firstChild;panel.append(el('h1','ページを表示できませんでした'),el('p',error.message),link('記事一覧へ','index.html'));});
+main().catch(error=>{app.replaceChildren(el('section',null,'panel'));const panel=app.firstChild;panel.append(el('h1','ページを表示できませんでした'),el('p','通信状況を確認して、もう一度お試しください。'),Object.assign(el('button','もう一度読み込む'),{type:'button',onclick:()=>location.reload()}),link('記事一覧へ','index.html'));}).finally(()=>{app.dataset.contentReady='true';app.setAttribute('aria-busy','false');window.dispatchEvent(new Event('mirai:content-ready'));});
