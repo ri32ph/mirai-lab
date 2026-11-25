@@ -1,0 +1,28 @@
+/* v28: compact article discovery; reading pages keep their existing spacing. */
+#app[data-page="index"] .indicator-category {
+  margin: 32px 0 2px;
+  padding: 8px 12px;
+  border: 0;
+  border-radius: 6px;
+  background: #eaf1e8;
+}
+#app[data-page="index"] .indicator-category:first-child { margin-top: 20px; }
+#app[data-page="index"] .indicator-category ~ .entry {
+  padding-block: 12.6px;
+  min-height: 44px;
+}
+#app[data-page="index"] .indicator-category ~ .entry strong {
+  display: block;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.55;
+}
+#app[data-page="index"] .indicator-category ~ .entry span {
+  margin-top: 1px;
+  line-height: 1.65;
+}
+#app[data-page="index"] .indicator-category ~ .entry::after { top: 12px; }
+@media (max-width: 600px) {
+  #app[data-page="index"] .indicator-category { margin-top: 28px; }
+  #app[data-page="index"] .indicator-category ~ .entry strong { font-size: 1.0125rem; }
+}
