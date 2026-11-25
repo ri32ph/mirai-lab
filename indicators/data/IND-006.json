@@ -61,6 +61,14 @@
     {
       "title": "体重・BMI・腹囲の健診結果を読む",
       "url": "../content/adults/checkup-weight.html"
+    },
+    {
+      "title": "以前より歩くのが遅くなった",
+      "url": "../symptoms/article.html?id=SYM-016"
+    },
+    {
+      "title": "物を落とすことが増えた",
+      "url": "../symptoms/article.html?id=SYM-017"
     }
   ],
   "reviewStatus": "review_complete",
