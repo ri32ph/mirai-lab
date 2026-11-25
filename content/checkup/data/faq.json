@@ -16,14 +16,15 @@
         "REF-288"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自覚症状がない時期にも進行する場合があります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q002",
@@ -37,8 +38,8 @@
         "REF-003"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "健康状態を把握",
@@ -48,7 +49,8 @@
           "text": "目的や内容を確認",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q003",
@@ -63,14 +65,15 @@
         "REF-004"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "施設やコースによって検査内容が異なります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q004",
@@ -87,14 +90,15 @@
         "REF-001"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "1年以内ごとに1回",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q005",
@@ -111,8 +115,8 @@
         "REF-228"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "健診に必要な項目がすべてそろっているとは限りません。",
@@ -122,7 +126,8 @@
           "text": "本人の同意のもと",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q006",
@@ -145,8 +150,8 @@
           "question": "すべて基準範囲内なら健康ということですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "病気がないことを保証するものではありません。",
@@ -156,7 +161,8 @@
           "text": "すべての病気がわかるわけではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q007",
@@ -171,14 +177,15 @@
         "REF-008"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "加入している健康保険や自治体に確認",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q008",
@@ -195,8 +202,8 @@
         "REF-287"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "事業者が負担します。",
@@ -206,7 +213,8 @@
           "text": "同じ扱いとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q009",
@@ -224,8 +232,8 @@
         "REF-244"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "必要ながん検診がすべて含まれているとは限りません。",
@@ -235,7 +243,8 @@
           "text": "対象年齢や受診間隔、検査項目",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q010",
@@ -251,8 +260,8 @@
         "REF-013"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "40～74歳",
@@ -262,7 +271,8 @@
           "text": "生活習慣病の予防",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q011",
@@ -276,8 +286,8 @@
         "REF-012"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査項目が多ければ多いほどよいとは限りません。",
@@ -291,7 +301,8 @@
           "text": "個別に推奨されるがん検診や診療上必要な検査まで不要という意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q012",
@@ -310,8 +321,8 @@
         "REF-289"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で通院や服薬を中止しないでください。",
@@ -321,7 +332,8 @@
           "text": "気になる症状がある場合は健診結果にかかわらず医療機関に相談しましょう。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q013",
@@ -336,14 +348,15 @@
         "REF-235"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "BMIだけでは判断できません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q014",
@@ -358,14 +371,15 @@
         "REF-235"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "内臓脂肪の蓄積を推測する目安です。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q015",
@@ -380,14 +394,15 @@
         "REF-270"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "次の健診を待たずに医療機関に相談しましょう。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q016",
@@ -401,14 +416,15 @@
         "REF-235"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "体格だけでなく体質、年齢、生活環境なども関係します。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q017",
@@ -421,14 +437,15 @@
         "REF-017"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "上の血圧は心臓が収縮したときの高い血圧、下の血圧は心臓が拡張しているときの低い血圧です。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q018",
@@ -443,14 +460,15 @@
         "REF-236"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "一度の測定だけでは判断できない",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q019",
@@ -465,14 +483,15 @@
         "REF-236"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "朝は起床後1時間以内で朝食・服薬前、夜は就寝前",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q020",
@@ -487,14 +506,15 @@
         "REF-237"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "主に過去1～2か月",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q021",
@@ -510,14 +530,15 @@
         "REF-015"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "HbA1cは前日の食事だけで大きく変わるものではありません。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q022",
@@ -534,14 +555,15 @@
         "REF-280"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "血糖状態の最近の変化や赤血球の寿命、出血、輸血、一部の貧血などが影響する場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q023",
@@ -556,14 +578,15 @@
         "REF-238"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "LDLとHDLはリポ蛋白粒子の種類です。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q024",
@@ -579,14 +602,15 @@
         "REF-304"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "高いほど健康によいとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q025",
@@ -604,14 +628,15 @@
         "REF-061"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "食事や飲酒の影響を受けます。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q026",
@@ -625,14 +650,15 @@
         "REF-021"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "細胞膜やホルモンなどに必要な物質です。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q027",
@@ -646,14 +672,15 @@
         "REF-023"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "肝臓の働きそのものを直接測る検査ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q028",
@@ -667,14 +694,15 @@
         "REF-023"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "ALTが30 U/Lを超えた場合",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q029",
@@ -691,14 +719,15 @@
         "REF-251"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で原因を決めつけないようにしましょう。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q030",
@@ -711,14 +740,15 @@
         "REF-024"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "腎臓のろ過能力を推算した値",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q031",
@@ -733,14 +763,15 @@
         "REF-305"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "実際のろ過能力より高く推算される場合",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q032",
@@ -754,14 +785,15 @@
         "REF-110"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "60だから腎機能が60％残っているという意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q033",
@@ -780,8 +812,8 @@
         "REF-298"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "薬によっては体格に合わせたeGFRやクレアチニンクリアランスという別の推算値を用います。",
@@ -791,7 +823,8 @@
           "text": "自己判断で薬の量を変えず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q034",
@@ -805,14 +838,15 @@
         "REF-026"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "必ず痛風になるわけではありません",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q035",
@@ -826,14 +860,15 @@
         "REF-026"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "食事だけで十分に下がるとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q036",
@@ -848,14 +883,15 @@
         "REF-269"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "酸素を全身に運ぶ役割",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q037",
@@ -871,14 +907,15 @@
         "REF-281"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で鉄を補うだけで済ませず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q038",
@@ -894,14 +931,15 @@
         "REF-299"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "感染症、炎症、身体的ストレス、ステロイド薬などでも増える場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q039",
@@ -916,14 +954,15 @@
         "REF-028"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "一時的に陽性となることもあります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q040",
@@ -939,14 +978,15 @@
         "REF-300"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "糖尿病とは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q041",
@@ -962,14 +1002,15 @@
         "REF-240"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "尿潜血陽性だけで尿に赤血球が混じっているとは断定できません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q042",
@@ -984,14 +1025,15 @@
         "REF-241"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "尿糖陽性だけで血糖管理の悪化とは判断できません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q043",
@@ -1011,8 +1053,8 @@
         "REF-242"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査時に症状がなく、心電図に変化が現れない場合もあります。",
@@ -1022,7 +1064,8 @@
           "text": "119番に通報してください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q044",
@@ -1040,14 +1083,15 @@
         "REF-242"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査中に起きていない不整脈を捉えられない場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q045",
@@ -1066,14 +1110,15 @@
         "REF-301"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "小さな病変や、心臓・横隔膜・骨と重なる病変は見つけにくい場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q046",
@@ -1091,14 +1136,15 @@
         "REF-294"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "視力がよくても視野の異常などが存在する場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q047",
@@ -1116,14 +1162,15 @@
         "REF-294"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "眼圧が正常範囲内でも緑内障になる場合",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q048",
@@ -1141,14 +1188,15 @@
         "REF-306"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "骨密度が比較的保たれていても骨折リスクが高い場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q049",
@@ -1168,14 +1216,15 @@
         "REF-302"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "異常なしという意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q050",
@@ -1189,8 +1238,8 @@
         "REF-032"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "2日法で片方だけ陽性でも精密検査が必要です。",
@@ -1200,7 +1249,8 @@
           "text": "痔があっても自己判断で原因を決めつけず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q051",
@@ -1215,8 +1265,8 @@
         "REF-248"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "がんがなくても高値になることがあり、がんがあっても高値にならないことがあります。",
@@ -1226,7 +1276,8 @@
           "text": "国が推奨するがん検診には含まれません。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q052",
@@ -1241,14 +1292,15 @@
         "REF-032"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "一度陰性でも、次回以降の検診が不要になるわけではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q053",
@@ -1264,14 +1316,15 @@
         "REF-250"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "受診する健診機関の案内を確認しましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q054",
@@ -1288,14 +1341,15 @@
         "REF-212"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "水を飲める時間や量は検査内容や健診機関によって異なります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q055",
@@ -1312,14 +1366,15 @@
         "REF-212"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "糖分がなくても制限される場合があります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q056",
@@ -1340,14 +1395,15 @@
         "REF-313"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "ガムや飴、のど飴も口にしないでください。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q057",
@@ -1362,9 +1418,10 @@
         "REF-212"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q058",
@@ -1379,14 +1436,15 @@
         "REF-250"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "飲酒した量や時刻を伝えましょう。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q059",
@@ -1405,14 +1463,15 @@
         "REF-250"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "激しい運動はAST、ALT、CKなどに影響し、数日前の運動が影響することもあります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q060",
@@ -1429,14 +1488,15 @@
         "REF-015"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "直前の食事は一部の数値に影響しますが、普段の状態を知るための健診です。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q061",
@@ -1455,14 +1515,15 @@
         "REF-318"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "一晩の寝不足で検査値がどの程度変わるかは一律にはいえません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q062",
@@ -1478,14 +1539,15 @@
         "REF-316"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "喫煙は血圧や心拍数などに影響します。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q063",
@@ -1502,9 +1564,10 @@
         "REF-210"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q064",
@@ -1521,14 +1584,15 @@
         "REF-313"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "事前に主治医",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q065",
@@ -1542,14 +1606,15 @@
         "REF-042"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で中止しないでください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q066",
@@ -1565,14 +1630,15 @@
         "REF-276"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "製品名を伝え",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q067",
@@ -1588,14 +1654,15 @@
         "REF-202"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "はい。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q068",
@@ -1612,9 +1679,10 @@
         "REF-311"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q069",
@@ -1633,9 +1701,10 @@
         "REF-211"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q070",
@@ -1650,14 +1719,15 @@
         "REF-271"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "基礎インスリンを自己判断で中止すると",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q071",
@@ -1676,8 +1746,8 @@
         "REF-314"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "注射日以外にも作用が続きます。",
@@ -1687,7 +1757,8 @@
           "text": "注射日以外の絶食時にも低血糖に注意",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q072",
@@ -1700,14 +1771,15 @@
         "REF-044"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "食事をとった後に服用",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q073",
@@ -1720,14 +1792,15 @@
         "REF-046"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "意識がはっきりしない方には無理に飲食させず、すぐに救急対応を求めてください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q074",
@@ -1742,8 +1815,8 @@
         "REF-097"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "単なる測定誤差ではありません。",
@@ -1753,7 +1826,8 @@
           "text": "使用製品を医師や薬剤師、健診施設に伝えましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q075",
@@ -1773,8 +1847,8 @@
         "REF-103"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "腎機能の異常をすべてクレアチンの影響と判断することはできません。",
@@ -1788,7 +1862,8 @@
           "text": "製品名や使用量を伝えましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q076",
@@ -1803,14 +1878,15 @@
         "REF-227"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で中止せず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q077",
@@ -1824,14 +1900,15 @@
         "REF-102"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "水を飲む前に確認してください。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q078",
@@ -1844,14 +1921,15 @@
         "REF-102"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "排尿の最初と最後を避け、途中の尿を採取する方法です。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q079",
@@ -1873,14 +1951,15 @@
           "question": "同じ日に2回採ってもよいですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "2027年4月1日から2日法を1日法に変更します。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q080",
@@ -1897,14 +1976,15 @@
         "REF-220"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "採便後は高温を避け、健診機関の指示に従って保管し、早めに提出しましょう。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q081",
@@ -1922,9 +2002,10 @@
         "REF-307"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q082",
@@ -1944,14 +2025,15 @@
         "REF-307"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "事前に確認",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q083",
@@ -1967,9 +2049,10 @@
         "REF-214"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q084",
@@ -1987,14 +2070,15 @@
         "REF-319"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "健診の申し込み時や検査前に伝えてください。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q085",
@@ -2010,14 +2094,15 @@
         "REF-320"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "特別な理由がなければ授乳制限は不要",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q086",
@@ -2034,14 +2119,15 @@
         "REF-255"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "採血前にスタッフへ伝えましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q087",
@@ -2058,14 +2144,15 @@
         "REF-254"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "気分が悪くなったらすぐにスタッフに知らせてください。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q088",
@@ -2081,14 +2168,15 @@
         "REF-310"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "機器や対応方法によっては受けられる場合があります。",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q089",
@@ -2103,8 +2191,8 @@
         "REF-274"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "原則としてセンサーを外す必要がなくなりました。",
@@ -2114,7 +2202,8 @@
           "text": "MRI検査では引き続き取り外しが必要",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q090",
@@ -2130,14 +2219,15 @@
         "REF-106"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "事前に主治医",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q091",
@@ -2152,14 +2242,15 @@
         "REF-225"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "機器ごとの撮影条件や施設の安全管理体制が必要です。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q092",
@@ -2175,8 +2266,8 @@
         "REF-226"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "取り外しが必要な場合があります。",
@@ -2186,7 +2277,8 @@
           "text": "健診機関の案内に従いましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q093",
@@ -2201,14 +2293,15 @@
         "REF-276"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査前に担当者へ伝えてください。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q094",
@@ -2227,9 +2320,10 @@
         "REF-313"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q095",
@@ -2247,9 +2341,10 @@
         "REF-220"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
-      "emphasis": []
+      "status": "review_complete",
+      "publish": true,
+      "emphasis": [],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q096",
@@ -2264,14 +2359,15 @@
         "REF-315"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "中止した分をまとめて使用しないでください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q097",
@@ -2284,14 +2380,15 @@
         "REF-056"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査当日は自動車、バイク、自転車を運転しないでください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q098",
@@ -2312,14 +2409,15 @@
         "REF-323"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "受診や再検査の時期",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q099",
@@ -2340,14 +2438,15 @@
           "question": "基準範囲から少し外れているだけでも病気ですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "範囲外だから病気、範囲内だから健康とは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q102",
@@ -2363,14 +2462,15 @@
         "REF-131"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "共用基準範囲",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q103",
@@ -2389,8 +2489,8 @@
         "REF-120"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "この値だけで特定保健指導の対象になるとは限りません。",
@@ -2404,7 +2504,8 @@
           "text": "それはその時点での評価です。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q104",
@@ -2423,14 +2524,15 @@
         "REF-131"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "この値に達しなくても受診が必要な場合があります。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q105",
@@ -2464,8 +2566,8 @@
           "question": "治療中でも健康診断の判定値を目標にするのですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "HbA1cだけで糖尿病の診断は確定できません。",
@@ -2479,7 +2581,8 @@
           "text": "HbA1cの目標下限値も参考にします。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q106",
@@ -2498,8 +2601,8 @@
         "REF-203"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "対象になるとは限りません。",
@@ -2509,7 +2612,8 @@
           "text": "腹囲やBMI",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q107",
@@ -2525,14 +2629,15 @@
         "REF-256"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "全国共通とは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q108",
@@ -2549,14 +2654,15 @@
         "REF-262"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "放置してよいという意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q109",
@@ -2573,14 +2679,15 @@
         "REF-262"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "原則として精密検査が必要かどうかで判定します。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q110",
@@ -2596,14 +2703,15 @@
         "REF-230"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "症状がなくても精密検査を受けましょう。",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q112",
@@ -2625,14 +2733,15 @@
           "question": "食事や運動などで検査値が変わることはありますか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "体の状態が変わっていなくても",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q113",
@@ -2652,14 +2761,15 @@
         "REF-322"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "以前のご自身の結果と比較すること",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q114",
@@ -2679,14 +2789,15 @@
         "REF-322"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査項目名、単位、基準範囲、測定方法、採血条件",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q115",
@@ -2702,14 +2813,15 @@
         "REF-257"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "ほかの検査や症状、経過、治療内容",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q116",
@@ -2726,14 +2838,15 @@
         "REF-266"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "自己判断で中止しないでください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q118",
@@ -2758,14 +2871,15 @@
           "question": "次の健康診断まで様子を見てもよいですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "症状がないことを理由に次の健診まで延期せず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q120",
@@ -2781,8 +2895,8 @@
         "REF-265"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "生活習慣の見直しと、必要な検査を受けることは別のことです。",
@@ -2792,7 +2906,8 @@
           "text": "自己判断で検査を延期しないでください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q121",
@@ -2808,14 +2923,15 @@
         "REF-057"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "精密検査の代わりにはなりません。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q122",
@@ -2839,14 +2955,15 @@
           "question": "かかりつけ医に健診結果を見せてもよいですか？"
         }
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "健診結果報告書を持参",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q125",
@@ -2862,8 +2979,8 @@
         "REF-205"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "報告書の受診指示",
@@ -2877,7 +2994,8 @@
           "text": "相談を待たず119番に通報してください。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q126",
@@ -2892,8 +3010,8 @@
         "REF-082"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "取り組みを支援する制度",
@@ -2903,7 +3021,8 @@
           "text": "動機付け支援と積極的支援",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q127",
@@ -2918,14 +3037,15 @@
         "REF-082"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "病気と診断されたという意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q128",
@@ -2941,8 +3061,8 @@
         "REF-203"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "ご自身の生活に合った行動計画",
@@ -2952,7 +3072,8 @@
           "text": "3か月以上経過した時点",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q129",
@@ -2968,8 +3089,8 @@
         "REF-203"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "制度上の特定保健指導の対象から除外",
@@ -2979,7 +3100,8 @@
           "text": "相談する必要がないという意味ではありません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q130",
@@ -2995,8 +3117,8 @@
         "REF-262"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "今回と過去の健診結果、お薬手帳",
@@ -3006,7 +3128,8 @@
           "text": "資格確認書とは異なり",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q131",
@@ -3020,14 +3143,15 @@
         "REF-258"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "医師が診療上必要と判断した",
           "kind": "bold"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q132",
@@ -3041,14 +3165,15 @@
         "REF-328"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "必ず薬を使用するとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q133",
@@ -3064,14 +3189,15 @@
         "REF-265"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "必要な治療を自己判断で延期せず",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q134",
@@ -3085,14 +3211,15 @@
         "REF-329"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "すべてを禁止する必要があるとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q135",
@@ -3106,8 +3233,8 @@
         "REF-077"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "家事なども身体活動です。",
@@ -3117,7 +3244,8 @@
           "text": "無理なくできること",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q136",
@@ -3134,8 +3262,8 @@
         "REF-263"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "遺伝的な要因や社会環境",
@@ -3145,7 +3273,8 @@
           "text": "ご自身の取り組みが無意味だったとは判断できません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q137",
@@ -3159,14 +3288,15 @@
         "REF-110"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "今回と過去の健診結果、お薬手帳",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q138",
@@ -3181,14 +3311,15 @@
         "REF-207"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査値だけで副作用とは判断できません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q139",
@@ -3203,14 +3334,15 @@
         "REF-207"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "定期検査の代わりにはなりません。",
           "kind": "warning"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q140",
@@ -3228,14 +3360,15 @@
         "REF-263"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "過去の結果と比較",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q141",
@@ -3248,14 +3381,15 @@
         "REF-080"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "すべての検査結果が表示されるとは限りません。",
           "kind": "yellow"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q142",
@@ -3271,14 +3405,15 @@
         "REF-263"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "報告書全体を保管",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q143",
@@ -3300,8 +3435,8 @@
         "以前は問題なかった",
         "保健指導を受けても異常なし"
       ],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "その後の指摘を無視することはおすすめできません。",
@@ -3311,7 +3446,8 @@
           "text": "毎年の結果や過去からの変化を確認",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     },
     {
       "id": "Q150",
@@ -3326,14 +3462,15 @@
         "REF-323"
       ],
       "aliases": [],
-      "status": "review_required",
-      "publish": false,
+      "status": "review_complete",
+      "publish": true,
       "emphasis": [
         {
           "text": "検査項目や手続き",
           "kind": "green"
         }
-      ]
+      ],
+      "reviewed": "2026-11-25"
     }
   ],
   "aliases": {
