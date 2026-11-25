@@ -1,0 +1,148 @@
+{
+  "id": "IND-008",
+  "title": "血圧とは何を表す数字？",
+  "description": "最高・最低血圧、脈圧、腕による違い、立ち上がったときの変化を知りましょう。",
+  "keywords": "血圧 高血圧 収縮期 拡張期 家庭血圧 脈圧 左右差 起立性低血圧 立ちくらみ 動脈硬化",
+  "sections": [
+    {
+      "title": "血圧と脈拍は異なる数字です",
+      "text": "血圧は血液が血管の壁を押す圧力です。上の血圧は心臓の拍動に伴って動脈の圧力が最も高くなったときの値、下の血圧は最も低くなったときの値を表します。脈拍は１分間に触れる脈の回数です。",
+      "source_refs": [
+        1
+      ],
+      "related": {
+        "title": "脈拍と心拍数は何が違う？",
+        "url": "article.html?id=IND-009"
+      }
+    },
+    {
+      "title": "家庭血圧と健診の血圧",
+      "text": "測定時の状況によって血圧は変化します。家庭での測定方法、健診の血圧との違い、判定の目安は健康診断ガイドで確認しましょう。",
+      "source_refs": [],
+      "related": {
+        "title": "健康診断ガイド：血圧",
+        "url": "../content/checkup/chapter.html?chapter=CHECKUP-02#CHECKUP-02-02"
+      }
+    },
+    {
+      "title": "最高血圧と最低血圧の差：脈圧",
+      "text": "脈圧は最高血圧から最低血圧を引いた値です。120/80mmHgなら40mmHgです。140/100mmHgでも脈圧は40mmHgです。脈圧だけでは血圧が適切かどうかは判断できません。",
+      "source_refs": [
+        4,
+        5
+      ],
+      "figure": "bpPulse",
+      "emphasis": [
+        "脈圧だけでは血圧が適切かどうかは判断できません。"
+      ]
+    },
+    {
+      "title": "脈圧と動脈のしなやかさ",
+      "text": "脈圧には心臓が一回に送り出す血液量や動脈のしなやかさなどが関係します。動脈が硬くなると同じ血液量でも圧力が上がりやすくなります。加齢などで脈圧が大きくなることがありますが、脈圧だけで動脈硬化を診断することはできません。全年齢に共通する正常・異常の境界として一律の脈圧を示すことはできません。",
+      "source_refs": [
+        4,
+        5
+      ],
+      "figure": "arteryElastic"
+    },
+    {
+      "title": "血圧は左右の腕で違うことがあります",
+      "text": "血圧は常に変動します。順番に測ると測定時刻の違いでも差が生じます。一方、繰り返しても同じ腕の血圧が低い場合には、その腕に血液を送る血管が狭くなっていることなどが関係する場合があります。",
+      "source_refs": [
+        2,
+        3
+      ],
+      "figure": "bpArms"
+    },
+    {
+      "title": "どちらの腕で測ればよいのでしょうか？",
+      "text": "最初は医療機関などで両腕の血圧を確認しましょう。欧州の2024年ガイドラインは最高血圧の差が10mmHgを超える場合、英国NICEは15mmHgを超える差が再測定でも続く場合に、高い方の腕をその後の測定に使う考え方を示しています。差が繰り返しみられる場合は医師に伝え、測定する腕を相談しましょう。透析用シャントなど測定を避けるよう指示されている腕では測定しないでください。",
+      "source_refs": [
+        2,
+        3
+      ]
+    },
+    {
+      "title": "脈圧と左右差を計算する",
+      "text": "測定済みの値を入力すると差を確認できます。片腕だけの入力でも脈圧を計算できます。一度の測定では持続的な左右差を判断できません。",
+      "source_refs": [
+        2,
+        3,
+        4
+      ],
+      "tool": "bp"
+    },
+    {
+      "title": "立ち上がったときの血圧変化",
+      "text": "立ち上がると重力によって血液が下半身に移動し、通常は体が血圧を保つように調節します。その調節が追いつかない場合などに血圧が下がり、めまいや立ちくらみが生じることがあります。脱水、薬、自律神経の働きなども関係します。",
+      "source_refs": [
+        2,
+        6
+      ],
+      "figure": "bpPosture"
+    },
+    {
+      "title": "起立性低血圧を確認する目安",
+      "text": "医療機関では、横になった状態などで安静にした後、立ち上がってから1分・3分などに血圧を確認します。欧州のガイドラインでは5分間の安静後、立位1分または3分で最高血圧が20mmHg以上、または最低血圧が10mmHg以上下がることを目安としています。症状があってもこの基準に当てはまらないことがあります。転倒のおそれがあるため、一人で無理に立って測定しないでください。",
+      "source_refs": [
+        2,
+        3,
+        6
+      ],
+      "emphasis": [
+        "転倒のおそれがあるため、一人で無理に立って測定しないでください。"
+      ]
+    },
+    {
+      "title": "相談したい変化・緊急時",
+      "text": "立ちくらみやふらつきが繰り返す場合は、起きる状況や薬の変更を医師・薬剤師に伝えましょう。自己判断で降圧薬などを中止・変更しないでください。突然の強い胸や背中の痛み、意識の異常、強い息苦しさがある場合は、測定を繰り返さず119番してください。",
+      "source_refs": [
+        2,
+        3,
+        6
+      ],
+      "related": {
+        "title": "最近、動悸がすることが増えた",
+        "url": "../symptoms/article.html?id=SYM-020"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "American Heart Association：心拍数と血圧の違い",
+      "url": "https://www.heart.org/en/news/2023/05/17/are-heart-rate-and-blood-pressure-the-same"
+    },
+    {
+      "title": "ESC高血圧ガイドライン2024",
+      "url": "https://doi.org/10.1093/eurheartj/ehae178"
+    },
+    {
+      "title": "NICE NG136：成人高血圧の診断と管理",
+      "url": "https://www.nice.org.uk/guidance/ng136/chapter/recommendations"
+    },
+    {
+      "title": "Wide pulse pressure: A clinical review (2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8029839/"
+    },
+    {
+      "title": "The Uses of Arterial Stiffness in Clinical Practice (2020)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7737371/"
+    },
+    {
+      "title": "AHA：高血圧患者の起立性低血圧（2024）",
+      "url": "https://professional.heart.org/en/science-news/orthostatic-hypotension-in-adults-with-hypertension/top-things-to-know"
+    }
+  ],
+  "links": [
+    {
+      "title": "健康診断ガイド：血圧",
+      "url": "../content/checkup/chapter.html?chapter=CHECKUP-02#CHECKUP-02-02"
+    },
+    {
+      "title": "最近、動悸がすることが増えた",
+      "url": "../symptoms/article.html?id=SYM-020"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

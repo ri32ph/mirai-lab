@@ -1,0 +1,144 @@
+{
+  "id": "IND-011",
+  "title": "酸素飽和度（SpO₂）とは？",
+  "description": "血液中の酸素の状態を示す数字の意味と、パルスオキシメーターの限界を知りましょう。",
+  "keywords": "SpO2 SpO₂ 酸素飽和度 酸素分圧 PaO2 SaO2 パルスオキシメーター 息切れ 呼吸困難 貧血 酸素 ヘモグロビン",
+  "sections": [
+    {
+      "title": "酸素飽和度は何の割合でしょうか？",
+      "text": "血液中のヘモグロビンは酸素を運びます。酸素飽和度とは、ヘモグロビンの酸素結合部位のうち、酸素が結合している割合を示す指標です。SpO₂は指先などから推定した動脈血の酸素飽和度です。血液中の酸素の総量を直接測る数字ではありません。",
+      "source_refs": [
+        1,
+        4,
+        5
+      ],
+      "figure": "oxygenConcept"
+    },
+    {
+      "title": "酸素分圧とは違います",
+      "text": "動脈血酸素分圧（PaO₂）は血液に溶けている酸素が示す圧力で、単位はmmHgです。酸素飽和度は％で表し、両者の関係は直線ではありません。SpO₂から酸素分圧を正確に求めることはできません。動脈血ガス検査では酸素分圧や二酸化炭素分圧などを確認できます。",
+      "source_refs": [
+        4,
+        5
+      ]
+    },
+    {
+      "title": "貧血でもSpO₂が高いことがあります",
+      "text": "貧血では酸素を運ぶヘモグロビンの量が少なくなります。酸素を結合している割合が同じでも、運べる酸素の量は少なくなり得ます。例えばヘモグロビン量が半分で酸素飽和度が同じなら、ヘモグロビンに結合している酸素量もおよそ半分です。SpO₂だけでは貧血を否定できません。",
+      "source_refs": [
+        4,
+        5
+      ],
+      "figure": "oxygenAnemia",
+      "emphasis": [
+        "SpO₂だけでは貧血を否定できません。"
+      ],
+      "related": {
+        "title": "顔色が悪いと言われるようになった",
+        "url": "../symptoms/article.html?id=SYM-009"
+      }
+    },
+    {
+      "title": "パルスオキシメーターの仕組み",
+      "text": "指先などに赤色光と赤外光を当て、酸素と結合したヘモグロビンと結合していないヘモグロビンの光の吸収の違い、脈に伴う変化を利用して酸素飽和度を推定します。脈拍も表示される機器があります。医療用途で承認・認証された機器を使用し、説明書に従いましょう。",
+      "source_refs": [
+        1,
+        2,
+        6
+      ],
+      "figure": "oxygenLight"
+    },
+    {
+      "title": "測定値に影響するもの",
+      "text": "指先が冷たい、血流が少ない、体が動く、マニキュアや人工爪、装着位置などによって測定値が不正確になることがあります。皮膚の色素の影響で実際より高く表示される場合もあります。測定値には誤差があることを知っておきましょう。",
+      "source_refs": [
+        2,
+        3,
+        6
+      ],
+      "figure": "oxygenErrors"
+    },
+    {
+      "title": "測定するときの工夫",
+      "text": "安静にして手を温め、機器の説明書に沿って装着し、体を動かさず数値が安定してから読み取ります。測定した時刻、安静時か活動後か、症状、酸素療法中なら指示された酸素流量も記録すると役立ちます。酸素流量を自己判断で変更しないでください。",
+      "source_refs": [
+        1,
+        3,
+        6
+      ],
+      "figure": "oxygenMeasure"
+    },
+    {
+      "title": "数値はどのように見ればよいのでしょうか？",
+      "text": "日本呼吸器学会では一般的な標準値を96～99％としています。ただし、肺や心臓の病気、標高などによって異なります。普段より低い値が続く場合や新たな息切れがある場合は早めに医療機関へ相談しましょう。90％以下は呼吸不全の可能性があるため、速やかに医療機関へ連絡し受診してください。慢性疾患などで個別の対応指示がある方は、その指示に従ってください。個別の指示がある方はその指示を優先します。",
+      "source_refs": [
+        1,
+        3,
+        4
+      ],
+      "related": {
+        "title": "いつもの階段がつらくなった",
+        "url": "../symptoms/article.html?id=SYM-004"
+      }
+    },
+    {
+      "title": "数値が高くても安心とは限りません",
+      "text": "SpO₂は二酸化炭素の蓄積や貧血を直接評価するものではありません。一酸化炭素中毒では通常のパルスオキシメーターが高めに表示することもあります。強い息苦しさ、胸痛、意識の異常がある場合は、数値にかかわらず119番してください。症状が強いときは測定を繰り返して対応を遅らせないでください。",
+      "source_refs": [
+        2,
+        4,
+        5
+      ],
+      "figure": "oxygenLimits",
+      "emphasis": [
+        "強い息苦しさ、胸痛、意識の異常がある場合は、数値にかかわらず119番してください。"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "日本呼吸器学会：パルスオキシメーターとは",
+      "url": "https://www.jrs.or.jp/citizen/faq/q28.html"
+    },
+    {
+      "title": "FDA：Pulse Oximeters",
+      "url": "https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters"
+    },
+    {
+      "title": "MedlinePlus：Pulse Oximetry",
+      "url": "https://medlineplus.gov/lab-tests/pulse-oximetry/"
+    },
+    {
+      "title": "British Thoracic Society oxygen guideline (2017)",
+      "url": "https://doi.org/10.1136/thoraxjnl-2016-209729"
+    },
+    {
+      "title": "Physiology, Oxygen Transport",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK538336/"
+    },
+    {
+      "title": "FDA：Pulse Oximeter Basics",
+      "url": "https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics"
+    }
+  ],
+  "links": [
+    {
+      "title": "脈拍と心拍数は何が違う？",
+      "url": "article.html?id=IND-009"
+    },
+    {
+      "title": "体の気になることを調べる",
+      "url": "../symptoms/index.html"
+    },
+    {
+      "title": "いつもの階段がつらくなった",
+      "url": "../symptoms/article.html?id=SYM-004"
+    },
+    {
+      "title": "顔色が悪いと言われるようになった",
+      "url": "../symptoms/article.html?id=SYM-009"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

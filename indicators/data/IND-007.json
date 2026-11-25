@@ -1,0 +1,52 @@
+{
+  "id": "IND-007",
+  "title": "腹囲とは何を表す数字？",
+  "description": "お腹の周囲の長さと、内臓脂肪との関係を知りましょう。",
+  "keywords": "腹囲 ウエスト 内臓脂肪 メタボ 健診",
+  "sections": [
+    {
+      "title": "腹囲から分かること",
+      "text": "腹囲はお腹の周囲の長さです。内臓脂肪の蓄積を評価する手がかりの一つですが、内臓脂肪量を直接測る数字ではありません。",
+      "source_refs": [
+        1
+      ],
+      "related": {
+        "title": "お腹が張る日が増えた",
+        "url": "../symptoms/article.html?id=SYM-015"
+      }
+    },
+    {
+      "title": "健診での測り方や基準について",
+      "text": "健診での測定方法や判定の意味は、健康診断ガイドの身体計測で詳しく説明しています。家庭で測る場合にも測定位置や条件をそろえることが大切です。",
+      "source_refs": [
+        1
+      ],
+      "related": {
+        "title": "健康診断ガイド：身体計測",
+        "url": "../content/checkup/chapter.html?chapter=CHECKUP-02#CHECKUP-02-01"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "title": "厚生労働省：標準的な健診・保健指導プログラム（令和6年度版）",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000194155_00004.html"
+    }
+  ],
+  "links": [
+    {
+      "title": "BMIで分かること・分からないこと",
+      "url": "article.html?id=IND-002"
+    },
+    {
+      "title": "健康診断ガイド：身体計測",
+      "url": "../content/checkup/chapter.html?chapter=CHECKUP-02#CHECKUP-02-01"
+    },
+    {
+      "title": "お腹が張る日が増えた",
+      "url": "../symptoms/article.html?id=SYM-015"
+    }
+  ],
+  "reviewStatus": "review_complete",
+  "reviewed": "2026-11-25"
+}

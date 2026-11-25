@@ -1,0 +1,21 @@
+'use strict';
+(function(){
+const specs={
+ bp:{title:'血圧',fields:['最高血圧（mmHg）','最低血圧（mmHg）','測定した腕','姿勢・安静時間・測定機器']},
+ pulse:{title:'脈拍',fields:['脈拍数（回/分）','脈のリズム（気づいたこと）','安静時・活動後など']},
+ temp:{title:'体温',fields:['体温（℃）','測定部位・体温計','測定前の活動・環境']},
+ spo:{title:'酸素飽和度（SpO₂）',fields:['SpO₂（％）','酸素療法の有無・指示された流量（該当する場合）','安静時・活動後・測定した指など']},
+ grip:{title:'握力',fields:['右手（kg）','左手（kg）','機器・姿勢・測定回数・集計方法']},
+ walk:{title:'歩行速度',fields:['測定距離（m）','測定時間（秒）','通常歩行・最大歩行の別','助走・補助具・測定条件']},
+ steps:{title:'歩数',fields:['歩数（歩）','測定期間・機器・装着状況','歩数以外の活動']},
+ sleep:{title:'睡眠',fields:['寝床に入った時刻','寝床から出た時刻','推定睡眠時間','途中で目が覚めた時間・休養感・日中の眠気']}
+};
+const forArticle={'IND-008':'bp','IND-009':'pulse','IND-010':'temp','IND-011':'spo','IND-012':'grip','IND-013':'walk','IND-014':'steps','IND-015':'sleep'};
+function formatMemo(title,records,context){const lines=[title+'の相談用メモ'];for(const [i,r] of records.entries()){const filled=Object.entries(r).filter(([,v])=>String(v).trim());if(filled.length)lines.push('記録 '+(i+1)+'\n'+filled.map(([k,v])=>k+'：'+String(v).trim()).join('\n'));}if(context.trim())lines.push('相談したいこと：'+context.trim());return lines.length>1?lines.join('\n\n'):'';}
+function build(initial){const make=(tag,t,cls)=>{const e=document.createElement(tag);if(t)e.textContent=t;if(cls)e.className=cls;return e};const root=make('section',null,'tool measurement-memo');const fold=make('details');fold.append(make('summary','必要なときに相談用メモを作る'));root.append(fold);fold.append(make('p','分かる範囲で記録してください。測定や記録がなくても相談できます。強い息苦しさ、胸痛、意識の異常などがあるときは、記録より救急対応を優先してください。'));
+const field=(parent,label,type='text')=>{const l=make('label',label),n=make(type==='textarea'?'textarea':type==='select'?'select':'input');if(n.tagName==='INPUT')n.type=type;if(type==='textarea')n.rows=2;l.append(n);parent.append(l);return n};
+const select=field(fold,'記録する数字','select');for(const [key,s] of Object.entries(specs)){const opt=make('option',s.title);opt.value=key;select.append(opt)}select.value=initial||'bp';let key=select.value,rows=[];const holder=make('div');fold.append(holder);const button=(parent,t,fn)=>{const b=make('button',t);b.type='button';b.addEventListener('click',fn);parent.append(b);return b};const actions=make('div',null,'calc-actions');fold.append(actions);const context=field(fold,'相談したいこと（任意）','textarea');const out=field(fold,'相談用メモ（コピー用）','textarea');out.readOnly=true;out.rows=8;const status=make('p',null,'source-note');status.setAttribute('role','status');fold.append(status);
+function invalidate(){out.value='';status.textContent='';}function data(){return rows.map(r=>Object.fromEntries(r.fields.map(([label,n])=>[label,n.value])))}function add(){const row=make('div',null,'memo-row');const fields=[];for(const [label,type] of [['測定日','date'],['測定時刻','time'],...specs[key].fields.map(s=>[s,'text']),['体調・生活の変化','textarea']]){const n=field(row,label+'（任意）',type);fields.push([label,n]);n.addEventListener('input',invalidate)}const r={row,fields};rows.push(r);button(row,'この記録を削除',()=>{if(fields.some(([,n])=>n.value.trim())&&!window.confirm('この記録を削除しますか？'))return;rows=rows.filter(x=>x!==r);row.remove();invalidate();if(!rows.length)add()});holder.append(row)}
+function reset(){holder.replaceChildren();rows=[];context.value='';invalidate();add()}select.addEventListener('change',()=>{if((data().some(r=>Object.values(r).some(v=>v.trim()))||context.value.trim())&&!window.confirm('記録する項目を変更すると現在の入力は消去されます。変更しますか？')){select.value=key;return}key=select.value;reset()});context.addEventListener('input',invalidate);button(actions,'記録を追加',()=>{add();invalidate();rows.at(-1).fields[0][1].focus()});button(actions,'すべて消去',()=>{if(window.confirm('入力した記録をすべて消去しますか？'))reset()});button(fold,'相談用メモを作る',()=>{out.value=formatMemo(specs[key].title,data(),context.value);status.textContent=out.value?'メモを作成しました。':'記録または相談したいことを入力してください。'});button(fold,'コピーする',async()=>{if(!out.value){status.textContent='先にメモを作成してください。';return}try{await navigator.clipboard.writeText(out.value);status.textContent='コピーしました。'}catch(e){out.focus();out.select();status.textContent='選択した文章を手動でコピーしてください。'}});fold.append(make('p','入力内容はこのページ内だけで使用し、保存・送信しません。ページを離れると消去されます。コピー先の管理にご注意ください。数値の正常・異常を判定する機能ではありません。','source-note'));add();window.addEventListener('pagehide',reset);return root;}
+window.MiraiMeasurementMemo={build,forArticle,formatMemo,specs};
+})();

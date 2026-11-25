@@ -5,24 +5,69 @@
   "sections": [
     {
       "title": "体重は体脂肪の重さではありません",
-      "text": "体重には筋肉、脂肪、骨、内臓などが含まれます。水分は筋肉や内臓などにも含まれます。胃や腸の中の食べ物も測定値に影響します。体重だけでは何が増減したか分かりません。",
-      "figure": "composition"
+      "text": "体重には筋肉、脂肪、骨、内臓などが含まれます。水分は筋肉や内臓などにも含まれるため、筋肉量などに水分量をそのまま足すことはできません。胃や腸の中の食べ物も測定値に影響します。体重だけでは何が増減したか分かりません。",
+      "figure": "composition",
+      "emphasis": [
+        "体重だけでは何が増減したか分かりません。"
+      ],
+      "related": {
+        "title": "BMIで分かること・分からないこと",
+        "url": "article.html?id=IND-002"
+      },
+      "source_refs": [
+        1
+      ]
     },
     {
       "title": "なぜ毎日変わるのでしょうか？",
-      "text": "食事、水分摂取、排尿、排便、発汗などによって体重は変動します。一度の増減が体脂肪の増減を意味するわけではありません。"
+      "text": "食事、水分摂取、排尿、排便、発汗などによって体重は変動します。一度の増減が体脂肪の増減を意味するわけではありません。",
+      "figure": "daily",
+      "emphasis": [
+        "一度の増減が体脂肪の増減を意味するわけではありません。"
+      ],
+      "source_refs": [
+        1
+      ]
     },
     {
       "title": "同じ条件で比較しましょう",
-      "text": "硬く平らな床で同じ体重計を使い、朝の排尿後・朝食前など、同じ時間帯と似た衣服で測定しましょう。日付と体重を記録すると比較に役立ちます。治療上の指示がある場合はその指示に従ってください。"
+      "text": "硬く平らな床で同じ体重計を使い、朝の排尿後・朝食前など、同じ時間帯と似た衣服で測定しましょう。日付と体重を記録すると比較に役立ちます。治療上の指示がある場合はその指示に従ってください。",
+      "figure": "measure",
+      "emphasis": [
+        "同じ時間帯"
+      ],
+      "source_refs": [
+        3,
+        4
+      ]
     },
     {
       "title": "一度の数字より変化にも注目",
-      "text": "過去の健診結果も活用できます。意図せず減り続ける場合は記録だけで済ませず、医療機関に相談しましょう。"
+      "text": "過去の健診結果も活用できます。意図せず減り続ける場合は記録だけで済ませず、医療機関に相談しましょう。 原因の分からない急な増加や、むくみ・息切れがある場合も、記録だけで済ませないでください。",
+      "figure": "trend",
+      "emphasis": [
+        "医療機関に相談しましょう。"
+      ],
+      "related": {
+        "title": "体重の変化を割合で見る",
+        "url": "article.html?id=IND-003"
+      },
+      "source_refs": [
+        2,
+        5
+      ]
     },
     {
       "title": "体重だけでは分からないこと",
-      "text": "同じ体重でも身長や体組成、筋力は異なります。食事や体調、日常生活の動きにも目を向けましょう。"
+      "text": "同じ体重でも身長や体組成、筋力は異なります。食事や体調、日常生活の動きにも目を向けましょう。",
+      "emphasis": [],
+      "source_refs": [
+        1
+      ],
+      "related": {
+        "title": "靴下の跡がなかなか消えなくなった",
+        "url": "../symptoms/article.html?id=SYM-002"
+      }
     }
   ],
   "sources": [
@@ -33,6 +78,18 @@
     {
       "title": "NHS：意図しない体重減少",
       "url": "https://www.nhs.uk/symptoms/unintentional-weight-loss/"
+    },
+    {
+      "title": "NHS England：体重測定の方法",
+      "url": "https://www.england.nhs.uk/long-read/how-to-record-your-weight/"
+    },
+    {
+      "title": "East Lancashire Hospitals NHS Trust：体重測定条件",
+      "url": "https://elht.nhs.uk/services/dietetics/body-measuring-techniques"
+    },
+    {
+      "title": "国立循環器病研究センター：心不全",
+      "url": "https://www.ncvc.go.jp/hospital/pub/knowledge/disease/heart-failure/"
     }
   ],
   "links": [
@@ -45,10 +102,19 @@
       "url": "../symptoms/article.html?id=SYM-003"
     },
     {
+      "title": "健康診断ガイド：身体計測",
+      "url": "../content/checkup/chapter.html?chapter=CHECKUP-02#CHECKUP-02-01"
+    },
+    {
+      "title": "靴下の跡がなかなか消えなくなった",
+      "url": "../symptoms/article.html?id=SYM-002"
+    },
+    {
       "title": "体重・BMI・腹囲の健診結果を読む",
       "url": "../content/adults/checkup-weight.html"
     }
   ],
   "reviewStatus": "review_complete",
+  "keywords": "体重 体重計 水分 測定",
   "reviewed": "2026-11-25"
 }

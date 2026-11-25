@@ -641,6 +641,10 @@
           {
             "title": "体脂肪率とは？",
             "url": "../../indicators/article.html?id=IND-004"
+          },
+          {
+            "title": "腹囲とは何を表す数字？",
+            "url": "../../indicators/article.html?id=IND-007"
           }
         ]
       },
@@ -739,7 +743,13 @@
             ]
           ]
         },
-        "reviewed": "2026-11-25"
+        "reviewed": "2026-11-25",
+        "related_guides": [
+          {
+            "title": "血圧とは何を表す数字？",
+            "url": "../../indicators/article.html?id=IND-008"
+          }
+        ]
       },
       {
         "id": "CHECKUP-02-03",
