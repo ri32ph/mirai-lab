@@ -71,7 +71,7 @@ header{position:sticky;top:0;z-index:20;padding-block:8px;gap:4px 16px;box-shado
 .home-results .illustrated-cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:24px}
 .home-results .article-card{gap:10px;padding:11px 0;min-height:68px}
 .home-results .article-card img{width:85px}
-.home-results .card-copy strong{font-size:15px}
+.home-results .card-copy strong{font-size:1.25rem;font-weight:400;line-height:1.65}
 .home-results .card-arrow{font-size:18px}
 .home-combinations>details{margin:0;padding:0;border:0}
 .home-combinations>details>summary{font-size:17px}
@@ -125,3 +125,6 @@ html.site-large{font-size:125%}html.site-large body{font-size:1.0625rem}html.sit
 /* Print every FAQ answer without depending on disclosure print support. */
 .print-faq{display:none}
 @media print{.article-faq>details{display:none}.article-faq>.print-faq{display:block}.print-faq-item{break-inside:avoid}.print-faq h3{font-size:1em;margin:16px 0 8px}}
+
+@media(max-width:520px){.home-results .card-copy strong{font-size:1.125rem}}
+html.site-large .home-results .card-copy strong{font-size:1.25rem}
