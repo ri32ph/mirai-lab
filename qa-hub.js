@@ -6,7 +6,7 @@ const sources={ 'medicine-guide':['timing','how-to-take','forms','continue','saf
 'older-adults':['acp','eating-well','fall-prevention','medication-management','nutrition-ideas','sleep-rest','social-connection'].map(x=>'content/older-adults/'+x+'.html'),
 'family':['care-support','caregiver-wellbeing','child-medicine','child-wellbeing','daily-changes','family-medication'].map(x=>'content/family/'+x+'.html')};
 sources.symptoms=Array.from({length:20},(_,i)=>'symptoms/data/SYM-'+String(i+1).padStart(3,'0')+'.json');
-sources.symptoms.push('symptoms/breast-awareness.html');
+sources.symptoms.push('symptoms/breast-awareness.html','symptoms/oral-awareness.html','symptoms/skin-awareness.html','symptoms/foot-awareness.html');
 sources.indicators=Array.from({length:15},(_,i)=>'indicators/data/IND-'+String(i+1).padStart(3,'0')+'.json');
 const labels={'medicine-guide':'薬・市販薬・サプリメント','children-medicine':'子どものお薬','kids-youth':'子ども・若者',adults:'大人','older-adults':'高齢者',family:'家族・支援者',symptoms:'体の気になること',indicators:'体の数字'};
 const groups={'飲み方・使い方':/飲み|服用|粉薬|シロップ|錠剤|カプセル|坐薬|目薬|塗り薬|食前|食後|食間|補助具|薬袋|剤形/,'副作用・安全':/副作用|発疹|アレルギー|誤飲|過量|中毒|飲み合わせ|眠気|転倒|危険|事故|保管/,'発熱・感染症':/熱|解熱|感染|かぜ|咳|鼻水|抗菌薬|インフル/,'食事・栄養':/食事|栄養|食欲|朝食|食べ|飲食|嚥下|水分|便秘|下痢|嘔吐/,'睡眠・休養':/睡眠|眠れ|不眠|休養|寝る|眠気/,'こころ・発達':/こころ|気持ち|不安|発達|メンタル|嫌が|褒め|ストレス/,'性・ワクチン':/HPV|ワクチン|性の|妊娠|避妊|月経/,'生活・セルフケア':/運動|健康|生活|習慣|歯|口腔|デジタル|スマホ|スクリーン|学校|スポーツ|外出|旅行/,'相談・支援':/相談|受診|救急|病院|薬局|家族|支援|介護|お薬手帳|ACP/};

@@ -131,3 +131,5 @@ html.site-large .home-results .card-copy strong{font-size:1.25rem}
 
 /* Connect everyday changes with the meaning of body measurements. */
 .body-connection{margin:28px 0;padding:clamp(20px,4vw,32px);border:1px solid #b9cdbd;border-radius:16px;background:#f3f7f1;color:#303b32}.body-connection h2{margin:0 0 12px}.body-connection .eyebrow{margin:0 0 8px;color:#48664e}.body-connection ul{padding-left:1.3em}.body-connection li{margin:8px 0}.body-connection a{display:inline-block;padding:8px 0;line-height:1.6;color:#34573d;text-underline-offset:4px;font-weight:400}.body-connection> a{margin-top:8px}
+
+#self-care{scroll-margin-top:12px}.home-self-care .guide-grid{grid-template-columns:1fr;gap:10px}.home-self-care .guide-tile{padding:14px 16px}.home-self-care .guide-tile strong{font-size:1.12rem;font-weight:400}.home-self-care .guide-tile span{font-size:.9rem;line-height:1.7}

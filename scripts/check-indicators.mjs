@@ -17,7 +17,7 @@ for(const item of index){const article=read('indicators/data/'+item.id+'.json');
 const home=fs.readFileSync(path.join(root,'index.html'),'utf8');assert.ok(home.indexOf('id="symptoms-menu"')<home.indexOf('id="checkup-menu"'));assert.ok(home.indexOf('id="checkup-menu"')<home.indexOf('id="indicators-menu"'));
 for(const id of ['001','003','016','017'])assert.ok(read('symptoms/data/SYM-'+id+'.json').site_links.some(link=>link.url.includes('../indicators/')));
 const chapters=read('content/checkup/data/chapters.json');assert.ok(chapters.find(c=>c.id==='CHECKUP-02').sections.find(s=>s.id==='CHECKUP-02-01').related_guides.some(x=>x.url.includes('/indicators/')));
-const context=vm.createContext({window:{}});vm.runInContext(fs.readFileSync(path.join(root,'qa-index.js'),'utf8'),context);const entries=context.window.MIRAI_QA_INDEX;assert.equal(entries.filter(x=>x.field==='indicators').length,15);assert.equal(entries.filter(x=>x.field==='symptoms').length,81);assert.equal(new Set(entries.map(x=>x.id)).size,entries.length);
+const context=vm.createContext({window:{}});vm.runInContext(fs.readFileSync(path.join(root,'qa-index.js'),'utf8'),context);const entries=context.window.MIRAI_QA_INDEX;assert.equal(entries.filter(x=>x.field==='indicators').length,15);assert.equal(entries.filter(x=>x.field==='symptoms').length,84);assert.equal(new Set(entries.map(x=>x.id)).size,entries.length);
 console.log('PASS: 3 calculators, invalid/extreme inputs, signed rounding, 15 articles, related routes and homepage order');
 
 const {calcValues}=await import('../indicators/js/calculator-values.js');

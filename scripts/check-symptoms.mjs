@@ -13,9 +13,9 @@ assert.equal(index.length,20);assert.equal(ids.size,20);
 const context=vm.createContext({window:{}});
 vm.runInContext(read('qa-index.js'),context);
 const entries=context.window.MIRAI_QA_INDEX.filter(item=>item.field==='symptoms');
-assert.equal(entries.filter(item=>item.kind==='article').length,21);
+assert.equal(entries.filter(item=>item.kind==='article').length,24);
 assert.equal(entries.filter(item=>item.kind==='qa').length,60);
-assert.equal(new Set(entries.map(item=>item.id)).size,81);
+assert.equal(new Set(entries.map(item=>item.id)).size,84);
 for(const entry of index){
   const article=JSON.parse(read('symptoms/data/'+entry.id+'.json'));
   for(const key of ['id','title','topic','groups','keywords','related'])assert.deepEqual(article[key],entry[key],entry.id+': '+key);
@@ -47,4 +47,4 @@ for(const file of ['index.html','article.html','guide.html','memo.html']){
 const doc=new DOMParser().parseFromString(read('find.html'),'text/html');
 assert.equal(doc.querySelector('#find-form').getAttribute('action'),'qa.html');
 assert(doc.querySelector('form[action="symptoms/index.html"] input[name="q"]'));
-console.log('PASS: 20 symptom articles, 60 contextual Q&A entries, 1 self-care guide, related routes and search integration');
+console.log('PASS: 20 symptom articles, 60 contextual Q&A entries, 4 self-care guides, related routes and search integration');
